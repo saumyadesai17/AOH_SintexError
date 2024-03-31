@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7; /* Light gray background */
+}
+
+.container {
+    width: 100%;
+    max-width: 800px; /* Limit width to 800px */
+    margin: 50px auto; /* Center the container */
+    background-color: #fff; /* White background */
+    padding: 20px;
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+}
+
+.header {
+    text-align: center;
+    color: #333; /* Dark gray text color */
+}
+
+.project-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.project-item {
+    border-bottom: 1px solid #ccc; /* Light gray border between items */
+    padding: 15px 0;
+}
+
+.project-header {
+    font-size: 18px;
+    color: #007bff; /* Blue project header */
+}
+
+.project-details {
+    margin-top: 10px;
+    padding-left: 20px;
+}

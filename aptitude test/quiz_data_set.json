@@ -1,0 +1,1011 @@
+{
+    "result": {
+      "quizzes": [
+        {
+          "questions": [
+            {
+              "id": "1",
+              "text": "What is the next number in the series: 3, 8, 15, 24, _?",
+              "options": [
+                {"value": "a", "detail": "35", "correct": false},
+                {"value": "b", "detail": "36", "correct": false},
+                {"value": "c", "detail": "37", "correct": true},
+                {"value": "d", "detail": "38", "correct": false}
+              ]
+            },
+            {
+              "id": "2",
+              "text": "If a car travels 120 miles in 2 hours, what is its average speed in miles per hour?",
+              "options": [
+                {"value": "a", "detail": "55", "correct": false},
+                {"value": "b", "detail": "60", "correct": true},
+                {"value": "c", "detail": "65", "correct": false},
+                {"value": "d", "detail": "70", "correct": false}
+              ]
+            },
+            {
+              "id": "3",
+              "text": "What is the value of 3^4 - 2^3 + 5^2?",
+              "options": [
+                {"value": "a", "detail": "77", "correct": true},
+                {"value": "b", "detail": "81", "correct": false},
+                {"value": "c", "detail": "85", "correct": false},
+                {"value": "d", "detail": "89", "correct": false}
+              ]
+            },
+            {
+              "id": "4",
+              "text": "Find the missing term in the series: 2, 6, 12, 20, _, 42.",
+              "options": [
+                {"value": "a", "detail": "28", "correct": false},
+                {"value": "b", "detail": "30", "correct": true},
+                {"value": "c", "detail": "32", "correct": false},
+                {"value": "d", "detail": "36", "correct": false}
+              ]
+            },
+            {
+              "id": "5",
+              "text": "If x + 3 = 7, what is the value of 2x + 5?",
+              "options": [
+                {"value": "a", "detail": "9", "correct": false},
+                {"value": "b", "detail": "11", "correct": true},
+                {"value": "c", "detail": "13", "correct": false},
+                {"value": "d", "detail": "15", "correct": false}
+              ]
+            },
+            {
+              "id": "6",
+              "text": "If 2/3 of a number is 8, what is the number?",
+              "options": [
+                {"value": "a", "detail": "9", "correct": false},
+                {"value": "b", "detail": "12", "correct": true},
+                {"value": "c", "detail": "15", "correct": false},
+                {"value": "d", "detail": "18", "correct": false}
+              ]
+            },
+            {
+              "id": "7",
+              "text": "What is the smallest prime number greater than 100?",
+              "options": [
+                {"value": "a", "detail": "101", "correct": true},
+                {"value": "b", "detail": "103", "correct": false},
+                {"value": "c", "detail": "107", "correct": false},
+                {"value": "d", "detail": "109", "correct": false}
+              ]
+            },
+            {
+              "id": "8",
+              "text": "If 2^x = 64, what is the value of x?",
+              "options": [
+                {"value": "a", "detail": "3", "correct": true},
+                {"value": "b", "detail": "4", "correct": false},
+                {"value": "c", "detail": "5", "correct": false},
+                {"value": "d", "detail": "6", "correct": false}
+              ]
+            },
+            {
+              "id": "9",
+              "text": "What is the sum of the first 20 even numbers?",
+              "options": [
+                {"value": "a", "detail": "380", "correct": true},
+                {"value": "b", "detail": "400", "correct": false},
+                {"value": "c", "detail": "420", "correct": false},
+                {"value": "d", "detail": "440", "correct": false}
+              ]
+            },
+            {
+              "id": "10",
+              "text": "If log(a) = 2 and log(b) = 3, what is the value of log(a*b)?",
+              "options": [
+                {"value": "a", "detail": "5", "correct": true},
+                {"value": "b", "detail": "6", "correct": false},
+                {"value": "c", "detail": "7", "correct": false},
+                {"value": "d", "detail": "8", "correct": false}
+              ]
+            },
+            {
+                "id": "11",
+                "text": "If 3x - 7 = 20, what is the value of x?",
+                "options": [
+                  {"value": "a", "detail": "9", "correct": false},
+                  {"value": "b", "detail": "10", "correct": true},
+                  {"value": "c", "detail": "11", "correct": false},
+                  {"value": "d", "detail": "12", "correct": false}
+                ]
+              },
+              {
+                "id": "12",
+                "text": "What is the next number in the series: 29, 31, 37, 49, _?",
+                "options": [
+                  {"value": "a", "detail": "63", "correct": false},
+                  {"value": "b", "detail": "67", "correct": true},
+                  {"value": "c", "detail": "71", "correct": false},
+                  {"value": "d", "detail": "73", "correct": false}
+                ]
+              },
+              {
+                "id": "13",
+                "text": "If a square has an area of 64 square units, what is its perimeter?",
+                "options": [
+                  {"value": "a", "detail": "16 units", "correct": false},
+                  {"value": "b", "detail": "24 units", "correct": false},
+                  {"value": "c", "detail": "32 units", "correct": true},
+                  {"value": "d", "detail": "40 units", "correct": false}
+                ]
+              },
+              {
+                "id": "14",
+                "text": "What is the 15th term of the Fibonacci sequence?",
+                "options": [
+                  {"value": "a", "detail": "377", "correct": true},
+                  {"value": "b", "detail": "418", "correct": false},
+                  {"value": "c", "detail": "461", "correct": false},
+                  {"value": "d", "detail": "504", "correct": false}
+                ]
+              },
+              {
+                "id": "15",
+                "text": "If 4x + 7 = 19, what is the value of x?",
+                "options": [
+                  {"value": "a", "detail": "3", "correct": false},
+                  {"value": "b", "detail": "4", "correct": true},
+                  {"value": "c", "detail": "5", "correct": false},
+                  {"value": "d", "detail": "6", "correct": false}
+                ]
+              },
+              {
+                "id": "16",
+                "text": "What is the sum of the first 10 natural numbers?",
+                "options": [
+                  {"value": "a", "detail": "45", "correct": true},
+                  {"value": "b", "detail": "50", "correct": false},
+                  {"value": "c", "detail": "55", "correct": false},
+                  {"value": "d", "detail": "60", "correct": false}
+                ]
+              },
+              {
+                "id": "17",
+                "text": "If 2x + 5 = 17, what is the value of x?",
+                "options": [
+                  {"value": "a", "detail": "6", "correct": false},
+                  {"value": "b", "detail": "7", "correct": true},
+                  {"value": "c", "detail": "8", "correct": false},
+                  {"value": "d", "detail": "9", "correct": false}
+                ]
+              },
+              {
+                "id": "18",
+                "text": "What is the value of 2^6 + 3^4?",
+                "options": [
+                  {"value": "a", "detail": "60", "correct": false},
+                  {"value": "b", "detail": "67", "correct": false},
+                  {"value": "c", "detail": "76", "correct": true},
+                  {"value": "d", "detail": "85", "correct": false}
+                ]
+              },
+              {
+                "id": "19",
+                "text": "Find the area of a triangle with base 8 units and height 10 units.",
+                "options": [
+                  {"value": "a", "detail": "40 square units", "correct": true},
+                  {"value": "b", "detail": "48 square units", "correct": false},
+                  {"value": "c", "detail": "56 square units", "correct": false},
+                  {"value": "d", "detail": "64 square units", "correct": false}
+                ]
+              },
+              {
+                "id": "20",
+                "text": "If log(x) = 3 and log(y) = 4, what is the value of log(x*y)?",
+                "options": [
+                  {"value": "a", "detail": "6", "correct": true},
+                  {"value": "b", "detail": "7", "correct": false},
+                  {"value": "c", "detail": "8", "correct": false},
+                  {"value": "d", "detail": "9", "correct": false}
+                ]
+              },
+              {
+                "id": "21",
+                "text": "What is the value of (3^2 + 4^2) / (3^2 - 4^2)?",
+                "options": [
+                  {"value": "a", "detail": "7/5", "correct": true},
+                  {"value": "b", "detail": "5/7", "correct": false},
+                  {"value": "c", "detail": "1/5", "correct": false},
+                  {"value": "d", "detail": "5/3", "correct": false}
+                ]
+              },
+              {
+                "id": "22",
+                "text": "What is the value of sin(45°) * cos(45°)?",
+                "options": [
+                  {"value": "a", "detail": "0.5", "correct": false},
+                  {"value": "b", "detail": "0.25", "correct": false},
+                  {"value": "c", "detail": "0.75", "correct": true},
+                  {"value": "d", "detail": "1", "correct": false}
+                ]
+              },
+              {
+                "id": "23",
+                "text": "If x^2 + 4x + 4 = 0, what is the value of x?",
+                "options": [
+                  {"value": "a", "detail": "2", "correct": true},
+                  {"value": "b", "detail": "-2", "correct": false},
+                  {"value": "c", "detail": "0", "correct": false},
+                  {"value": "d", "detail": "4", "correct": false}
+                ]
+              },
+              {
+                "id": "24",
+                "text": "What is the value of log(2^(x+1)) - log(2^x)?",
+                "options": [
+                  {"value": "a", "detail": "1", "correct": false},
+                  {"value": "b", "detail": "2", "correct": true},
+                  {"value": "c", "detail": "x", "correct": false},
+                  {"value": "d", "detail": "0", "correct": false}
+                ]
+              },
+              {
+                "id": "25",
+                "text": "If the sum of three consecutive even numbers is 60, what is the largest number?",
+                "options": [
+                  {"value": "a", "detail": "20", "correct": false},
+                  {"value": "b", "detail": "22", "correct": false},
+                  {"value": "c", "detail": "24", "correct": true},
+                  {"value": "d", "detail": "26", "correct": false}
+                ]
+              },
+              {
+                "id": "26",
+                "text": "What is the value of tan(60°) - cot(60°)?",
+                "options": [
+                  {"value": "a", "detail": "1", "correct": false},
+                  {"value": "b", "detail": "2", "correct": true},
+                  {"value": "c", "detail": "3", "correct": false},
+                  {"value": "d", "detail": "4", "correct": false}
+                ]
+              },
+              {
+                "id": "27",
+                "text": "If 2x + 3y = 15 and 3x + 2y = 16, what is the value of x + y?",
+                "options": [
+                  {"value": "a", "detail": "5", "correct": true},
+                  {"value": "b", "detail": "6", "correct": false},
+                  {"value": "c", "detail": "7", "correct": false},
+                  {"value": "d", "detail": "8", "correct": false}
+                ]
+              },
+              {
+                "id": "28",
+                "text": "What is the sum of the first 10 natural numbers multiplied by 2?",
+                "options": [
+                  {"value": "a", "detail": "100", "correct": false},
+                  {"value": "b", "detail": "110", "correct": true},
+                  {"value": "c", "detail": "120", "correct": false},
+                  {"value": "d", "detail": "130", "correct": false}
+                ]
+              },
+              {
+                "id": "29",
+                "text": "If 4x + 5y = 35 and 3x - 2y = 5, what is the value of x - y?",
+                "options": [
+                  {"value": "a", "detail": "5", "correct": false},
+                  {"value": "b", "detail": "6", "correct": true},
+                  {"value": "c", "detail": "7", "correct": false},
+                  {"value": "d", "detail": "8", "correct": false}
+                ]
+              },
+              {
+                "id": "30",
+                "text": "What is the value of (1 - cos^2(30°)) / (1 + sin^2(60°))?",
+                "options": [
+                  {"value": "a", "detail": "0.5", "correct": false},
+                  {"value": "b", "detail": "0.75", "correct": true},
+                  {"value": "c", "detail": "1", "correct": false},
+                  {"value": "d", "detail": "1.5", "correct": false}
+                ]
+              },
+              {
+                "id": "31",
+                "text": "What is the value of log(√(10^4))?",
+                "options": [
+                  {"value": "a", "detail": "2", "correct": true},
+                  {"value": "b", "detail": "3", "correct": false},
+                  {"value": "c", "detail": "4", "correct": false},
+                  {"value": "d", "detail": "5", "correct": false}
+                ]
+              },
+              {
+                "id": "32",
+                "text": "What is the sum of the first 15 prime numbers?",
+                "options": [
+                  {"value": "a", "detail": "200", "correct": false},
+                  {"value": "b", "detail": "250", "correct": true},
+                  {"value": "c", "detail": "300", "correct": false},
+                  {"value": "d", "detail": "350", "correct": false}
+                ]
+              },
+              {
+                "id": "33",
+                "text": "If 2^x = 16, what is the value of x?",
+                "options": [
+                  {"value": "a", "detail": "2", "correct": false},
+                  {"value": "b", "detail": "3", "correct": true},
+                  {"value": "c", "detail": "4", "correct": false},
+                  {"value": "d", "detail": "5", "correct": false}
+                ]
+              },
+              {
+                "id": "34",
+                "text": "What is the value of (sin^2(30°) - cos^2(60°)) / (tan^2(45°))?",
+                "options": [
+                  {"value": "a", "detail": "0", "correct": false},
+                  {"value": "b", "detail": "1", "correct": false},
+                  {"value": "c", "detail": "2", "correct": true},
+                  {"value": "d", "detail": "3", "correct": false}
+                ]
+              },
+              {
+                "id": "35",
+                "text": "If 3x - 4y = 12 and 2x + 5y = 17, what is the value of x + y?",
+                "options": [
+                  {"value": "a", "detail": "4", "correct": false},
+                  {"value": "b", "detail": "5", "correct": true},
+                  {"value": "c", "detail": "6", "correct": false},
+                  {"value": "d", "detail": "7", "correct": false}
+                ]
+              },
+              {
+                "id": "36",
+                "text": "What is the value of log(base 2) 32?",
+                "options": [
+                  {"value": "a", "detail": "3", "correct": true},
+                  {"value": "b", "detail": "4", "correct": false},
+                  {"value": "c", "detail": "5", "correct": false},
+                  {"value": "d", "detail": "6", "correct": false}
+                ]
+              },
+              {
+                "id": "37",
+                "text": "If a circle has a radius of 5 units, what is its circumference?",
+                "options": [
+                  {"value": "a", "detail": "10π", "correct": false},
+                  {"value": "b", "detail": "15π", "correct": false},
+                  {"value": "c", "detail": "20π", "correct": true},
+                  {"value": "d", "detail": "25π", "correct": false}
+                ]
+              },
+              {
+                "id": "38",
+                "text": "What is the value of tan(45°) + sec(45°)?",
+                "options": [
+                  {"value": "a", "detail": "1", "correct": false},
+                  {"value": "b", "detail": "2", "correct": true},
+                  {"value": "c", "detail": "3", "correct": false},
+                  {"value": "d", "detail": "4", "correct": false}
+                ]
+              },
+              {
+                "id": "39",
+                "text": "If x^2 - 5x + 6 = 0, what are the possible values of x?",
+                "options": [
+                  {"value": "a", "detail": "2 and 3", "correct": true},
+                  {"value": "b", "detail": "3 and 4", "correct": false},
+                  {"value": "c", "detail": "4 and 5", "correct": false},
+                  {"value": "d", "detail": "5 and 6", "correct": false}
+                ]
+              },
+              {
+                "id": "40",
+                "text": "What is the value of cos(60°) - sin(30°) + tan(45°)?",
+                "options": [
+                  {"value": "a", "detail": "1", "correct": false},
+                  {"value": "b", "detail": "2", "correct": false},
+                  {"value": "c", "detail": "3", "correct": true},
+                  {"value": "d", "detail": "4", "correct": false}
+                ]
+              },{
+                "id": "41",
+                "text": "What is the value of cos(45°) * tan(60°)?",
+                "options": [
+                  {"value": "a", "detail": "0", "correct": false},
+                  {"value": "b", "detail": "0.5", "correct": false},
+                  {"value": "c", "detail": "1", "correct": true},
+                  {"value": "d", "detail": "2", "correct": false}
+                ]
+              },
+              {
+                "id": "42",
+                "text": "If log(x) + log(x+1) = log(2x), what is the value of x?",
+                "options": [
+                  {"value": "a", "detail": "1", "correct": false},
+                  {"value": "b", "detail": "2", "correct": true},
+                  {"value": "c", "detail": "3", "correct": false},
+                  {"value": "d", "detail": "4", "correct": false}
+                ]
+              },
+              {
+                "id": "43",
+                "text": "What is the sum of the first 20 odd numbers?",
+                "options": [
+                  {"value": "a", "detail": "400", "correct": true},
+                  {"value": "b", "detail": "420", "correct": false},
+                  {"value": "c", "detail": "440", "correct": false},
+                  {"value": "d", "detail": "460", "correct": false}
+                ]
+              },
+              {
+                "id": "44",
+                "text": "If sin(x) = cos(45°), what is the value of x?",
+                "options": [
+                  {"value": "a", "detail": "30°", "correct": false},
+                  {"value": "b", "detail": "45°", "correct": false},
+                  {"value": "c", "detail": "60°", "correct": true},
+                  {"value": "d", "detail": "90°", "correct": false}
+                ]
+              },
+              {
+                "id": "45",
+                "text": "What is the value of log(base 3) 27?",
+                "options": [
+                  {"value": "a", "detail": "1", "correct": false},
+                  {"value": "b", "detail": "2", "correct": true},
+                  {"value": "c", "detail": "3", "correct": false},
+                  {"value": "d", "detail": "4", "correct": false}
+                ]
+              },
+              {
+                "id": "46",
+                "text": "If 2^x = 8, what is the value of x?",
+                "options": [
+                  {"value": "a", "detail": "2", "correct": false},
+                  {"value": "b", "detail": "3", "correct": true},
+                  {"value": "c", "detail": "4", "correct": false},
+                  {"value": "d", "detail": "5", "correct": false}
+                ]
+              },
+              {
+                "id": "47",
+                "text": "What is the value of tan(30°) - sin(60°) + cos(45°)?",
+                "options": [
+                  {"value": "a", "detail": "0", "correct": false},
+                  {"value": "b", "detail": "1", "correct": true},
+                  {"value": "c", "detail": "2", "correct": false},
+                  {"value": "d", "detail": "3", "correct": false}
+                ]
+              },
+              {
+                "id": "48",
+                "text": "If 3x + 4y = 25 and 2x - y = 10, what is the value of x + y?",
+                "options": [
+                  {"value": "a", "detail": "7", "correct": false},
+                  {"value": "b", "detail": "8", "correct": false},
+                  {"value": "c", "detail": "9", "correct": true},
+                  {"value": "d", "detail": "10", "correct": false}
+                ]
+              },
+              {
+                "id": "49",
+                "text": "What is the value of (2^3 * 3^2) / (4^2 / 2^2)?",
+                "options": [
+                  {"value": "a", "detail": "6", "correct": false},
+                  {"value": "b", "detail": "9", "correct": false},
+                  {"value": "c", "detail": "12", "correct": true},
+                  {"value": "d", "detail": "15", "correct": false}
+                ]
+              },
+              {
+                "id": "50",
+                "text": "If 5x - 2y = 20 and 3x + 4y = 16, what is the value of x - y?",
+                "options": [
+                  {"value": "a", "detail": "1", "correct": false},
+                  {"value": "b", "detail": "2", "correct": true},
+                  {"value": "c", "detail": "3", "correct": false},
+                  {"value": "d", "detail": "4", "correct": false}
+                ]
+              },
+              {
+                "id": "51",
+                "text": "What is the value of log(base 2) 16?",
+                "options": [
+                  {"value": "a", "detail": "2", "correct": true},
+                  {"value": "b", "detail": "3", "correct": false},
+                  {"value": "c", "detail": "4", "correct": false},
+                  {"value": "d", "detail": "5", "correct": false}
+                ]
+              },
+              {
+                "id": "52",
+                "text": "If 2x - y = 5 and x + 3y = 11, what is the value of x + y?",
+                "options": [
+                  {"value": "a", "detail": "5", "correct": false},
+                  {"value": "b", "detail": "6", "correct": true},
+                  {"value": "c", "detail": "7", "correct": false},
+                  {"value": "d", "detail": "8", "correct": false}
+                ]
+              },
+              {
+                "id": "53",
+                "text": "What is the value of tan(45°) + sin(60°) - cos(30°)?",
+                "options": [
+                  {"value": "a", "detail": "0", "correct": false},
+                  {"value": "b", "detail": "1", "correct": false},
+                  {"value": "c", "detail": "2", "correct": true},
+                  {"value": "d", "detail": "3", "correct": false}
+                ]
+              },
+              {
+                "id": "54",
+                "text": "If 3x + 2y = 16 and 2x + y = 10, what is the value of x + y?",
+                "options": [
+                  {"value": "a", "detail": "6", "correct": false},
+                  {"value": "b", "detail": "7", "correct": true},
+                  {"value": "c", "detail": "8", "correct": false},
+                  {"value": "d", "detail": "9", "correct": false}
+                ]
+              },
+              {
+                "id": "55",
+                "text": "What is the value of sin(30°) + cos(60°) - tan(45°)?",
+                "options": [
+                  {"value": "a", "detail": "0", "correct": false},
+                  {"value": "b", "detail": "1", "correct": false},
+                  {"value": "c", "detail": "2", "correct": true},
+                  {"value": "d", "detail": "3", "correct": false}
+                ]
+              },
+              {
+                "id": "56",
+                "text": "If log(x) = 2 and log(y) = 3, what is the value of log(x*y)?",
+                "options": [
+                  {"value": "a", "detail": "4", "correct": true},
+                  {"value": "b", "detail": "5", "correct": false},
+                  {"value": "c", "detail": "6", "correct": false},
+                  {"value": "d", "detail": "7", "correct": false}
+                ]
+              },
+              {
+                "id": "57",
+                "text": "What is the value of cos(60°) + sin(30°) - tan(45°)?",
+                "options": [
+                  {"value": "a", "detail": "0", "correct": false},
+                  {"value": "b", "detail": "1", "correct": false},
+                  {"value": "c", "detail": "2", "correct": true},
+                  {"value": "d", "detail": "3", "correct": false}
+                ]
+              },
+              {
+                "id": "58",
+                "text": "If 4x - 3y = 10 and 2x + 5y = 17, what is the value of x + y?",
+                "options": [
+                  {"value": "a", "detail": "5", "correct": false},
+                  {"value": "b", "detail": "6", "correct": true},
+                  {"value": "c", "detail": "7", "correct": false},
+                  {"value": "d", "detail": "8", "correct": false}
+                ]
+              },
+              {
+                "id": "59",
+                "text": "What is the value of (sin^2(30°) + cos^2(60°)) / (tan^2(45°))?",
+                "options": [
+                  {"value": "a", "detail": "0", "correct": false},
+                  {"value": "b", "detail": "1", "correct": false},
+                  {"value": "c", "detail": "2", "correct": true},
+                  {"value": "d", "detail": "3", "correct": false}
+                ]
+              },
+              {
+                "id": "60",
+                "text": "If 2^x = 64, what is the value of x?",
+                "options": [
+                  {"value": "a", "detail": "4", "correct": true},
+                  {"value": "b", "detail": "5", "correct": false},
+                  {"value": "c", "detail": "6", "correct": false},
+                  {"value": "d", "detail": "7", "correct": false}
+                ]
+              },
+              {
+                "id": "61",
+                "text": "If log(5x) = log(5) + log(x), what is the value of x?",
+                "options": [
+                  {"value": "a", "detail": "1", "correct": false},
+                  {"value": "b", "detail": "5", "correct": false},
+                  {"value": "c", "detail": "e", "correct": true},
+                  {"value": "d", "detail": "π", "correct": false}
+                ]
+              },
+              {
+                "id": "62",
+                "text": "What is the value of sin(π/4) + cos(π/4) * tan(π/4)?",
+                "options": [
+                  {"value": "a", "detail": "0", "correct": false},
+                  {"value": "b", "detail": "1", "correct": false},
+                  {"value": "c", "detail": "2", "correct": true},
+                  {"value": "d", "detail": "3", "correct": false}
+                ]
+              },
+              {
+                "id": "63",
+                "text": "What is the value of √(-1) * √(-1)?",
+                "options": [
+                  {"value": "a", "detail": "0", "correct": false},
+                  {"value": "b", "detail": "i", "correct": false},
+                  {"value": "c", "detail": "-1", "correct": true},
+                  {"value": "d", "detail": "1", "correct": false}
+                ]
+              },
+              {
+                "id": "64",
+                "text": "If a + b = 5 and a^2 + b^2 = 13, what is the value of ab?",
+                "options": [
+                  {"value": "a", "detail": "6", "correct": false},
+                  {"value": "b", "detail": "7", "correct": false},
+                  {"value": "c", "detail": "8", "correct": true},
+                  {"value": "d", "detail": "9", "correct": false}
+                ]
+              },
+              {
+                "id": "65",
+                "text": "What is the value of log(base 10) 10^√(log(base 10) 10^100)?",
+                "options": [
+                  {"value": "a", "detail": "10", "correct": false},
+                  {"value": "b", "detail": "100", "correct": false},
+                  {"value": "c", "detail": "1000", "correct": true},
+                  {"value": "d", "detail": "10000", "correct": false}
+                ]
+              },
+              {
+                "id": "66",
+                "text": "What is the value of tan(3π/4) * sin(π/4)?",
+                "options": [
+                  {"value": "a", "detail": "0", "correct": false},
+                  {"value": "b", "detail": "1", "correct": false},
+                  {"value": "c", "detail": "-1", "correct": true},
+                  {"value": "d", "detail": "2", "correct": false}
+                ]
+              },
+              {
+                "id": "67",
+                "text": "If x = -√(2 - √(2 - √(2 - √(2 - ...)))), what is the value of x?",
+                "options": [
+                  {"value": "a", "detail": "-1", "correct": false},
+                  {"value": "b", "detail": "-√2", "correct": false},
+                  {"value": "c", "detail": "1", "correct": true},
+                  {"value": "d", "detail": "√2", "correct": false}
+                ]
+              },
+              {
+                "id": "68",
+                "text": "What is the value of cos(π/6) * sin(π/3) - tan(π/4)?",
+                "options": [
+                  {"value": "a", "detail": "0", "correct": false},
+                  {"value": "b", "detail": "1", "correct": false},
+                  {"value": "c", "detail": "-1", "correct": true},
+                  {"value": "d", "detail": "2", "correct": false}
+                ]
+              },
+              {
+                "id": "69",
+                "text": "What is the value of log(√(-1))?",
+                "options": [
+                  {"value": "a", "detail": "0", "correct": false},
+                  {"value": "b", "detail": "i", "correct": true},
+                  {"value": "c", "detail": "-i", "correct": false},
+                  {"value": "d", "detail": "1", "correct": false}
+                ]
+              },
+              {
+                "id": "70",
+                "text": "If x^3 - 3x^2 + 3x - 1 = 0, what is the value of x?",
+                "options": [
+                  {"value": "a", "detail": "1", "correct": true},
+                  {"value": "b", "detail": "2", "correct": false},
+                  {"value": "c", "detail": "-1", "correct": false},
+                  {"value": "d", "detail": "-2", "correct": false}
+                ]
+              },
+              {
+                "id": "71",
+                "text": "What comes next in the series: 2, 5, 11, 23, ...?",
+                "options": [
+                  {"value": "a", "detail": "46", "correct": true},
+                  {"value": "b", "detail": "47", "correct": false},
+                  {"value": "c", "detail": "48", "correct": false},
+                  {"value": "d", "detail": "49", "correct": false}
+                ]
+              },
+              {
+                "id": "72",
+                "text": "In a certain code language, 'CAT' is written as '3#8' and 'DOG' is written as '4*7'. How is 'MAN' written in that code?",
+                "options": [
+                  {"value": "a", "detail": "13#14", "correct": false},
+                  {"value": "b", "detail": "12#14", "correct": true},
+                  {"value": "c", "detail": "14#12", "correct": false},
+                  {"value": "d", "detail": "12#13", "correct": false}
+                ]
+              },
+              {
+                "id": "73",
+                "text": "What is the synonym of 'ephemeral'?",
+                "options": [
+                  {"value": "a", "detail": "Transient", "correct": true},
+                  {"value": "b", "detail": "Eternal", "correct": false},
+                  {"value": "c", "detail": "Permanent", "correct": false},
+                  {"value": "d", "detail": "Long-lasting", "correct": false}
+                ]
+              },
+              {
+                "id": "74",
+                "text": "If a clock shows 2:30, what will be the angle between the hour hand and minute hand?",
+                "options": [
+                  {"value": "a", "detail": "60°", "correct": false},
+                  {"value": "b", "detail": "75°", "correct": true},
+                  {"value": "c", "detail": "90°", "correct": false},
+                  {"value": "d", "detail": "120°", "correct": false}
+                ]
+              },
+              {
+                "id": "75",
+                "text": "What is the missing number in the series: 3, 5, 9, 17, ___?",
+                "options": [
+                  {"value": "a", "detail": "25", "correct": false},
+                  {"value": "b", "detail": "33", "correct": false},
+                  {"value": "c", "detail": "27", "correct": true},
+                  {"value": "d", "detail": "29", "correct": false}
+                ]
+              },
+              {
+                "id": "76",
+                "text": "If A = 1, B = 2, C = 3, ..., Z = 26, what is the value of APPLE?",
+                "options": [
+                  {"value": "a", "detail": "39", "correct": true},
+                  {"value": "b", "detail": "40", "correct": false},
+                  {"value": "c", "detail": "41", "correct": false},
+                  {"value": "d", "detail": "42", "correct": false}
+                ]
+              },
+              {
+                "id": "77",
+                "text": "What is the next number in the series: 1, 2, 5, 10, 17, ...?",
+                "options": [
+                  {"value": "a", "detail": "25", "correct": false},
+                  {"value": "b", "detail": "27", "correct": true},
+                  {"value": "c", "detail": "29", "correct": false},
+                  {"value": "d", "detail": "31", "correct": false}
+                ]
+              },
+              {
+                "id": "78",
+                "text": "If X + Y = 15 and X - Y = 5, what is the value of X * Y?",
+                "options": [
+                  {"value": "a", "detail": "50", "correct": false},
+                  {"value": "b", "detail": "60", "correct": false},
+                  {"value": "c", "detail": "75", "correct": true},
+                  {"value": "d", "detail": "90", "correct": false}
+                ]
+              },
+              {
+                "id": "79",
+                "text": "Complete the analogy: Tree is to Forest as Leaf is to ___",
+                "options": [
+                  {"value": "a", "detail": "Branch", "correct": false},
+                  {"value": "b", "detail": "Tree", "correct": false},
+                  {"value": "c", "detail": "Twig", "correct": false},
+                  {"value": "d", "detail": "Tree", "correct": true}
+                ]
+              },
+              {
+                "id": "80",
+                "text": "What is the value of √(2 + √(2 + √(2 + √(2 + ...))))?",
+                "options": [
+                  {"value": "a", "detail": "1", "correct": false},
+                  {"value": "b", "detail": "2", "correct": false},
+                  {"value": "c", "detail": "3", "correct": false},
+                  {"value": "d", "detail": "4", "correct": true}
+                ]
+              },
+              {
+                "id": "81",
+                "text": "If three-fifths of a number is 60, what is the number?",
+                "options": [
+                  {"value": "a", "detail": "90", "correct": true},
+                  {"value": "b", "detail": "100", "correct": false},
+                  {"value": "c", "detail": "110", "correct": false},
+                  {"value": "d", "detail": "120", "correct": false}
+                ]
+              },
+              {
+                "id": "82",
+                "text": "A train travels 100 km at a speed of 50 km/h and returns at a speed of 75 km/h. What is the average speed for the whole journey?",
+                "options": [
+                  {"value": "a", "detail": "55 km/h", "correct": false},
+                  {"value": "b", "detail": "60 km/h", "correct": true},
+                  {"value": "c", "detail": "65 km/h", "correct": false},
+                  {"value": "d", "detail": "70 km/h", "correct": false}
+                ]
+              },
+              {
+                "id": "83",
+                "text": "If the perimeter of a rectangle is 80 cm and its length is 25 cm, what is its width?",
+                "options": [
+                  {"value": "a", "detail": "5 cm", "correct": false},
+                  {"value": "b", "detail": "15 cm", "correct": true},
+                  {"value": "c", "detail": "20 cm", "correct": false},
+                  {"value": "d", "detail": "30 cm", "correct": false}
+                ]
+              },
+              {
+                "id": "84",
+                "text": "What is the value of 25% of 400?",
+                "options": [
+                  {"value": "a", "detail": "75", "correct": false},
+                  {"value": "b", "detail": "100", "correct": false},
+                  {"value": "c", "detail": "125", "correct": true},
+                  {"value": "d", "detail": "150", "correct": false}
+                ]
+              },
+              {
+                "id": "85",
+                "text": "What is the next number in the series: 3, 8, 15, 24, ...?",
+                "options": [
+                  {"value": "a", "detail": "35", "correct": true},
+                  {"value": "b", "detail": "40", "correct": false},
+                  {"value": "c", "detail": "45", "correct": false},
+                  {"value": "d", "detail": "50", "correct": false}
+                ]
+              },
+              {
+                "id": "86",
+                "text": "What is the missing number in the series: 1, 2, 6, 24, ___?",
+                "options": [
+                  {"value": "a", "detail": "96", "correct": true},
+                  {"value": "b", "detail": "120", "correct": false},
+                  {"value": "c", "detail": "144", "correct": false},
+                  {"value": "d", "detail": "168", "correct": false}
+                ]
+              },
+              {
+                "id": "87",
+                "text": "If the price of a product is increased by 20% and then reduced by 10%, what is the overall change in price?",
+                "options": [
+                  {"value": "a", "detail": "8% increase", "correct": false},
+                  {"value": "b", "detail": "8% decrease", "correct": true},
+                  {"value": "c", "detail": "10% increase", "correct": false},
+                  {"value": "d", "detail": "10% decrease", "correct": false}
+                ]
+              },
+              {
+                "id": "88",
+                "text": "What is the value of 2^(3^4) / (2^3)^4?",
+                "options": [
+                  {"value": "a", "detail": "1/8", "correct": false},
+                  {"value": "b", "detail": "1/16", "correct": false},
+                  {"value": "c", "detail": "8", "correct": false},
+                  {"value": "d", "detail": "16", "correct": true}
+                ]
+              },
+              {
+                "id": "89",
+                "text": "If A = {1, 2, 3} and B = {3, 4, 5}, what is A ∩ B?",
+                "options": [
+                  {"value": "a", "detail": "{1, 2}", "correct": false},
+                  {"value": "b", "detail": "{3}", "correct": true},
+                  {"value": "c", "detail": "{4, 5}", "correct": false},
+                  {"value": "d", "detail": "{}", "correct": false}
+                ]
+              },
+              {
+                "id": "90",
+                "text": "If the first term of an arithmetic sequence is 5 and the common difference is 3, what is the 10th term?",
+                "options": [
+                  {"value": "a", "detail": "25", "correct": false},
+                  {"value": "b", "detail": "35", "correct": true},
+                  {"value": "c", "detail": "45", "correct": false},
+                  {"value": "d", "detail": "55", "correct": false}
+                ]
+              },
+              {
+                "id": "91",
+                "text": "What is the missing number in the series: 2, 12, 30, 56, ___?",
+                "options": [
+                  {"value": "a", "detail": "90", "correct": false},
+                  {"value": "b", "detail": "84", "correct": false},
+                  {"value": "c", "detail": "98", "correct": true},
+                  {"value": "d", "detail": "102", "correct": false}
+                ]
+              },
+              {
+                "id": "92",
+                "text": "If 8x + 5y = 17 and 3x + 2y = 7, what is the value of x + y?",
+                "options": [
+                  {"value": "a", "detail": "3", "correct": false},
+                  {"value": "b", "detail": "4", "correct": true},
+                  {"value": "c", "detail": "5", "correct": false},
+                  {"value": "d", "detail": "6", "correct": false}
+                ]
+              },
+              {
+                "id": "93",
+                "text": "What is the value of √(-1) * √(-1) * √(-1)?",
+                "options": [
+                  {"value": "a", "detail": "1", "correct": false},
+                  {"value": "b", "detail": "i", "correct": false},
+                  {"value": "c", "detail": "-1", "correct": true},
+                  {"value": "d", "detail": "-i", "correct": false}
+                ]
+              },
+              {
+                "id": "94",
+                "text": "If log(base 2) x = 5, what is x?",
+                "options": [
+                  {"value": "a", "detail": "25", "correct": true},
+                  {"value": "b", "detail": "32", "correct": false},
+                  {"value": "c", "detail": "64", "correct": false},
+                  {"value": "d", "detail": "128", "correct": false}
+                ]
+              },
+              {
+                "id": "95",
+                "text": "What is the value of sin(45°) + cos(45°) + tan(45°)?",
+                "options": [
+                  {"value": "a", "detail": "1", "correct": false},
+                  {"value": "b", "detail": "2", "correct": false},
+                  {"value": "c", "detail": "3", "correct": true},
+                  {"value": "d", "detail": "4", "correct": false}
+                ]
+              },
+              {
+                "id": "96",
+                "text": "What is the value of 4^0 + 4^1 + 4^2 + 4^3?",
+                "options": [
+                  {"value": "a", "detail": "48", "correct": false},
+                  {"value": "b", "detail": "64", "correct": true},
+                  {"value": "c", "detail": "80", "correct": false},
+                  {"value": "d", "detail": "96", "correct": false}
+                ]
+              },
+              {
+                "id": "97",
+                "text": "If the ratio of boys to girls in a class is 3:5 and there are 40 students in total, how many boys are there?",
+                "options": [
+                  {"value": "a", "detail": "12", "correct": true},
+                  {"value": "b", "detail": "15", "correct": false},
+                  {"value": "c", "detail": "18", "correct": false},
+                  {"value": "d", "detail": "20", "correct": false}
+                ]
+              },
+              {
+                "id": "98",
+                "text": "What is the value of √(3^2 + 4^2)?",
+                "options": [
+                  {"value": "a", "detail": "5", "correct": true},
+                  {"value": "b", "detail": "6", "correct": false},
+                  {"value": "c", "detail": "7", "correct": false},
+                  {"value": "d", "detail": "8", "correct": false}
+                ]
+              },
+              {
+                "id": "99",
+                "text": "What is the value of 12! / 10!?",
+                "options": [
+                  {"value": "a", "detail": "110", "correct": false},
+                  {"value": "b", "detail": "120", "correct": false},
+                  {"value": "c", "detail": "132", "correct": true},
+                  {"value": "d", "detail": "144", "correct": false}
+                ]
+              },
+              {
+                "id": "100",
+                "text": "If a car travels 100 km in 2 hours, what is its speed in meters per second?",
+                "options": [
+                  {"value": "a", "detail": "20 m/s", "correct": true},
+                  {"value": "b", "detail": "25 m/s", "correct": false},
+                  {"value": "c", "detail": "30 m/s", "correct": false},
+                  {"value": "d", "detail": "35 m/s", "correct": false}
+                ]
+              }
+            
+          ]
+        }
+      ]
+    }
+  }
+  

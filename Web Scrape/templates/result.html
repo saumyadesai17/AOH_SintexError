@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"></script>
+    <title>Roadmap UI</title>
+    <style>
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+        }
+
+        .roadmap {
+            width: 80%;
+            max-width: 800px;
+            height: 80vh;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            line-height: 1.6;
+            overflow-y: auto;
+        }
+
+        /* Customize headings */
+        .roadmap h1,
+        .roadmap h2,
+        .roadmap h3,
+        .roadmap h4,
+        .roadmap h5,
+        .roadmap h6 {
+            color: #333;
+            /* Set heading color */
+            margin-top: 0;
+            /* Remove default margin */
+            margin-bottom: 10px;
+            /* Add bottom margin */
+        }
+
+        /* Customize paragraphs */
+        .roadmap p {
+            margin: 0 0 10px;
+            /* Add margin */
+        }
+
+        /* Customize lists */
+        .roadmap ul,
+        .roadmap ol {
+            margin: 0 0 10px;
+            /* Add margin */
+            padding-left: 20px;
+            /* Add left padding */
+        }
+
+        /* Customize list items */
+        .roadmap li {
+            margin-bottom: 5px;
+            /* Add bottom margin */
+        }
+
+        /* Customize links */
+        .roadmap a {
+            color: #007bff;
+            /* Set link color */
+            text-decoration: none;
+            /* Remove underline */
+        }
+
+        .download-btn {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="timeline">
+            {% if roadmap %}
+            <div class="roadmap">
+                {{ roadmap|safe }}
+            </div>
+            {% endif %}
+        </div>
+    </div>
+
+    <script>
+        // JavaScript code here
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,270 @@
+{
+    "result": {
+      "quizzes": [
+        {
+          "questions": [
+            {
+              "id": "1",
+              "text": "What is the next number in the series: 2, 5, 10, 17, _?",
+              "options": [
+                {
+                  "value": "a",
+                  "detail": "21",
+                  "correct": false
+                },
+                {
+                  "value": "b",
+                  "detail": "24",
+                  "correct": true
+                },
+                {
+                  "value": "c",
+                  "detail": "28",
+                  "correct": false
+                },
+                {
+                  "value": "d",
+                  "detail": "32",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "text": "If a car travels 60 miles in 1 hour, how many miles will it travel in 3 hours?",
+              "options": [
+                {
+                  "value": "a",
+                  "detail": "120",
+                  "correct": false
+                },
+                {
+                  "value": "b",
+                  "detail": "150",
+                  "correct": true
+                },
+                {
+                  "value": "c",
+                  "detail": "180",
+                  "correct": false
+                },
+                {
+                  "value": "d",
+                  "detail": "210",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "text": "Simplify: (4 + 7) * 3 - 5",
+              "options": [
+                {
+                  "value": "a",
+                  "detail": "35",
+                  "correct": false
+                },
+                {
+                  "value": "b",
+                  "detail": "40",
+                  "correct": true
+                },
+                {
+                  "value": "c",
+                  "detail": "45",
+                  "correct": false
+                },
+                {
+                  "value": "d",
+                  "detail": "50",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "text": "What is the square root of 144?",
+              "options": [
+                {
+                  "value": "a",
+                  "detail": "10",
+                  "correct": false
+                },
+                {
+                  "value": "b",
+                  "detail": "12",
+                  "correct": true
+                },
+                {
+                  "value": "c",
+                  "detail": "14",
+                  "correct": false
+                },
+                {
+                  "value": "d",
+                  "detail": "16",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": "5",
+              "text": "If x + 5 = 12, what is the value of x?",
+              "options": [
+                {
+                  "value": "a",
+                  "detail": "5",
+                  "correct": false
+                },
+                {
+                  "value": "b",
+                  "detail": "7",
+                  "correct": true
+                },
+                {
+                  "value": "c",
+                  "detail": "10",
+                  "correct": false
+                },
+                {
+                  "value": "d",
+                  "detail": "15",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": "6",
+              "text": "A train travels 150 miles in 2 hours. What is its speed in miles per hour?",
+              "options": [
+                {
+                  "value": "a",
+                  "detail": "60",
+                  "correct": false
+                },
+                {
+                  "value": "b",
+                  "detail": "75",
+                  "correct": true
+                },
+                {
+                  "value": "c",
+                  "detail": "90",
+                  "correct": false
+                },
+                {
+                  "value": "d",
+                  "detail": "105",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": "7",
+              "text": "If 3x - 5 = 16, what is the value of x?",
+              "options": [
+                {
+                  "value": "a",
+                  "detail": "5",
+                  "correct": false
+                },
+                {
+                  "value": "b",
+                  "detail": "7",
+                  "correct": true
+                },
+                {
+                  "value": "c",
+                  "detail": "8",
+                  "correct": false
+                },
+                {
+                  "value": "d",
+                  "detail": "10",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": "8",
+              "text": "What is the sum of the first 10 prime numbers?",
+              "options": [
+                {
+                  "value": "a",
+                  "detail": "129",
+                  "correct": false
+                },
+                {
+                  "value": "b",
+                  "detail": "225",
+                  "correct": false
+                },
+                {
+                  "value": "c",
+                  "detail": "315",
+                  "correct": true
+                },
+                {
+                  "value": "d",
+                  "detail": "402",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": "9",
+              "text": "If a shirt costs $20 after a 25% discount, what was its original price?",
+              "options": [
+                {
+                  "value": "a",
+                  "detail": "$15",
+                  "correct": false
+                },
+                {
+                  "value": "b",
+                  "detail": "$25",
+                  "correct": false
+                },
+                {
+                  "value": "c",
+                  "detail": "$26.67",
+                  "correct": true
+                },
+                {
+                  "value": "d",
+                  "detail": "$30",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": "10",
+              "text": "The perimeter of a rectangle is 40 cm, and its length is 12 cm. What is its width?",
+              "options": [
+                {
+                  "value": "a",
+                  "detail": "6 cm",
+                  "correct": false
+                },
+                {
+                  "value": "b",
+                  "detail": "8 cm",
+                  "correct": true
+                },
+                {
+                  "value": "c",
+                  "detail": "10 cm",
+                  "correct": false
+                },
+                {
+                  "value": "d",
+                  "detail": "14 cm",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }

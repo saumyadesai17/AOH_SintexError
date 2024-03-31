@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7; /* Light gray background */
+}
+
+.container {
+    width: 100%;
+    max-width: 600px; /* Limit width to 600px */
+    margin: 100px auto; /* Center the container */
+    background-color: #fff; /* White background */
+    padding: 20px;
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+}
+
+.header {
+    text-align: center;
+    color: #333; /* Dark gray text color */
+}
+
+.form {
+    text-align: center;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.input {
+    margin-top: 10px;
+    padding: 8px;
+    border: 1px solid #ccc; /* Light gray border */
+    border-radius: 5px;
+}
+
+.submit-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff; /* Blue submit button */
+    color: #fff; /* White text color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s; /* Smooth color transition */
+}
+
+.submit-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}

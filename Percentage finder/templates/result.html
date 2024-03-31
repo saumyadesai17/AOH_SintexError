@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Result</title>
+</head>
+<body>
+    <h1>Suggested Career Domains</h1>
+    <ul>
+        {% for career in suggested_careers %}
+            <li>{{ career }}</li>
+            <p><strong>Suggestions for Similar Domains:</strong></p>
+            <ul>
+                <li>{{ suggested_domains[loop.index0] }}</li>
+            </ul>
+        {% endfor %}
+    </ul>
+</body>
+</html>

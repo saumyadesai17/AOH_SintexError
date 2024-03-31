@@ -1,0 +1,6018 @@
+[
+ {
+   "ID": "01 ",
+   "Projects": {
+      "Experience": " Create a Full Stack Web application using MERN Stack "
+   },
+   "Skills": " MongoDB,Express.js,React.js,Node.js",
+   "Domain": " Full Stack Web Development"
+},
+ {
+   "ID": "02 ",
+   "Projects": {
+      "Experience": " Create a Mobile App using React Native "
+   },
+   "Skills": " React Native,JavaScript ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "03 ",
+   "Projects": {
+      "Experience": " Develop a RESTful API with Ruby on Rails "
+   },
+   "Skills": " Ruby on Rails,API Development ",
+   "Domain": " Backend Development"
+},
+ {
+   "ID": "04 ",
+   "Projects": {
+      "Experience": " Design a User Interface for a Blog Website "
+   },
+   "Skills": " UI/UX Design,HTML,CSS ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "05 ",
+   "Projects": {
+      "Experience": " Build a Machine Learning Model for Predictive Analytics "
+   },
+   "Skills": " Python,Machine Learning ",
+   "Domain": " Data Science"
+},
+ {
+   "ID": "06 ",
+   "Projects": {
+      "Experience": " Develop a Content Management System (CMS) in PHP "
+   },
+   "Skills": " PHP,Web Development ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "07 ",
+   "Projects": {
+      "Experience": " Create a 2D Game in Unity with C# "
+   },
+   "Skills": " Unity,C# ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "08 ",
+   "Projects": {
+      "Experience": " Implement DevOps Practices for CI/CD using Jenkins "
+   },
+   "Skills": " Jenkins,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "09 ",
+   "Projects": {
+      "Experience": " Design a Database Schema for an E-commerce Platform "
+   },
+   "Skills": " Database Design,SQL ",
+   "Domain": " Database Management"
+},
+ {
+   "ID": "10 ",
+   "Projects": {
+      "Experience": " Develop a Cross-Platform Mobile App with Xamarin "
+   },
+   "Skills": " Xamarin,C# ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "ID ",
+   "Projects": {
+      "Experience": " Projects/Experience "
+   },
+   "Skills": " Skills ",
+   "Domain": " Domain"
+},
+ {
+   "ID": "--------------------------------------------------------------",
+   "Projects": {
+      "Experience": ""
+   },
+   "Skills": "",
+   "Domain": ""
+},
+ {
+   "ID": "11 ",
+   "Projects": {
+      "Experience": " Build a Social Media App with React.js "
+   },
+   "Skills": " React.js,Node.js,MongoDB ",
+   "Domain": " Full Stack Web Development"
+},
+ {
+   "ID": "12 ",
+   "Projects": {
+      "Experience": " Develop a Chat Application in Swift "
+   },
+   "Skills": " Swift,UIKit,Real-time Chat ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "13 ",
+   "Projects": {
+      "Experience": " Create a Data Visualization Dashboard with D3.js "
+   },
+   "Skills": " D3.js,Data Visualization ",
+   "Domain": " Data Visualization"
+},
+ {
+   "ID": "14 ",
+   "Projects": {
+      "Experience": " Implement a RESTful API with Java and Spring Boot "
+   },
+   "Skills": " Java,Spring Boot,API Development ",
+   "Domain": " Backend Development"
+},
+ {
+   "ID": "15 ",
+   "Projects": {
+      "Experience": " Design a Modern Landing Page with HTML and CSS "
+   },
+   "Skills": " HTML,CSS,Web Design ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "16 ",
+   "Projects": {
+      "Experience": " Train a Natural Language Processing Model with Python "
+   },
+   "Skills": " Python,NLP,Machine Learning ",
+   "Domain": " Natural Language Processing"
+},
+ {
+   "ID": "17 ",
+   "Projects": {
+      "Experience": " Deploy a Kubernetes Cluster for Microservices "
+   },
+   "Skills": " Kubernetes,Docker,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "18 ",
+   "Projects": {
+      "Experience": " Develop an Inventory Management System with PHP "
+   },
+   "Skills": " PHP,MySQL,Inventory Management ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "19 ",
+   "Projects": {
+      "Experience": " Create a 3D Game in Unreal Engine with C++ "
+   },
+   "Skills": " Unreal Engine,C++ ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "20 ",
+   "Projects": {
+      "Experience": " Conduct A/B Testing for a Mobile App "
+   },
+   "Skills": " A/B Testing,Data Analysis ",
+   "Domain": " Mobile App Optimization"
+},
+ {
+   "ID": "21 ",
+   "Projects": {
+      "Experience": " Build an E-commerce Website using Shopify "
+   },
+   "Skills": " Shopify,E-commerce ",
+   "Domain": " E-commerce Development"
+},
+ {
+   "ID": "22 ",
+   "Projects": {
+      "Experience": " Design a Logo and Branding for a Start-up "
+   },
+   "Skills": " Graphic Design,Branding ",
+   "Domain": " Graphic Design"
+},
+ {
+   "ID": "23 ",
+   "Projects": {
+      "Experience": " Optimize SEO for a WordPress Website "
+   },
+   "Skills": " SEO,WordPress ",
+   "Domain": " Search Engine Optimization"
+},
+ {
+   "ID": "24 ",
+   "Projects": {
+      "Experience": " Implement Security Measures in a Web Application "
+   },
+   "Skills": " Web Security,Penetration Testing ",
+   "Domain": " Security"
+},
+ {
+   "ID": "25 ",
+   "Projects": {
+      "Experience": " Develop an Online Learning Platform with Django "
+   },
+   "Skills": " Django,Python,Online Education ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "26 ",
+   "Projects": {
+      "Experience": " Create a Mobile Game with Unity and C# "
+   },
+   "Skills": " Unity,C#,Game Development ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "27 ",
+   "Projects": {
+      "Experience": " Build a Blog Platform with Ruby on Rails "
+   },
+   "Skills": " Ruby on Rails,Web Development ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "28 ",
+   "Projects": {
+      "Experience": " Design a Mobile App User Interface in Figma "
+   },
+   "Skills": " UI/UX Design,Figma,Mobile App Design ",
+   "Domain": " UI/UX Design"
+},
+ {
+   "ID": "29 ",
+   "Projects": {
+      "Experience": " Perform Data Analysis with Pandas and Python "
+   },
+   "Skills": " Python,Pandas,Data Analysis ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "30 ",
+   "Projects": {
+      "Experience": " Implement Continuous Integration with Jenkins "
+   },
+   "Skills": " Jenkins,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "31 ",
+   "Projects": {
+      "Experience": " Develop a CRM System with Laravel and MySQL "
+   },
+   "Skills": " Laravel,PHP,CRM Development ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "32 ",
+   "Projects": {
+      "Experience": " Design a Responsive Website for a Restaurant "
+   },
+   "Skills": " HTML,CSS,Responsive Web Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "33 ",
+   "Projects": {
+      "Experience": " Build an Android App with Kotlin "
+   },
+   "Skills": " Kotlin,Android App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "34 ",
+   "Projects": {
+      "Experience": " Create a Virtual Reality Experience with Unity "
+   },
+   "Skills": " Unity,Virtual Reality,VR Development ",
+   "Domain": " Virtual Reality"
+},
+ {
+   "ID": "35 ",
+   "Projects": {
+      "Experience": " Deploy a Machine Learning Model with Flask "
+   },
+   "Skills": " Python,Flask,Machine Learning Deployment ",
+   "Domain": " Machine Learning"
+},
+ {
+   "ID": "36 ",
+   "Projects": {
+      "Experience": " Develop a Point of Sale System with Java "
+   },
+   "Skills": " Java,Point of Sale,POS Development ",
+   "Domain": " Software Development"
+},
+ {
+   "ID": "37 ",
+   "Projects": {
+      "Experience": " Design an E-commerce User Interface with Sketch "
+   },
+   "Skills": " Sketch,UI/UX Design,E-commerce Design ",
+   "Domain": " UI/UX Design"
+},
+ {
+   "ID": "38 ",
+   "Projects": {
+      "Experience": " Conduct Market Research and Analysis "
+   },
+   "Skills": " Market Research,Data Analysis ",
+   "Domain": " Market Research"
+},
+ {
+   "ID": "39 ",
+   "Projects": {
+      "Experience": " Implement Microservices Architecture with Spring Cloud "
+   },
+   "Skills": " Spring Cloud,Java,Microservices ",
+   "Domain": " Software Architecture"
+},
+ {
+   "ID": "40 ",
+   "Projects": {
+      "Experience": " Create a Budget Tracking App with React Native "
+   },
+   "Skills": " React Native,JavaScript,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "41 ",
+   "Projects": {
+      "Experience": " Design a Logo for a Non-Profit Organization "
+   },
+   "Skills": " Graphic Design,Logo Design ",
+   "Domain": " Graphic Design"
+},
+ {
+   "ID": "42 ",
+   "Projects": {
+      "Experience": " Optimize Database Performance with SQL Queries "
+   },
+   "Skills": " SQL,Database Optimization ",
+   "Domain": " Database Management"
+},
+ {
+   "ID": "43 ",
+   "Projects": {
+      "Experience": " Develop a Chatbot with Natural Language Processing "
+   },
+   "Skills": " NLP,Chatbot Development ",
+   "Domain": " Chatbot Development"
+},
+ {
+   "ID": "44 ",
+   "Projects": {
+      "Experience": " Build a Personal Portfolio Website with Vue.js "
+   },
+   "Skills": " Vue.js,Web Development ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "45 ",
+   "Projects": {
+      "Experience": " Conduct User Testing for a Software Application "
+   },
+   "Skills": " User Testing,Usability Testing ",
+   "Domain": " User Experience"
+},
+ {
+   "ID": "46 ",
+   "Projects": {
+      "Experience": " Implement Secure Authentication for Web Apps "
+   },
+   "Skills": " Web Security,Authentication ",
+   "Domain": " Security"
+},
+ {
+   "ID": "47 ",
+   "Projects": {
+      "Experience": " Develop a Social Networking App in Flutter "
+   },
+   "Skills": " Flutter,Dart,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "48 ",
+   "Projects": {
+      "Experience": " Create Interactive Data Visualizations with Tableau "
+   },
+   "Skills": " Tableau,Data Visualization ",
+   "Domain": " Data Visualization"
+},
+ {
+   "ID": "49 ",
+   "Projects": {
+      "Experience": " Deploy a Content Management System (CMS) with WordPress "
+   },
+   "Skills": " WordPress,CMS Development ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "50 ",
+   "Projects": {
+      "Experience": " Design a User-Friendly Onboarding Experience "
+   },
+   "Skills": " UI/UX Design,Onboarding,User Experience ",
+   "Domain": " UI/UX Design"
+},
+ {
+   "ID": "51 ",
+   "Projects": {
+      "Experience": " Develop a Real-Time Dashboard for IoT Data "
+   },
+   "Skills": " IoT,Real-Time Dashboard,Web Development ",
+   "Domain": " IoT Development"
+},
+ {
+   "ID": "52 ",
+   "Projects": {
+      "Experience": " Build a Fitness Tracking Mobile App with Xamarin "
+   },
+   "Skills": " Xamarin,C#,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "53 ",
+   "Projects": {
+      "Experience": " Perform Sentiment Analysis on Social Media Data "
+   },
+   "Skills": " Sentiment Analysis,NLP ",
+   "Domain": " Data Analysis"
+},
+ {
+   "ID": "54 ",
+   "Projects": {
+      "Experience": " Implement Infrastructure as Code with Terraform "
+   },
+   "Skills": " Terraform,Infrastructure as Code ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "55 ",
+   "Projects": {
+      "Experience": " Develop a Cross-Platform Desktop App with Electron "
+   },
+   "Skills": " Electron,JavaScript,Desktop App Development ",
+   "Domain": " Desktop App Development"
+},
+ {
+   "ID": "56 ",
+   "Projects": {
+      "Experience": " Create a Game Character Animation with Blender "
+   },
+   "Skills": " Blender,Animation,Game Development ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "57 ",
+   "Projects": {
+      "Experience": " Design a Minimalist Website with Minimalistic Design "
+   },
+   "Skills": " Minimalistic Design,Web Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "58 ",
+   "Projects": {
+      "Experience": " Optimize SEO for a Large E-commerce Website "
+   },
+   "Skills": " SEO,E-commerce Optimization ",
+   "Domain": " E-commerce Development"
+},
+ {
+   "ID": "59 ",
+   "Projects": {
+      "Experience": " Deploy a RESTful API on AWS Lambda "
+   },
+   "Skills": " AWS Lambda,API Deployment ",
+   "Domain": " Cloud Computing"
+},
+ {
+   "ID": "60 ",
+   "Projects": {
+      "Experience": " Develop a Travel Booking System with Ruby on Rails "
+   },
+   "Skills": " Ruby on Rails,Travel Booking ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "61 ",
+   "Projects": {
+      "Experience": " Design a Mobile App Interface for Food Delivery "
+   },
+   "Skills": " UI/UX Design,Food Delivery App ",
+   "Domain": " Mobile App Design"
+},
+ {
+   "ID": "62 ",
+   "Projects": {
+      "Experience": " Implement Load Balancing with Nginx "
+   },
+   "Skills": " Nginx,Load Balancing,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "63 ",
+   "Projects": {
+      "Experience": " Build an Online Marketplace with PHP and MySQL "
+   },
+   "Skills": " PHP,MySQL,Online Marketplace ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "64 ",
+   "Projects": {
+      "Experience": " Create an Educational Game for Kids in Unity "
+   },
+   "Skills": " Unity,C#,Educational Game ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "65 ",
+   "Projects": {
+      "Experience": " Conduct Market Analysis for a New Product Launch "
+   },
+   "Skills": " Market Analysis,Product Launch ",
+   "Domain": " Market Research"
+},
+ {
+   "ID": "66 ",
+   "Projects": {
+      "Experience": " Develop a Custom WordPress Theme "
+   },
+   "Skills": " WordPress,Theme Development ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "67 ",
+   "Projects": {
+      "Experience": " Design a Landing Page for a Product Launch "
+   },
+   "Skills": " HTML,CSS,Landing Page Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "68 ",
+   "Projects": {
+      "Experience": " Build a Cross-Platform Mobile App with React Native "
+   },
+   "Skills": " React Native,JavaScript,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "69 ",
+   "Projects": {
+      "Experience": " Perform Data Visualization with Power BI "
+   },
+   "Skills": " Power BI,Data Visualization ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "70 ",
+   "Projects": {
+      "Experience": " Implement Continuous Integration with Travis CI "
+   },
+   "Skills": " Travis CI,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "71 ",
+   "Projects": {
+      "Experience": " Develop a Property Management System with Python "
+   },
+   "Skills": " Python,Property Management ",
+   "Domain": " Software Development"
+},
+ {
+   "ID": "72 ",
+   "Projects": {
+      "Experience": " Create a Virtual Reality Game with Unreal Engine "
+   },
+   "Skills": " Unreal Engine,VR Game Development ",
+   "Domain": " Virtual Reality"
+},
+ {
+   "ID": "73 ",
+   "Projects": {
+      "Experience": " Design a Logo and Brand Identity for a Startup "
+   },
+   "Skills": " Branding,Logo Design ",
+   "Domain": " Graphic Design"
+},
+ {
+   "ID": "74 ",
+   "Projects": {
+      "Experience": " Optimize Database Queries for Better Performance "
+   },
+   "Skills": " SQL,Database Query Optimization ",
+   "Domain": " Database Management"
+},
+ {
+   "ID": "75 ",
+   "Projects": {
+      "Experience": " Develop an Online Banking System with Java "
+   },
+   "Skills": " Java,Online Banking ",
+   "Domain": " Software Development"
+},
+ {
+   "ID": "76 ",
+   "Projects": {
+      "Experience": " Build an E-commerce Website using WooCommerce "
+   },
+   "Skills": " WooCommerce,E-commerce Development ",
+   "Domain": " E-commerce Development"
+},
+ {
+   "ID": "77 ",
+   "Projects": {
+      "Experience": " Design a Responsive Dashboard for Analytics "
+   },
+   "Skills": " HTML,CSS,Dashboard Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "78 ",
+   "Projects": {
+      "Experience": " Develop a Mobile App with GPS Tracking "
+   },
+   "Skills": " Mobile App Development,GPS Tracking ",
+   "Domain": " Location-based Services"
+},
+ {
+   "ID": "79 ",
+   "Projects": {
+      "Experience": " Create a Machine Learning Model for Predictive Maintenance "
+   },
+   "Skills": " Python,Machine Learning ",
+   "Domain": " Predictive Maintenance"
+},
+ {
+   "ID": "80 ",
+   "Projects": {
+      "Experience": " Conduct Usability Testing for a Mobile App "
+   },
+   "Skills": " Usability Testing,User Experience ",
+   "Domain": " User Testing"
+},
+ {
+   "ID": "81 ",
+   "Projects": {
+      "Experience": " Implement Security Measures for Network Infrastructure "
+   },
+   "Skills": " Network Security,Security Measures ",
+   "Domain": " Network Security"
+},
+ {
+   "ID": "82 ",
+   "Projects": {
+      "Experience": " Develop a Travel Booking Mobile App with Flutter "
+   },
+   "Skills": " Flutter,Mobile App Development,Travel Booking ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "83 ",
+   "Projects": {
+      "Experience": " Build a Social Networking Website with Django "
+   },
+   "Skills": " Django,Web Development,Social Networking ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "84 ",
+   "Projects": {
+      "Experience": " Design a User-Focused Onboarding Experience "
+   },
+   "Skills": " UI/UX Design,Onboarding,User Experience ",
+   "Domain": " UI/UX Design"
+},
+ {
+   "ID": "85 ",
+   "Projects": {
+      "Experience": " Optimize SQL Queries for Large Databases "
+   },
+   "Skills": " SQL,Database Optimization ",
+   "Domain": " Database Management"
+},
+ {
+   "ID": "86 ",
+   "Projects": {
+      "Experience": " Create an Inventory Management System with C# "
+   },
+   "Skills": " C#,Inventory Management ",
+   "Domain": " Software Development"
+},
+ {
+   "ID": "87 ",
+   "Projects": {
+      "Experience": " Develop a Chatbot for Customer Support "
+   },
+   "Skills": " Chatbot Development,Customer Support ",
+   "Domain": " Chatbot Development"
+},
+ {
+   "ID": "88 ",
+   "Projects": {
+      "Experience": " Build a Personal Blog Platform with WordPress "
+   },
+   "Skills": " WordPress,Personal Blog ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "89 ",
+   "Projects": {
+      "Experience": " Conduct Data Analysis for Market Research "
+   },
+   "Skills": " Data Analysis,Market Research ",
+   "Domain": " Market Research"
+},
+ {
+   "ID": "90 ",
+   "Projects": {
+      "Experience": " Implement Infrastructure as Code with Ansible "
+   },
+   "Skills": " Ansible,Infrastructure as Code ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "91 ",
+   "Projects": {
+      "Experience": " Design a Minimalist Mobile App Interface "
+   },
+   "Skills": " UI/UX Design,Minimalist Design ",
+   "Domain": " Mobile App Design"
+},
+ {
+   "ID": "92 ",
+   "Projects": {
+      "Experience": " Develop a Financial Dashboard with Excel "
+   },
+   "Skills": " Excel,Financial Dashboard ",
+   "Domain": " Data Visualization"
+},
+ {
+   "ID": "93 ",
+   "Projects": {
+      "Experience": " Create a Recipe Mobile App with React Native "
+   },
+   "Skills": " React Native,Recipe App ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "94 ",
+   "Projects": {
+      "Experience": " Perform Sentiment Analysis on Social Media Data "
+   },
+   "Skills": " Sentiment Analysis,NLP ",
+   "Domain": " Data Analysis"
+},
+ {
+   "ID": "95 ",
+   "Projects": {
+      "Experience": " Implement Cloud Deployment with AWS "
+   },
+   "Skills": " AWS,Cloud Deployment ",
+   "Domain": " Cloud Computing"
+},
+ {
+   "ID": "96 ",
+   "Projects": {
+      "Experience": " Develop a Cross-Platform Desktop App with Java "
+   },
+   "Skills": " Java,Desktop App Development ",
+   "Domain": " Desktop App Development"
+},
+ {
+   "ID": "97 ",
+   "Projects": {
+      "Experience": " Design a Game User Interface with Unity "
+   },
+   "Skills": " UI/UX Design,Game Development ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "98 ",
+   "Projects": {
+      "Experience": " Build a Time Tracking Application with Python "
+   },
+   "Skills": " Python,Time Tracking ",
+   "Domain": " Software Development"
+},
+ {
+   "ID": "99 ",
+   "Projects": {
+      "Experience": " Conduct User Testing for a Web Application "
+   },
+   "Skills": " User Testing,Web Application ",
+   "Domain": " User Experience"
+},
+ {
+   "ID": "100 ",
+   "Projects": {
+      "Experience": " Optimize SEO for a Blog Website "
+   },
+   "Skills": " SEO,Blog SEO ",
+   "Domain": " Search Engine Optimization"
+},
+ {
+   "ID": "101 ",
+   "Projects": {
+      "Experience": " Build an E-commerce Website with Magento "
+   },
+   "Skills": " Magento,E-commerce Development ",
+   "Domain": " E-commerce Development"
+},
+ {
+   "ID": "102 ",
+   "Projects": {
+      "Experience": " Design a User-Centric Mobile App Interface "
+   },
+   "Skills": " UI/UX Design,Mobile App Design ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "103 ",
+   "Projects": {
+      "Experience": " Develop a RESTful API with Node.js and Express "
+   },
+   "Skills": " Node.js,Express.js,API Development ",
+   "Domain": " Backend Development"
+},
+ {
+   "ID": "104 ",
+   "Projects": {
+      "Experience": " Create a Data Analysis Dashboard with R "
+   },
+   "Skills": " R,Data Analysis,Data Visualization ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "105 ",
+   "Projects": {
+      "Experience": " Implement CI/CD Pipeline with GitLab "
+   },
+   "Skills": " GitLab,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "106 ",
+   "Projects": {
+      "Experience": " Develop a Custom WordPress Plugin "
+   },
+   "Skills": " WordPress,Plugin Development ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "107 ",
+   "Projects": {
+      "Experience": " Design a Landing Page for a Startup Launch "
+   },
+   "Skills": " HTML,CSS,Landing Page Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "108 ",
+   "Projects": {
+      "Experience": " Build a Health and Fitness App with Flutter "
+   },
+   "Skills": " Flutter,Health App,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "109 ",
+   "Projects": {
+      "Experience": " Conduct Market Research for a Product Launch "
+   },
+   "Skills": " Market Research,Product Launch ",
+   "Domain": " Market Research"
+},
+ {
+   "ID": "110 ",
+   "Projects": {
+      "Experience": " Optimize Database Queries for Performance "
+   },
+   "Skills": " SQL,Database Query Optimization ",
+   "Domain": " Database Management"
+},
+ {
+   "ID": "111 ",
+   "Projects": {
+      "Experience": " Develop a Real-Time Chat Application "
+   },
+   "Skills": " Real-time Chat,WebSockets ",
+   "Domain": " Chat Application"
+},
+ {
+   "ID": "112 ",
+   "Projects": {
+      "Experience": " Create a Social Media Campaign Strategy "
+   },
+   "Skills": " Social Media Marketing,Strategy ",
+   "Domain": " Digital Marketing"
+},
+ {
+   "ID": "113 ",
+   "Projects": {
+      "Experience": " Design an E-commerce Storefront with Shopify "
+   },
+   "Skills": " Shopify,E-commerce Design ",
+   "Domain": " E-commerce Development"
+},
+ {
+   "ID": "114 ",
+   "Projects": {
+      "Experience": " Deploy a Scalable Microservices Architecture "
+   },
+   "Skills": " Microservices,Scalability ",
+   "Domain": " Software Architecture"
+},
+ {
+   "ID": "115 ",
+   "Projects": {
+      "Experience": " Build a To-Do List Mobile App with React Native "
+   },
+   "Skills": " React Native,JavaScript,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "116 ",
+   "Projects": {
+      "Experience": " Perform Data Analysis with Python and Pandas "
+   },
+   "Skills": " Python,Pandas,Data Analysis ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "117 ",
+   "Projects": {
+      "Experience": " Implement Infrastructure Monitoring with Prometheus "
+   },
+   "Skills": " Prometheus,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "118 ",
+   "Projects": {
+      "Experience": " Develop a Task Management System with Laravel "
+   },
+   "Skills": " Laravel,Task Management ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "119 ",
+   "Projects": {
+      "Experience": " Design a Minimalist Portfolio Website "
+   },
+   "Skills": " Minimalist Design,Portfolio Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "120 ",
+   "Projects": {
+      "Experience": " Optimize SEO for a Local Business Website "
+   },
+   "Skills": " Local SEO,SEO Optimization ",
+   "Domain": " Search Engine Optimization"
+},
+ {
+   "ID": "121 ",
+   "Projects": {
+      "Experience": " Create a RESTful API using Spring Boot "
+   },
+   "Skills": " Spring Boot,API Development ",
+   "Domain": " Backend Development"
+},
+ {
+   "ID": "122 ",
+   "Projects": {
+      "Experience": " Develop an Augmented Reality App with ARKit "
+   },
+   "Skills": " ARKit,iOS Development ",
+   "Domain": " Augmented Reality"
+},
+ {
+   "ID": "123 ",
+   "Projects": {
+      "Experience": " Build a Personal Finance Management System "
+   },
+   "Skills": " Finance Management,Web Development ",
+   "Domain": " Financial Software"
+},
+ {
+   "ID": "124 ",
+   "Projects": {
+      "Experience": " Design a Mobile App User Interface with Adobe XD "
+   },
+   "Skills": " UI/UX Design,Adobe XD,Mobile App Design ",
+   "Domain": " Mobile App Design"
+},
+ {
+   "ID": "125 ",
+   "Projects": {
+      "Experience": " Conduct Usability Testing for an E-commerce Site "
+   },
+   "Skills": " Usability Testing,E-commerce,User Experience ",
+   "Domain": " User Testing"
+},
+ {
+   "ID": "126 ",
+   "Projects": {
+      "Experience": " Implement Security Measures for Web Applications "
+   },
+   "Skills": " Web Security,Security Measures ",
+   "Domain": " Security"
+},
+ {
+   "ID": "127 ",
+   "Projects": {
+      "Experience": " Develop a Social Networking Site with Ruby on Rails "
+   },
+   "Skills": " Ruby on Rails,Web Development,Social Networking ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "128 ",
+   "Projects": {
+      "Experience": " Create a Travel Booking Mobile App with Xamarin "
+   },
+   "Skills": " Xamarin,Travel Booking,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "129 ",
+   "Projects": {
+      "Experience": " Build a Real-Time Dashboard for IoT Data "
+   },
+   "Skills": " IoT,Real-Time Dashboard,Web Development ",
+   "Domain": " IoT Development"
+},
+ {
+   "ID": "130 ",
+   "Projects": {
+      "Experience": " Deploy a Machine Learning Model with Flask "
+   },
+   "Skills": " Flask,Machine Learning Deployment ",
+   "Domain": " Machine Learning"
+},
+ {
+   "ID": "131 ",
+   "Projects": {
+      "Experience": " Design a Responsive Website for a Restaurant "
+   },
+   "Skills": " HTML,CSS,Responsive Web Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "132 ",
+   "Projects": {
+      "Experience": " Develop a Mobile Game with Unity and C# "
+   },
+   "Skills": " Unity,C#,Game Development ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "133 ",
+   "Projects": {
+      "Experience": " Conduct A/B Testing for a Website Redesign "
+   },
+   "Skills": " A/B Testing,Website Redesign ",
+   "Domain": " Website Optimization"
+},
+ {
+   "ID": "134 ",
+   "Projects": {
+      "Experience": " Create an E-learning Platform with Moodle "
+   },
+   "Skills": " Moodle,E-learning ",
+   "Domain": " E-learning Development"
+},
+ {
+   "ID": "135 ",
+   "Projects": {
+      "Experience": " Design a Logo and Branding for a Fashion Label "
+   },
+   "Skills": " Branding,Logo Design,Fashion ",
+   "Domain": " Graphic Design"
+},
+ {
+   "ID": "136 ",
+   "Projects": {
+      "Experience": " Optimize Database Performance with Indexing "
+   },
+   "Skills": " Database Indexing,Database Optimization ",
+   "Domain": " Database Management"
+},
+ {
+   "ID": "137 ",
+   "Projects": {
+      "Experience": " Develop an Online Marketplace with Django "
+   },
+   "Skills": " Django,Online Marketplace ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "138 ",
+   "Projects": {
+      "Experience": " Build a Social Media Analytics Dashboard "
+   },
+   "Skills": " Data Analytics,Social Media Analytics ",
+   "Domain": " Data Visualization"
+},
+ {
+   "ID": "139 ",
+   "Projects": {
+      "Experience": " Implement Continuous Integration with Jenkins "
+   },
+   "Skills": " Jenkins,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "140 ",
+   "Projects": {
+      "Experience": " Create a Game Level Design in Unreal Engine "
+   },
+   "Skills": " Unreal Engine,Game Design ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "141 ",
+   "Projects": {
+      "Experience": " Design an Interactive Dashboard for Financial Data "
+   },
+   "Skills": " Data Visualization,Financial Data ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "142 ",
+   "Projects": {
+      "Experience": " Develop a Healthcare Mobile App with React Native "
+   },
+   "Skills": " React Native,Healthcare App,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "143 ",
+   "Projects": {
+      "Experience": " Perform Sentiment Analysis on Customer Reviews "
+   },
+   "Skills": " Sentiment Analysis,Text Analysis ",
+   "Domain": " Data Analysis"
+},
+ {
+   "ID": "144 ",
+   "Projects": {
+      "Experience": " Implement Cloud Deployment with Azure "
+   },
+   "Skills": " Azure,Cloud Deployment ",
+   "Domain": " Cloud Computing"
+},
+ {
+   "ID": "145 ",
+   "Projects": {
+      "Experience": " Develop a Cross-Platform Desktop App with Electron "
+   },
+   "Skills": " Electron,JavaScript,Desktop App Development ",
+   "Domain": " Desktop App Development"
+},
+ {
+   "ID": "146 ",
+   "Projects": {
+      "Experience": " Design a Game User Interface with Unity "
+   },
+   "Skills": " UI/UX Design,Game Development ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "147 ",
+   "Projects": {
+      "Experience": " Build a Time Tracking Application with Python "
+   },
+   "Skills": " Python,Time Tracking ",
+   "Domain": " Software Development"
+},
+ {
+   "ID": "148 ",
+   "Projects": {
+      "Experience": " Create an Inventory Management System with Java "
+   },
+   "Skills": " Java,Inventory Management ",
+   "Domain": " Software Development"
+},
+ {
+   "ID": "149 ",
+   "Projects": {
+      "Experience": " Develop a Chatbot for Customer Service "
+   },
+   "Skills": " Chatbot Development,Customer Service ",
+   "Domain": " Chatbot Development"
+},
+ {
+   "ID": "150 ",
+   "Projects": {
+      "Experience": " Build a Personal Blog Platform with WordPress "
+   },
+   "Skills": " WordPress,Personal Blog ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "151 ",
+   "Projects": {
+      "Experience": " Conduct Data Analysis for Market Research "
+   },
+   "Skills": " Data Analysis,Market Research ",
+   "Domain": " Market Research"
+},
+ {
+   "ID": "152 ",
+   "Projects": {
+      "Experience": " Implement Infrastructure as Code with Puppet "
+   },
+   "Skills": " Puppet,Infrastructure as Code ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "153 ",
+   "Projects": {
+      "Experience": " Design a Minimalist Mobile App Interface "
+   },
+   "Skills": " UI/UX Design,Minimalist Design ",
+   "Domain": " Mobile App Design"
+},
+ {
+   "ID": "154 ",
+   "Projects": {
+      "Experience": " Develop a Financial Dashboard with Power BI "
+   },
+   "Skills": " Power BI,Financial Dashboard ",
+   "Domain": " Data Visualization"
+},
+ {
+   "ID": "155 ",
+   "Projects": {
+      "Experience": " Create a Recipe Mobile App with React Native "
+   },
+   "Skills": " React Native,Recipe App ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "156 ",
+   "Projects": {
+      "Experience": " Perform Sentiment Analysis on Social Media Data "
+   },
+   "Skills": " Sentiment Analysis,NLP ",
+   "Domain": " Data Analysis"
+},
+ {
+   "ID": "157 ",
+   "Projects": {
+      "Experience": " Implement Cloud Deployment with Google Cloud "
+   },
+   "Skills": " Google Cloud,Cloud Deployment ",
+   "Domain": " Cloud Computing"
+},
+ {
+   "ID": "158 ",
+   "Projects": {
+      "Experience": " Develop a Cross-Platform Desktop App with C# "
+   },
+   "Skills": " C#,Desktop App Development ",
+   "Domain": " Desktop App Development"
+},
+ {
+   "ID": "159 ",
+   "Projects": {
+      "Experience": " Design a User-Centric E-commerce Website "
+   },
+   "Skills": " UI/UX Design,E-commerce Design ",
+   "Domain": " E-commerce Development"
+},
+ {
+   "ID": "160 ",
+   "Projects": {
+      "Experience": " Build a Health and Wellness Mobile App "
+   },
+   "Skills": " Health App,Wellness App ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "161 ",
+   "Projects": {
+      "Experience": " Create a Data Visualization Dashboard with Plotly "
+   },
+   "Skills": " Plotly,Data Visualization ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "162 ",
+   "Projects": {
+      "Experience": " Implement CI/CD Pipeline with Jenkins "
+   },
+   "Skills": " Jenkins,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "163 ",
+   "Projects": {
+      "Experience": " Develop a Custom WordPress Theme "
+   },
+   "Skills": " WordPress,Theme Development ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "164 ",
+   "Projects": {
+      "Experience": " Design a Landing Page for a New Product Launch "
+   },
+   "Skills": " HTML,CSS,Landing Page Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "165 ",
+   "Projects": {
+      "Experience": " Build a Travel Booking System with React.js "
+   },
+   "Skills": " React.js,Travel Booking ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "166 ",
+   "Projects": {
+      "Experience": " Optimize SQL Queries for Large Databases "
+   },
+   "Skills": " SQL,Database Optimization ",
+   "Domain": " Database Management"
+},
+ {
+   "ID": "167 ",
+   "Projects": {
+      "Experience": " Develop a Real-Time Chat Application with WebSockets "
+   },
+   "Skills": " Real-time Chat,WebSockets ",
+   "Domain": " Chat Application"
+},
+ {
+   "ID": "168 ",
+   "Projects": {
+      "Experience": " Create a Social Media Marketing Strategy "
+   },
+   "Skills": " Social Media Marketing,Marketing Strategy ",
+   "Domain": " Digital Marketing"
+},
+ {
+   "ID": "169 ",
+   "Projects": {
+      "Experience": " Design an E-commerce Storefront with WooCommerce "
+   },
+   "Skills": " WooCommerce,E-commerce Design ",
+   "Domain": " E-commerce Development"
+},
+ {
+   "ID": "170 ",
+   "Projects": {
+      "Experience": " Deploy a Microservices Architecture with Kubernetes "
+   },
+   "Skills": " Kubernetes,Microservices ",
+   "Domain": " Software Architecture"
+},
+ {
+   "ID": "171 ",
+   "Projects": {
+      "Experience": " Build a To-Do List Mobile App with Flutter "
+   },
+   "Skills": " Flutter,To-Do List App ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "172 ",
+   "Projects": {
+      "Experience": " Perform Data Analysis with R and Data Visualization "
+   },
+   "Skills": " R,Data Analysis,Data Visualization ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "173 ",
+   "Projects": {
+      "Experience": " Implement Infrastructure Monitoring with Nagios "
+   },
+   "Skills": " Nagios,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "174 ",
+   "Projects": {
+      "Experience": " Develop a Task Management System with Ruby on Rails "
+   },
+   "Skills": " Ruby on Rails,Task Management ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "175 ",
+   "Projects": {
+      "Experience": " Design a Minimalist Portfolio Website "
+   },
+   "Skills": " Minimalist Design,Portfolio Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "176 ",
+   "Projects": {
+      "Experience": " Optimize SEO for a Local Business Website "
+   },
+   "Skills": " Local SEO,SEO Optimization ",
+   "Domain": " Search Engine Optimization"
+},
+ {
+   "ID": "177 ",
+   "Projects": {
+      "Experience": " Create a RESTful API using Spring Boot "
+   },
+   "Skills": " Spring Boot,API Development ",
+   "Domain": " Backend Development"
+},
+ {
+   "ID": "178 ",
+   "Projects": {
+      "Experience": " Develop an Augmented Reality App with ARCore "
+   },
+   "Skills": " ARCore,Android Development ",
+   "Domain": " Augmented Reality"
+},
+ {
+   "ID": "179 ",
+   "Projects": {
+      "Experience": " Build a Personal Finance Management System "
+   },
+   "Skills": " Finance Management,Web Development ",
+   "Domain": " Financial Software"
+},
+ {
+   "ID": "180 ",
+   "Projects": {
+      "Experience": " Design a Mobile App User Interface with Figma "
+   },
+   "Skills": " UI/UX Design,Figma,Mobile App Design ",
+   "Domain": " Mobile App Design"
+},
+ {
+   "ID": "181 ",
+   "Projects": {
+      "Experience": " Conduct Usability Testing for an E-commerce Site "
+   },
+   "Skills": " Usability Testing,E-commerce,User Experience ",
+   "Domain": " User Testing"
+},
+ {
+   "ID": "182 ",
+   "Projects": {
+      "Experience": " Implement Security Measures for Web Applications "
+   },
+   "Skills": " Web Security,Security Measures ",
+   "Domain": " Security"
+},
+ {
+   "ID": "183 ",
+   "Projects": {
+      "Experience": " Develop a Social Networking Site with Ruby on Rails "
+   },
+   "Skills": " Ruby on Rails,Web Development,Social Networking ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "184 ",
+   "Projects": {
+      "Experience": " Create a Travel Booking Mobile App with Xamarin "
+   },
+   "Skills": " Xamarin,Travel Booking,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "185 ",
+   "Projects": {
+      "Experience": " Build a Real-Time Dashboard for IoT Data "
+   },
+   "Skills": " IoT,Real-Time Dashboard,Web Development ",
+   "Domain": " IoT Development"
+},
+ {
+   "ID": "186 ",
+   "Projects": {
+      "Experience": " Deploy a Machine Learning Model with Flask "
+   },
+   "Skills": " Flask,Machine Learning Deployment ",
+   "Domain": " Machine Learning"
+},
+ {
+   "ID": "187 ",
+   "Projects": {
+      "Experience": " Design a Responsive Website for a Restaurant "
+   },
+   "Skills": " HTML,CSS,Responsive Web Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "188 ",
+   "Projects": {
+      "Experience": " Develop a Mobile Game with Unity and C# "
+   },
+   "Skills": " Unity,C#,Game Development ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "189 ",
+   "Projects": {
+      "Experience": " Conduct A/B Testing for a Website Redesign "
+   },
+   "Skills": " A/B Testing,Website Redesign ",
+   "Domain": " Website Optimization"
+},
+ {
+   "ID": "190 ",
+   "Projects": {
+      "Experience": " Create an E-learning Platform with Moodle "
+   },
+   "Skills": " Moodle,E-learning ",
+   "Domain": " E-learning Development"
+},
+ {
+   "ID": "191 ",
+   "Projects": {
+      "Experience": " Design a Logo and Branding for a Fashion Label "
+   },
+   "Skills": " Branding,Logo Design,Fashion ",
+   "Domain": " Graphic Design"
+},
+ {
+   "ID": "192 ",
+   "Projects": {
+      "Experience": " Optimize Database Performance with Indexing "
+   },
+   "Skills": " Database Indexing,Database Optimization ",
+   "Domain": " Database Management"
+},
+ {
+   "ID": "193 ",
+   "Projects": {
+      "Experience": " Develop an Online Marketplace with Django "
+   },
+   "Skills": " Django,Online Marketplace ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "194 ",
+   "Projects": {
+      "Experience": " Build a Social Media Analytics Dashboard "
+   },
+   "Skills": " Data Analytics,Social Media Analytics ",
+   "Domain": " Data Visualization"
+},
+ {
+   "ID": "195 ",
+   "Projects": {
+      "Experience": " Implement Continuous Integration with Jenkins "
+   },
+   "Skills": " Jenkins,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "196 ",
+   "Projects": {
+      "Experience": " Create a Game Level Design in Unreal Engine "
+   },
+   "Skills": " Unreal Engine,Game Design ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "197 ",
+   "Projects": {
+      "Experience": " Design an Interactive Dashboard for Financial Data "
+   },
+   "Skills": " Data Visualization,Financial Data ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "198 ",
+   "Projects": {
+      "Experience": " Develop a Healthcare Mobile App with React Native "
+   },
+   "Skills": " React Native,Healthcare App,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "199 ",
+   "Projects": {
+      "Experience": " Perform Data Analysis with Python and Pandas "
+   },
+   "Skills": " Python,Pandas,Data Analysis ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "200 ",
+   "Projects": {
+      "Experience": " Implement Infrastructure Monitoring with Prometheus "
+   },
+   "Skills": " Prometheus,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "201 ",
+   "Projects": {
+      "Experience": " Develop a Task Management System with Laravel "
+   },
+   "Skills": " Laravel,Task Management ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "202 ",
+   "Projects": {
+      "Experience": " Design a Minimalist Portfolio Website "
+   },
+   "Skills": " Minimalist Design,Portfolio Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "203 ",
+   "Projects": {
+      "Experience": " Optimize SEO for a Local Business Website "
+   },
+   "Skills": " Local SEO,SEO Optimization ",
+   "Domain": " Search Engine Optimization"
+},
+ {
+   "ID": "204 ",
+   "Projects": {
+      "Experience": " Create a RESTful API using Spring Boot "
+   },
+   "Skills": " Spring Boot,API Development ",
+   "Domain": " Backend Development"
+},
+ {
+   "ID": "205 ",
+   "Projects": {
+      "Experience": " Develop an Augmented Reality App with ARKit "
+   },
+   "Skills": " ARKit,iOS Development ",
+   "Domain": " Augmented Reality"
+},
+ {
+   "ID": "206 ",
+   "Projects": {
+      "Experience": " Build a Personal Finance Management System "
+   },
+   "Skills": " Finance Management,Web Development ",
+   "Domain": " Financial Software"
+},
+ {
+   "ID": "207 ",
+   "Projects": {
+      "Experience": " Design a Mobile App User Interface with Adobe XD "
+   },
+   "Skills": " UI/UX Design,Adobe XD,Mobile App Design ",
+   "Domain": " Mobile App Design"
+},
+ {
+   "ID": "208 ",
+   "Projects": {
+      "Experience": " Conduct Usability Testing for an E-commerce Site "
+   },
+   "Skills": " Usability Testing,E-commerce,User Experience ",
+   "Domain": " User Testing"
+},
+ {
+   "ID": "209 ",
+   "Projects": {
+      "Experience": " Implement Security Measures for Web Applications "
+   },
+   "Skills": " Web Security,Security Measures ",
+   "Domain": " Security"
+},
+ {
+   "ID": "210 ",
+   "Projects": {
+      "Experience": " Develop a Social Networking Site with Ruby on Rails "
+   },
+   "Skills": " Ruby on Rails,Web Development,Social Networking ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "211 ",
+   "Projects": {
+      "Experience": " Create a Travel Booking Mobile App with Xamarin "
+   },
+   "Skills": " Xamarin,Travel Booking,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "212 ",
+   "Projects": {
+      "Experience": " Build a Real-Time Dashboard for IoT Data "
+   },
+   "Skills": " IoT,Real-Time Dashboard,Web Development ",
+   "Domain": " IoT Development"
+},
+ {
+   "ID": "213 ",
+   "Projects": {
+      "Experience": " Deploy a Machine Learning Model with Flask "
+   },
+   "Skills": " Flask,Machine Learning Deployment ",
+   "Domain": " Machine Learning"
+},
+ {
+   "ID": "214 ",
+   "Projects": {
+      "Experience": " Design a Responsive Website for a Restaurant "
+   },
+   "Skills": " HTML,CSS,Responsive Web Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "215 ",
+   "Projects": {
+      "Experience": " Develop a Mobile Game with Unity and C# "
+   },
+   "Skills": " Unity,C#,Game Development ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "216 ",
+   "Projects": {
+      "Experience": " Conduct A/B Testing for a Website Redesign "
+   },
+   "Skills": " A/B Testing,Website Redesign ",
+   "Domain": " Website Optimization"
+},
+ {
+   "ID": "217 ",
+   "Projects": {
+      "Experience": " Create an E-learning Platform with Moodle "
+   },
+   "Skills": " Moodle,E-learning ",
+   "Domain": " E-learning Development"
+},
+ {
+   "ID": "218 ",
+   "Projects": {
+      "Experience": " Design a Logo and Branding for a Fashion Label "
+   },
+   "Skills": " Branding,Logo Design,Fashion ",
+   "Domain": " Graphic Design"
+},
+ {
+   "ID": "219 ",
+   "Projects": {
+      "Experience": " Optimize Database Performance with Indexing "
+   },
+   "Skills": " Database Indexing,Database Optimization ",
+   "Domain": " Database Management"
+},
+ {
+   "ID": "220 ",
+   "Projects": {
+      "Experience": " Develop an Online Marketplace with Django "
+   },
+   "Skills": " Django,Online Marketplace ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "221 ",
+   "Projects": {
+      "Experience": " Build a Social Media Analytics Dashboard "
+   },
+   "Skills": " Data Analytics,Social Media Analytics ",
+   "Domain": " Data Visualization"
+},
+ {
+   "ID": "222 ",
+   "Projects": {
+      "Experience": " Implement Continuous Integration with Jenkins "
+   },
+   "Skills": " Jenkins,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "223 ",
+   "Projects": {
+      "Experience": " Create a Game Level Design in Unreal Engine "
+   },
+   "Skills": " Unreal Engine,Game Design ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "224 ",
+   "Projects": {
+      "Experience": " Design an Interactive Dashboard for Financial Data "
+   },
+   "Skills": " Data Visualization,Financial Data ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "225 ",
+   "Projects": {
+      "Experience": " Develop a Healthcare Mobile App with React Native "
+   },
+   "Skills": " React Native,Healthcare App,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "226 ",
+   "Projects": {
+      "Experience": " Perform Data Analysis with Python and Pandas "
+   },
+   "Skills": " Python,Pandas,Data Analysis ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "227 ",
+   "Projects": {
+      "Experience": " Implement Infrastructure Monitoring with Prometheus "
+   },
+   "Skills": " Prometheus,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "228 ",
+   "Projects": {
+      "Experience": " Develop a Task Management System with Laravel "
+   },
+   "Skills": " Laravel,Task Management ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "229 ",
+   "Projects": {
+      "Experience": " Design a Minimalist Portfolio Website "
+   },
+   "Skills": " Minimalist Design,Portfolio Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "230 ",
+   "Projects": {
+      "Experience": " Optimize SEO for a Local Business Website "
+   },
+   "Skills": " Local SEO,SEO Optimization ",
+   "Domain": " Search Engine Optimization"
+},
+ {
+   "ID": "231 ",
+   "Projects": {
+      "Experience": " Create a RESTful API using Spring Boot "
+   },
+   "Skills": " Spring Boot,API Development ",
+   "Domain": " Backend Development"
+},
+ {
+   "ID": "232 ",
+   "Projects": {
+      "Experience": " Develop an Augmented Reality App with ARCore "
+   },
+   "Skills": " ARCore,Android Development ",
+   "Domain": " Augmented Reality"
+},
+ {
+   "ID": "233 ",
+   "Projects": {
+      "Experience": " Build a Personal Finance Management System "
+   },
+   "Skills": " Finance Management,Web Development ",
+   "Domain": " Financial Software"
+},
+ {
+   "ID": "234 ",
+   "Projects": {
+      "Experience": " Design a Mobile App User Interface with Figma "
+   },
+   "Skills": " UI/UX Design,Figma,Mobile App Design ",
+   "Domain": " Mobile App Design"
+},
+ {
+   "ID": "235 ",
+   "Projects": {
+      "Experience": " Conduct Usability Testing for an E-commerce Site "
+   },
+   "Skills": " Usability Testing,E-commerce,User Experience ",
+   "Domain": " User Testing"
+},
+ {
+   "ID": "236 ",
+   "Projects": {
+      "Experience": " Implement Security Measures for Web Applications "
+   },
+   "Skills": " Web Security,Security Measures ",
+   "Domain": " Security"
+},
+ {
+   "ID": "237 ",
+   "Projects": {
+      "Experience": " Develop a Social Networking Site with Ruby on Rails "
+   },
+   "Skills": " Ruby on Rails,Web Development,Social Networking ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "238 ",
+   "Projects": {
+      "Experience": " Create a Travel Booking Mobile App with Xamarin "
+   },
+   "Skills": " Xamarin,Travel Booking,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "239 ",
+   "Projects": {
+      "Experience": " Build a Real-Time Dashboard for IoT Data "
+   },
+   "Skills": " IoT,Real-Time Dashboard,Web Development ",
+   "Domain": " IoT Development"
+},
+ {
+   "ID": "240 ",
+   "Projects": {
+      "Experience": " Deploy a Machine Learning Model with Flask "
+   },
+   "Skills": " Flask,Machine Learning Deployment ",
+   "Domain": " Machine Learning"
+},
+ {
+   "ID": "241 ",
+   "Projects": {
+      "Experience": " Design a Responsive Website for a Restaurant "
+   },
+   "Skills": " HTML,CSS,Responsive Web Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "242 ",
+   "Projects": {
+      "Experience": " Develop a Mobile Game with Unity and C# "
+   },
+   "Skills": " Unity,C#,Game Development ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "243 ",
+   "Projects": {
+      "Experience": " Conduct A/B Testing for a Website Redesign "
+   },
+   "Skills": " A/B Testing,Website Redesign ",
+   "Domain": " Website Optimization"
+},
+ {
+   "ID": "244 ",
+   "Projects": {
+      "Experience": " Create an E-learning Platform with Moodle "
+   },
+   "Skills": " Moodle,E-learning ",
+   "Domain": " E-learning Development"
+},
+ {
+   "ID": "245 ",
+   "Projects": {
+      "Experience": " Design a Logo and Branding for a Fashion Label "
+   },
+   "Skills": " Branding,Logo Design,Fashion ",
+   "Domain": " Graphic Design"
+},
+ {
+   "ID": "246 ",
+   "Projects": {
+      "Experience": " Optimize Database Performance with Indexing "
+   },
+   "Skills": " Database Indexing,Database Optimization ",
+   "Domain": " Database Management"
+},
+ {
+   "ID": "247 ",
+   "Projects": {
+      "Experience": " Develop an Online Marketplace with Django "
+   },
+   "Skills": " Django,Online Marketplace ",
+   "Domain": " Web Development"
+},
+{
+   "ID": "248",
+   "Projects": {
+     "Experience": "Implement Natural Language Processing (NLP) in a Chatbot"
+   },
+   "Skills": "NLP,Chatbot Development",
+   "Domain": "Artificial Intelligence"
+ },
+ {
+   "ID": "249",
+   "Projects": {
+     "Experience": "Design and Develop a Mobile App for Task Management"
+   },
+   "Skills": "Mobile App Development,Task Management",
+   "Domain": "Mobile Development"
+ },
+ {
+   "ID": "250",
+   "Projects": {
+     "Experience": "Create a 3D Model for Virtual Reality (VR) Simulation"
+   },
+   "Skills": "3D Modeling,VR Development",
+   "Domain": "Virtual Reality"
+ },
+ {
+   "ID": "251",
+   "Projects": {
+     "Experience": "Build a Data Visualization Dashboard with Tableau"
+   },
+   "Skills": "Tableau,Data Visualization",
+   "Domain": "Data Analytics"
+ },
+ {
+   "ID": "252",
+   "Projects": {
+     "Experience": "Implement Blockchain Technology in Supply Chain Management"
+   },
+   "Skills": "Blockchain,Supply Chain Management",
+   "Domain": "Blockchain Development"
+ },
+ {
+   "ID": "253",
+   "Projects": {
+     "Experience": "Design a User Interface (UI) for a Mobile App"
+   },
+   "Skills": "UI Design,Mobile App Development",
+   "Domain": "User Experience Design"
+ },
+ {
+   "ID": "254",
+   "Projects": {
+     "Experience": "Deploy a Sentiment Analysis Model for Social Media Data"
+   },
+   "Skills": "Sentiment Analysis,Data Analysis",
+   "Domain": "Data Science"
+ },
+ {
+   "ID": "255",
+   "Projects": {
+     "Experience": "Create a Content Management System (CMS) with WordPress"
+   },
+   "Skills": "WordPress,CMS Development",
+   "Domain": "Web Development"
+ },
+ {
+   "ID": "256",
+   "Projects": {
+     "Experience": "Develop a Real-time Chat Application with Socket.io and Node.js"
+   },
+   "Skills": "Socket.io,Node.js,Real-time Application Development",
+   "Domain": "Web Development"
+ },
+ {
+   "ID": "257",
+   "Projects": {
+     "Experience": "Build an Automated Trading System using Python and Quantitative Strategies"
+   },
+   "Skills": "Python,Algorithmic Trading,Quantitative Analysis",
+   "Domain": "Finance"
+ },
+ {
+   "ID": "258",
+   "Projects": {
+     "Experience": "Design and Develop a Multiplayer Online Game with Unity and Photon"
+   },
+   "Skills": "Unity,Photon,Multiplayer Game Development",
+   "Domain": "Game Development"
+ },
+ {
+   "ID": "259",
+   "Projects": {
+     "Experience": "Create a Personal Finance Tracker App with React Native"
+   },
+   "Skills": "React Native,Mobile App Development,Finance Management",
+   "Domain": "Mobile Development"
+ },
+ {
+   "ID": "260",
+   "Projects": {
+     "Experience": "Implement Machine Learning Algorithms for Predictive Maintenance"
+   },
+   "Skills": "Machine Learning,Predictive Maintenance,Data Analysis",
+   "Domain": "Industrial IoT"
+ },
+ {
+   "ID": "261",
+   "Projects": {
+     "Experience": "Develop a Content Recommendation Engine using Collaborative Filtering"
+   },
+   "Skills": "Collaborative Filtering,Data Mining,Recommendation Systems",
+   "Domain": "Data Science"
+ },
+ {
+   "ID": "262",
+   "Projects": {
+     "Experience": "Design an Interactive Infographic for Data Visualization"
+   },
+   "Skills": "Data Visualization,Infographic Design,Interactive Media",
+   "Domain": "Graphic Design"
+ },
+ {
+   "ID": "263",
+   "Projects": {
+     "Experience": "Build a Fitness Tracking App with GPS Integration"
+   },
+   "Skills": "Mobile App Development,GPS Integration,Health & Fitness",
+   "Domain": "HealthTech"
+ },
+ {
+   "ID": "264",
+   "Projects": {
+     "Experience": "Deploy a Kubernetes Cluster for Microservices Architecture"
+   },
+   "Skills": "Kubernetes,Microservices,DevOps",
+   "Domain": "Cloud Computing"
+ },
+ {
+   "ID": "265",
+   "Projects": {
+     "Experience": "Create an Online Learning Platform with Gamification Elements"
+   },
+   "Skills": "Gamification,E-learning,Web Development",
+   "Domain": "EdTech"
+ },
+ {
+   "ID": "266",
+   "Projects": {
+     "Experience": "Design and Develop a Blogging Platform with Django"
+   },
+   "Skills": "Django,Blogging,Web Development",
+   "Domain": "Content Management"
+ },
+ {
+   "ID": "267",
+   "Projects": {
+     "Experience": "Implement Face Recognition System for Attendance Management"
+   },
+   "Skills": "Face Recognition,Attendance Management,Security Systems",
+   "Domain": "Biometrics"
+ },
+ {
+   "ID": "268",
+   "Projects": {
+     "Experience": "Build an E-commerce Website with Payment Gateway Integration"
+   },
+   "Skills": "E-commerce,Payment Gateway Integration,Web Development",
+   "Domain": "Online Retail"
+ },
+ {
+   "ID": "269",
+   "Projects": {
+     "Experience": "Develop a Customer Relationship Management (CRM) System"
+   },
+   "Skills": "CRM,Database Management,Software Development",
+   "Domain": "Business Solutions"
+ },
+ {
+   "ID": "270",
+   "Projects": {
+     "Experience": "Design a Responsive Landing Page for a Marketing Campaign"
+   },
+   "Skills": "HTML,CSS,Responsive Web Design",
+   "Domain": "Digital Marketing"
+ },
+ {
+   "ID": "271",
+   "Projects": {
+     "Experience": "Create a Video Streaming Platform with HLS and MPEG-DASH"
+   },
+   "Skills": "Video Streaming,HLS,MPEG-DASH,Media Server",
+   "Domain": "Media Technology"
+ },
+ {
+   "ID": "272",
+   "Projects": {
+     "Experience": "Implement Sentiment Analysis in Customer Reviews for Sentiment-based Marketing"
+   },
+   "Skills": "Sentiment Analysis,Marketing Analytics,Data Science",
+   "Domain": "Marketing Technology"
+ },
+ {
+   "ID": "273",
+   "Projects": {
+     "Experience": "Build an AI-powered Chatbot for Customer Support"
+   },
+   "Skills": "AI,Chatbot Development,Customer Support",
+   "Domain": "Customer Service"
+ },
+ {
+   "ID": "274",
+   "Projects": {
+     "Experience": "Design and Develop a Travel Booking App with Map Integration"
+   },
+   "Skills": "Mobile App Development,Map Integration,Travel Technology",
+   "Domain": "Travel & Tourism"
+ },
+ {
+   "ID": "275",
+   "Projects": {
+     "Experience": "Create an Online Auction Platform with Bidding System"
+   },
+   "Skills": "Auction System,Web Development,Online Marketplace",
+   "Domain": "E-commerce"
+ },
+ {
+   "ID": "276",
+   "Projects": {
+     "Experience": "Develop a Smart Home Automation System with IoT Devices"
+   },
+   "Skills": "IoT,Home Automation,Embedded Systems",
+   "Domain": "Smart Home Technology"
+ },
+ {
+   "ID": "277",
+   "Projects": {
+     "Experience": "Design a User Interface (UI) for a Financial Dashboard"
+   },
+   "Skills": "UI Design,Financial Technology,Data Visualization",
+   "Domain": "Fintech"
+ },
+ {
+   "ID": "278",
+   "Projects": {
+     "Experience": "Implement Data Anonymization Techniques for Privacy Protection"
+   },
+   "Skills": "Data Anonymization,Privacy Protection,Cybersecurity",
+   "Domain": "Data Privacy"
+ },
+ {
+   "ID": "279",
+   "Projects": {
+     "Experience": "Build a Music Recommendation System using Collaborative Filtering"
+   },
+   "Skills": "Music Recommendation,Collaborative Filtering,Data Science",
+   "Domain": "Entertainment Technology"
+ },
+ {
+   "ID": "280",
+   "Projects": {
+     "Experience": "Develop a Food Delivery App with Real-time Tracking"
+   },
+   "Skills": "Mobile App Development,Real-time Tracking,Food Technology",
+   "Domain": "Food & Beverage"
+ },
+ {
+   "ID": "281",
+   "Projects": {
+     "Experience": "Create an Online Portfolio Website for Freelancers"
+   },
+   "Skills": "Web Development,Portfolio Design,Personal Branding",
+   "Domain": "Freelancing"
+ },
+ {
+   "ID": "282",
+   "Projects": {
+     "Experience": "Design and Develop a Virtual Event Platform with Live Streaming"
+   },
+   "Skills": "Virtual Events,Live Streaming,Web Development",
+   "Domain": "Event Technology"
+ },
+ {
+   "ID": "283",
+   "Projects": {
+     "Experience": "Build a Cryptocurrency Exchange Platform with Trading APIs"
+   },
+   "Skills": "Cryptocurrency,Trading APIs,Blockchain Development",
+   "Domain": "Financial Technology"
+ },
+ {
+   "ID": "284",
+   "Projects": {
+     "Experience": "Implement Machine Learning Models for Fraud Detection"
+   },
+   "Skills": "Machine Learning,Fraud Detection,Data Analysis",
+   "Domain": "Risk Management"
+ },
+ {
+   "ID": "285",
+   "Projects": {
+     "Experience": "Develop a Social Networking App with Chat and News Feed"
+   },
+   "Skills": "Social Networking,Chat Feature,Mobile App Development",
+   "Domain": "Social Media"
+ },
+ {
+   "ID": "286",
+   "Projects": {
+     "Experience": "Design and Develop a Learning Management System (LMS)"
+   },
+   "Skills": "LMS Development,E-learning,Software Development",
+   "Domain": "Education Technology"
+ },
+ {
+   "ID": "287",
+   "Projects": {
+     "Experience": "Build a Healthcare Management System with Electronic Health Records (EHR)"
+   },
+   "Skills": "Healthcare IT,EHR System,Software Development",
+   "Domain": "Healthcare Technology"
+ },
+ {
+   "ID": "288",
+   "Projects": {
+     "Experience": "Create a Car Rental Management System with Reservation System"
+   },
+   "Skills": "Car Rental System,Reservation Management,Software Development",
+   "Domain": "Transportation Technology"
+ },
+ {
+   "ID": "289",
+   "Projects": {
+     "Experience": "Develop an Inventory Management System for Retail Businesses"
+   },
+   "Skills": "Inventory Management,Retail Technology,Software Development",
+   "Domain": "Retail Technology"
+ },
+ {
+   "ID": "290",
+   "Projects": {
+     "Experience": "Design and Develop an Online Voting System for Elections"
+   },
+   "Skills": "Online Voting System,Election Technology,Web Development",
+   "Domain": "Governance Technology"
+ },
+ {
+   "ID": "291",
+   "Projects": {
+     "Experience": "Build a Weather Forecasting App with API Integration"
+   },
+   "Skills": "Weather Forecasting,API Integration,Mobile App Development",
+   "Domain": "Weather Technology"
+ },
+ {
+   "ID": "292",
+   "Projects": {
+     "Experience": "Create a Cryptocurrency Wallet App with Secure Transactions"
+   },
+   "Skills": "Cryptocurrency,Wallet App Development,Security Systems",
+   "Domain": "Fintech"
+ },
+ {
+   "ID": "293",
+   "Projects": {
+     "Experience": "Implement Facial Recognition System for Access Control"
+   },
+   "Skills": "Facial Recognition,Access Control,Security Systems",
+   "Domain": "Security Technology"
+ },
+ {
+   "ID": "294",
+   "Projects": {
+     "Experience": "Design and Develop an Online Learning Platform for Kids"
+   },
+   "Skills": "Kids Education,Online Learning Platform,Web Development",
+   "Domain": "EdTech"
+ },
+ {
+   "ID": "295",
+   "Projects": {
+     "Experience": "Build a Task Management System for Project Collaboration"
+   },
+   "Skills": "Task Management,Project Collaboration,Software Development",
+   "Domain": "Project Management"
+ },
+ {
+   "ID": "296",
+   "Projects": {
+     "Experience": "Create an AI-powered Personal Assistant for Time Management"
+   },
+   "Skills": "AI,Personal Assistant,Time Management",
+   "Domain": "Productivity Technology"
+ },
+ {
+   "ID": "297",
+   "Projects": {
+     "Experience": "Develop a Language Learning App with Speech Recognition"
+   },
+   "Skills": "Language Learning,Speech Recognition,Mobile App Development",
+   "Domain": "Education Technology"
+ },
+ {
+   "ID": "298",
+   "Projects": {
+     "Experience": "Design and Develop an Augmented Reality (AR) Shopping App"
+   },
+   "Skills": "AR Development,E-commerce,Mobile App Development",
+   "Domain": "Augmented Reality"
+ },
+ {
+   "ID": "299",
+   "Projects": {
+     "Experience": "Build a Smart Parking System with IoT Sensors"
+   },
+   "Skills": "IoT,Smart Parking System,Embedded Systems",
+   "Domain": "Smart City Technology"
+ },
+ {
+   "ID": "300",
+   "Projects": {
+     "Experience": "Create an Online Marketplace for Artisans and Handmade Products"
+   },
+   "Skills": "Online Marketplace,Artisan Products,Web Development",
+   "Domain": "E-commerce"
+ },
+ {
+   "ID": "301",
+   "Projects": {
+     "Experience": "Develop a Subscription Billing System for SaaS Businesses"
+   },
+   "Skills": "Subscription Billing,SaaS,Software Development",
+   "Domain": "Subscription Services"
+ },
+ {
+   "ID": "302",
+   "Projects": {
+     "Experience": "Design and Develop a Document Management System for Enterprises"
+   },
+   "Skills": "Document Management,Enterprise Software,Software Development",
+   "Domain": "Enterprise Technology"
+ },
+ {
+   "ID": "303",
+   "Projects": {
+     "Experience": "Build a Digital Asset Management (DAM) System for Media Companies"
+   },
+   "Skills": "DAM System,Media Management,Software Development",
+   "Domain": "Media Technology"
+ },
+ {
+   "ID": "304",
+   "Projects": {
+     "Experience": "Create a Ride-Sharing App with Real-time Tracking and Payment"
+   },
+   "Skills": "Ride-Sharing,Real-time Tracking,Payment Integration",
+   "Domain": "Transportation Technology"
+ },
+ {
+   "ID": "305",
+   "Projects": {
+     "Experience": "Develop a Task Automation Tool for Business Process Optimization"
+   },
+   "Skills": "Task Automation,Business Process Optimization,Software Development",
+   "Domain": "Automation Technology"
+ },
+ {
+   "ID": "306",
+   "Projects": {
+     "Experience": "Design and Develop a Property Management System for Real Estate"
+   },
+   "Skills": "Property Management,Real Estate Technology,Software Development",
+   "Domain": "Real Estate"
+ },
+ {
+   "ID": "307",
+   "Projects": {
+     "Experience": "Build a Mobile Wallet App with NFC Technology"
+   },
+   "Skills": "Mobile Wallet,NFC Technology,Mobile App Development",
+   "Domain": "Fintech"
+ },
+ {
+   "ID": "308",
+   "Projects": {
+     "Experience": "Create a Virtual Classroom Platform for Online Education"
+   },
+   "Skills": "Virtual Classroom,Online Education,Web Development",
+   "Domain": "EdTech"
+ },
+ {
+   "ID": "309",
+   "Projects": {
+     "Experience": "Develop a Restaurant Management System with Online Ordering"
+   },
+   "Skills": "Restaurant Management,Online Ordering,Software Development",
+   "Domain": "Hospitality Technology"
+ },
+ {
+   "ID": "310",
+   "Projects": {
+     "Experience": "Design and Develop an Employee Feedback System for HR Management"
+   },
+   "Skills": "Employee Feedback,HR Management,Software Development",
+   "Domain": "HR Technology"
+ },
+ {
+   "ID": "311",
+   "Projects": {
+     "Experience": "Build a Social Media Analytics Dashboard for Marketing Insights"
+   },
+   "Skills": "Social Media Analytics,Data Visualization,Dashboard Development",
+   "Domain": "Marketing Technology"
+ },
+ {
+   "ID": "312",
+   "Projects": {
+     "Experience": "Develop a Point of Sale (POS) System for Retail Stores"
+   },
+   "Skills": "POS System,Retail Technology,Software Development",
+   "Domain": "Retail Technology"
+ },
+ {
+   "ID": "313",
+   "Projects": {
+     "Experience": "Create an Online Food Ordering System with Delivery Tracking"
+   },
+   "Skills": "Food Ordering System,Delivery Tracking,Web Development",
+   "Domain": "Food & Beverage"
+ },
+ {
+   "ID": "314",
+   "Projects": {
+     "Experience": "Design and Develop a Job Portal for Recruitment"
+   },
+   "Skills": "Job Portal,Recruitment Platform,Web Development",
+   "Domain": "HR Technology"
+ },
+ {
+   "ID": "315",
+   "Projects": {
+     "Experience": "Build an AI-powered Email Marketing Platform for Campaign Automation"
+   },
+   "Skills": "AI,Email Marketing,Marketing Automation",
+   "Domain": "Marketing Technology"
+ },
+ {
+   "ID": "316",
+   "Projects": {
+     "Experience": "Develop a Car Rental App with GPS Navigation"
+   },
+   "Skills": "Car Rental App,GPS Navigation,Mobile App Development",
+   "Domain": "Transportation Technology"
+ },
+ {
+   "ID": "317",
+   "Projects": {
+     "Experience": "Create a Virtual Reality (VR) Training Simulation for Corporate Learning"
+   },
+   "Skills": "VR Development,Corporate Training,Simulation Design",
+   "Domain": "Virtual Reality"
+ },
+ {
+   "ID": "318",
+   "Projects": {
+     "Experience": "Design and Develop an Inventory Tracking System for Warehouses"
+   },
+   "Skills": "Inventory Tracking,Warehouse Management,Software Development",
+   "Domain": "Logistics Technology"
+ },
+ {
+   "ID": "319",
+   "Projects": {
+     "Experience": "Build a Task Scheduling App for Time Management"
+   },
+   "Skills": "Task Scheduling,Time Management,Mobile App Development",
+   "Domain": "Productivity Technology"
+ },
+ {
+   "ID": "320",
+   "Projects": {
+     "Experience": "Develop a Telemedicine Platform for Online Consultations"
+   },
+   "Skills": "Telemedicine,Online Consultations,Healthcare Technology",
+   "Domain": "HealthTech"
+ },
+ {
+   "ID": "321",
+   "Projects": {
+     "Experience": "Create an IoT-based Smart Home Security System"
+   },
+   "Skills": "IoT,Smart Home Security,Embedded Systems",
+   "Domain": "Home Security"
+ },
+ {
+   "ID": "322",
+   "Projects": {
+     "Experience": "Design and Develop an Online Auction Platform for Art Sales"
+   },
+   "Skills": "Online Auction Platform,Art Sales,Web Development",
+   "Domain": "E-commerce"
+ },
+ {
+   "ID": "323",
+   "Projects": {
+     "Experience": "Build a Budgeting and Expense Tracking App for Personal Finance"
+   },
+   "Skills": "Budgeting,Expense Tracking,Mobile App Development",
+   "Domain": "Finance"
+ },
+ {
+   "ID": "324",
+   "Projects": {
+     "Experience": "Develop a Customer Feedback System for Service Improvement"
+   },
+   "Skills": "Customer Feedback,Service Improvement,Software Development",
+   "Domain": "Customer Service"
+ },
+ {
+   "ID": "325",
+   "Projects": {
+     "Experience": "Design and Develop a Social Networking Platform for Professionals"
+   },
+   "Skills": "Social Networking,Professional Networking,Web Development",
+   "Domain": "Social Media"
+ },
+ {
+   "ID": "326",
+   "Projects": {
+     "Experience": "Create a Language Translation App with Neural Machine Translation"
+   },
+   "Skills": "Neural Machine Translation,Language Translation,Mobile App Development",
+   "Domain": "Language Technology"
+ },
+ {
+   "ID": "327",
+   "Projects": {
+     "Experience": "Build an Online Music Streaming Platform with Playlist Management"
+   },
+   "Skills": "Music Streaming,Playlist Management,Web Development",
+   "Domain": "Music Technology"
+ },
+ {
+   "ID": "328",
+   "Projects": {
+     "Experience": "Develop a Disaster Management System with Emergency Response"
+   },
+   "Skills": "Disaster Management,Emergency Response,Software Development",
+   "Domain": "Emergency Management"
+ },
+ {
+   "ID": "329",
+   "Projects": {
+     "Experience": "Design and Develop an Employee Training Platform with Certification"
+   },
+   "Skills": "Employee Training,Certification,Software Development",
+   "Domain": "Training & Development"
+ },
+ {
+   "ID": "330",
+   "Projects": {
+     "Experience": "Create a Crowdfunding Platform for Social Causes"
+   },
+   "Skills": "Crowdfunding,Social Causes,Web Development",
+   "Domain": "Fundraising"
+ },
+ {
+   "ID": "331",
+   "Projects": {
+     "Experience": "Build a Subscription Box Management System for E-commerce"
+   },
+   "Skills": "Subscription Box Management,E-commerce,Software Development",
+   "Domain": "E-commerce"
+ },
+ {
+   "ID": "332",
+   "Projects": {
+     "Experience": "Develop a Predictive Maintenance System for Industrial Equipment"
+   },
+   "Skills": "Predictive Maintenance,Industrial Equipment,Data Analysis",
+   "Domain": "Industrial IoT"
+ },
+ {
+   "ID": "333",
+   "Projects": {
+     "Experience": "Design and Develop an Online Ticket Booking System for Events"
+   },
+   "Skills": "Ticket Booking System,Event Management,Web Development",
+   "Domain": "Event Technology"
+ },
+ {
+   "ID": "334",
+   "Projects": {
+     "Experience": "Create a Blockchain-based Supply Chain Tracking System"
+   },
+   "Skills": "Blockchain,Supply Chain Tracking,Software Development",
+   "Domain": "Supply Chain Management"
+ },
+ {
+   "ID": "335",
+   "Projects": {
+     "Experience": "Build a Recipe Sharing App for Food Enthusiasts"
+   },
+   "Skills": "Recipe Sharing,Food Enthusiasts,Mobile App Development",
+   "Domain": "Food & Beverage"
+ },
+ {
+   "ID": "336",
+   "Projects": {
+     "Experience": "Develop a Data Analytics Dashboard for Business Intelligence"
+   },
+   "Skills": "Data Analytics,Business Intelligence,Dashboard Development",
+   "Domain": "Business Technology"
+ },
+ {
+   "ID": "337",
+   "Projects": {
+     "Experience": "Design and Develop an Employee Onboarding System for HR"
+   },
+   "Skills": "Employee Onboarding,HR Management,Software Development",
+   "Domain": "HR Technology"
+ },
+ {
+   "ID": "338",
+   "Projects": {
+     "Experience": "Create an AI-powered Virtual Assistant for Customer Support"
+   },
+   "Skills": "AI,Virtual Assistant,Customer Support",
+   "Domain": "Customer Service"
+ },
+ {
+   "ID": "339",
+   "Projects": {
+     "Experience": "Build a Personal Finance Management App with Budget Tracking"
+   },
+   "Skills": "Personal Finance Management,Budget Tracking,Mobile App Development",
+   "Domain": "Finance"
+ },
+ {
+   "ID": "340",
+   "Projects": {
+     "Experience": "Develop an Online Survey Platform for Market Research"
+   },
+   "Skills": "Online Survey Platform,Market Research,Web Development",
+   "Domain": "Marketing Technology"
+ },
+ {
+   "ID": "341",
+   "Projects": {
+     "Experience": "Design and Develop an Asset Tracking System for Businesses"
+   },
+   "Skills": "Asset Tracking,Business Management,Software Development",
+   "Domain": "Business Technology"
+ },
+ {
+   "ID": "342",
+   "Projects": {
+     "Experience": "Create a Health Monitoring App for Fitness Enthusiasts"
+   },
+   "Skills": "Health Monitoring,Fitness Enthusiasts,Mobile App Development",
+   "Domain": "Health & Fitness"
+ },
+ {
+   "ID": "343",
+   "Projects": {
+     "Experience": "Build an Online Course Marketplace for Educators"
+   },
+   "Skills": "Online Course Marketplace,Educational Technology,Web Development",
+   "Domain": "EdTech"
+ },
+ {
+   "ID": "344",
+   "Projects": {
+     "Experience": "Develop a Digital Wallet App with Cryptocurrency Integration"
+   },
+   "Skills": "Digital Wallet,Cryptocurrency Integration,Mobile App Development",
+   "Domain": "Fintech"
+ },
+ {
+   "ID": "345",
+   "Projects": {
+     "Experience": "Design and Develop a Property Rental Platform for Real Estate"
+   },
+   "Skills": "Property Rental,Real Estate Technology,Web Development",
+   "Domain": "Real Estate"
+ },
+ {
+   "ID": "346",
+   "Projects": {
+     "Experience": "Create a Task Management System with Kanban Board"
+   },
+   "Skills": "Task Management,Kanban Board,Software Development",
+   "Domain": "Project Management"
+ },
+ {
+   "ID": "347",
+   "Projects": {
+     "Experience": "Develop an E-learning Platform with Interactive Courses"
+   },
+   "Skills": "E-learning,Interactive Courses,Web Development",
+   "Domain": "EdTech"
+ },
+ {
+   "ID": "348",
+   "Projects": {
+     "Experience": "Build an Appointment Scheduling System for Healthcare"
+   },
+   "Skills": "Appointment Scheduling,Healthcare Technology,Software Development",
+   "Domain": "HealthTech"
+ },
+ {
+   "ID": "349",
+   "Projects": {
+     "Experience": "Design and Develop a Social Impact Platform for Non-profits"
+   },
+   "Skills": "Social Impact,Non-profit Organizations,Web Development",
+   "Domain": "Social Impact"
+ },
+ {
+   "ID": "350",
+   "Projects": {
+     "Experience": "Create an Inventory Management System for Small Businesses"
+   },
+   "Skills": "Inventory Management,Small Business Solutions,Software Development",
+   "Domain": "Business Technology"
+ },
+ {
+   "ID": "351",
+   "Projects": {
+     "Experience": "Design and implement HVAC systems for commercial buildings"
+   },
+   "Skills": "HVAC Design, Commercial Buildings, Energy Efficiency",
+   "Domain": "Mechanical Engineering"
+ },
+ {
+   "ID": "352",
+   "Projects": {
+     "Experience": "Develop electrical wiring diagrams for residential construction projects"
+   },
+   "Skills": "Electrical Engineering, Wiring Diagrams, Residential Construction",
+   "Domain": "Electrical Engineering"
+ },
+ {
+   "ID": "353",
+   "Projects": {
+     "Experience": "Manage construction projects for infrastructure development"
+   },
+   "Skills": "Project Management, Infrastructure Development, Construction",
+   "Domain": "Civil Engineering"
+ },
+ {
+   "ID": "354",
+   "Projects": {
+     "Experience": "Implement sustainable urban planning strategies for city development"
+   },
+   "Skills": "Urban Planning, Sustainability, City Development",
+   "Domain": "Urban Planning"
+ },
+ {
+   "ID": "355",
+   "Projects": {
+     "Experience": "Analyze market trends and consumer behavior for retail strategy formulation"
+   },
+   "Skills": "Market Analysis, Retail Strategy, Consumer Behavior",
+   "Domain": "Business Management"
+ },
+ {
+   "ID": "356",
+   "Projects": {
+     "Experience": "Develop marketing campaigns for a non-profit organization"
+   },
+   "Skills": "Marketing, Campaign Development, Non-Profit Management",
+   "Domain": "Non-Profit Management"
+ },
+ {
+   "ID": "357",
+   "Projects": {
+     "Experience": "Design and oversee construction of bridges and highways"
+   },
+   "Skills": "Bridge Design, Highway Construction, Civil Engineering",
+   "Domain": "Civil Engineering"
+ },
+ {
+   "ID": "358",
+   "Projects": {
+     "Experience": "Manage operations and logistics for a large-scale manufacturing plant"
+   },
+   "Skills": "Operations Management, Logistics, Manufacturing",
+   "Domain": "Industrial Engineering"
+ },
+ {
+   "ID": "359",
+   "Projects": {
+     "Experience": "Create interior designs for residential and commercial spaces"
+   },
+   "Skills": "Interior Design, Residential Design, Commercial Design",
+   "Domain": "Interior Design"
+ },
+ {
+   "ID": "360",
+   "Projects": {
+     "Experience": "Develop financial strategies for investment portfolios"
+   },
+   "Skills": "Financial Analysis, Investment Strategies, Portfolio Management",
+   "Domain": "Finance"
+ },
+ {
+   "ID": "361",
+   "Projects": {
+     "Experience": "Lead environmental impact assessments for construction projects"
+   },
+   "Skills": "Environmental Assessment, Construction Projects, Environmental Engineering",
+   "Domain": "Environmental Engineering"
+ },
+ {
+   "ID": "362",
+   "Projects": {
+     "Experience": "Plan and coordinate events for corporate clients"
+   },
+   "Skills": "Event Planning, Corporate Events, Coordination",
+   "Domain": "Event Management"
+ },
+ {
+   "ID": "363",
+   "Projects": {
+     "Experience": "Develop marketing strategies for a hospitality industry client"
+   },
+   "Skills": "Marketing Strategy, Hospitality Industry, Client Management",
+   "Domain": "Hospitality Management"
+ },
+ {
+   "ID": "364",
+   "Projects": {
+     "Experience": "Design and implement landscaping projects for residential properties"
+   },
+   "Skills": "Landscaping Design, Residential Properties, Project Implementation",
+   "Domain": "Landscape Architecture"
+ },
+ {
+   "ID": "365",
+   "Projects": {
+     "Experience": "Manage human resources operations for a medium-sized company"
+   },
+   "Skills": "Human Resources Management, Operations, Recruitment",
+   "Domain": "Human Resources"
+ },
+ {
+   "ID": "366",
+   "Projects": {
+     "Experience": "Provide legal counsel for real estate transactions"
+   },
+   "Skills": "Legal Counsel, Real Estate, Transaction Law",
+   "Domain": "Law"
+ },
+ {
+   "ID": "367",
+   "Projects": {
+     "Experience": "Develop and implement training programs for employee skill enhancement"
+   },
+   "Skills": "Training Program Development, Employee Skill Enhancement, HR Management",
+   "Domain": "Training and Development"
+ },
+ {
+   "ID": "368",
+   "Projects": {
+     "Experience": "Manage public relations and communications for a political campaign"
+   },
+   "Skills": "Public Relations, Political Campaigns, Communication Strategy",
+   "Domain": "Public Relations"
+ },
+ {
+   "ID": "369",
+   "Projects": {
+     "Experience": "Design and implement lighting systems for architectural projects"
+   },
+   "Skills": "Lighting Design, Architectural Projects, Implementation",
+   "Domain": "Architectural Lighting Design"
+ },
+ {
+   "ID": "370",
+   "Projects": {
+     "Experience": "Coordinate and manage supply chain logistics for a retail company"
+   },
+   "Skills": "Supply Chain Management, Logistics Coordination, Retail Operations",
+   "Domain": "Supply Chain Management"
+ },
+ {
+   "ID": "371",
+   "Projects": {
+     "Experience": "Lead strategic planning sessions for organizational growth"
+   },
+   "Skills": "Strategic Planning, Organizational Growth, Leadership",
+   "Domain": "Organizational Development"
+ },
+ {
+   "ID": "372",
+   "Projects": {
+     "Experience": "Create and implement educational curriculum for primary school students"
+   },
+   "Skills": "Curriculum Development, Education, Primary Education",
+   "Domain": "Education"
+ },
+ {
+   "ID": "373",
+   "Projects": {
+     "Experience": "Manage accounting and financial reporting for a small business"
+   },
+   "Skills": "Accounting, Financial Reporting, Small Business Management",
+   "Domain": "Accounting"
+ },
+ {
+   "ID": "374",
+   "Projects": {
+     "Experience": "Lead community outreach programs for a non-governmental organization"
+   },
+   "Skills": "Community Outreach, NGO Management, Program Leadership",
+   "Domain": "Community Development"
+ },
+ {
+   "ID": "375",
+   "Projects": {
+     "Experience": "Design and implement health and safety protocols for a manufacturing facility"
+   },
+   "Skills": "Health and Safety, Protocol Design, Manufacturing",
+   "Domain": "Occupational Health and Safety"
+ },
+ {
+   "ID": "376",
+   "Projects": {
+     "Experience": "Manage and oversee maintenance operations for commercial properties"
+   },
+   "Skills": "Maintenance Management, Commercial Properties, Operations Oversight",
+   "Domain": "Property Management"
+ },
+ {
+   "ID": "377",
+   "Projects": {
+     "Experience": "Provide financial consulting services for individual investors"
+   },
+   "Skills": "Financial Consulting, Individual Investors, Investment Advice",
+   "Domain": "Financial Consulting"
+ },
+ {
+   "ID": "378",
+   "Projects": {
+     "Experience": "Lead business development initiatives for a startup company"
+   },
+   "Skills": "Business Development, Startup Management, Initiative Leadership",
+   "Domain": "Business Development"
+ },
+ {
+   "ID": "379",
+   "Projects": {
+     "Experience": "Design and oversee construction of water supply systems"
+   },
+   "Skills": "Water Supply Systems, Construction Oversight, Civil Engineering",
+   "Domain": "Civil Engineering"
+ },
+ {
+   "ID": "380",
+   "Projects": {
+     "Experience": "Develop and implement training programs for healthcare professionals"
+   },
+   "Skills": "Training Program Development, Healthcare, Professional Education",
+   "Domain": "Healthcare Education"
+ },
+ {
+   "ID": "381",
+   "Projects": {
+     "Experience": "Manage customer service operations for a telecommunications company"
+   },
+   "Skills": "Customer Service Management, Telecommunications, Operations",
+   "Domain": "Customer Service"
+ },
+ {
+   "ID": "382",
+   "Projects": {
+     "Experience": "Design and implement wastewater treatment systems for municipalities"
+   },
+   "Skills": "Wastewater Treatment, Municipal Systems, Engineering Design",
+   "Domain": "Environmental Engineering"
+ },
+ {
+   "ID": "383",
+   "Projects": {
+     "Experience": "Plan and execute marketing campaigns for a fashion retail brand"
+   },
+   "Skills": "Marketing, Campaign Planning, Fashion Retail",
+   "Domain": "Fashion Marketing"
+ },
+ {
+   "ID": "384",
+   "Projects": {
+     "Experience": "Coordinate and manage inventory for a wholesale distribution company"
+   },
+   "Skills": "Inventory Management, Wholesale Distribution, Operations Coordination",
+   "Domain": "Inventory Management"
+ },
+ {
+   "ID": "385",
+   "Projects": {
+     "Experience": "Develop and implement safety protocols for a chemical manufacturing plant"
+   },
+   "Skills": "Safety Protocols, Chemical Manufacturing, Plant Operations",
+   "Domain": "Chemical Engineering"
+ },
+ {
+   "ID": "386",
+   "Projects": {
+     "Experience": "Lead community engagement programs for a local government agency"
+   },
+   "Skills": "Community Engagement, Local Government, Program Leadership",
+   "Domain": "Community Development"
+ },
+ {
+   "ID": "387",
+   "Projects": {
+     "Experience": "Design and implement curriculum for vocational training programs"
+   },
+   "Skills": "Curriculum Design, Vocational Training, Education",
+   "Domain": "Vocational Education"
+ },
+ {
+   "ID": "388",
+   "Projects": {
+     "Experience": "Manage and optimize digital marketing campaigns for e-commerce platforms"
+   },
+   "Skills": "Digital Marketing, E-commerce, Campaign Optimization",
+   "Domain": "Digital Marketing"
+ },
+ {
+   "ID": "389",
+   "Projects": {
+     "Experience": "Design and oversee construction of renewable energy projects"
+   },
+   "Skills": "Renewable Energy, Construction Oversight, Engineering",
+   "Domain": "Renewable Energy"
+ },
+ {
+   "ID": "390",
+   "Projects": {
+     "Experience": "Develop and implement training programs for software users"
+   },
+   "Skills": "Training Program Development, Software Training, User Education",
+   "Domain": "Software Training"
+ },
+ {
+   "ID": "391",
+   "Projects": {
+     "Experience": "Manage and coordinate transportation logistics for a logistics company"
+   },
+   "Skills": "Transportation Logistics, Operations Management, Coordination",
+   "Domain": "Logistics Management"
+ },
+ {
+   "ID": "392",
+   "Projects": {
+     "Experience": "Provide legal advice and representation for family law cases"
+   },
+   "Skills": "Legal Advice, Family Law, Representation",
+   "Domain": "Family Law"
+ },
+ {
+   "ID": "393",
+   "Projects": {
+     "Experience": "Design and implement sustainable agriculture practices for farms"
+   },
+   "Skills": "Sustainable Agriculture, Farming Practices, Implementation",
+   "Domain": "Agriculture"
+ },
+ {
+   "ID": "394",
+   "Projects": {
+     "Experience": "Develop and implement corporate social responsibility programs for companies"
+   },
+   "Skills": "Corporate Social Responsibility, Program Development, Corporate Management",
+   "Domain": "Corporate Social Responsibility"
+ },
+ {
+   "ID": "395",
+   "Projects": {
+     "Experience": "Coordinate and manage events for a cultural institution"
+   },
+   "Skills": "Event Coordination, Cultural Events, Management",
+   "Domain": "Event Management"
+ },
+ {
+   "ID": "396",
+   "Projects": {
+     "Experience": "Conduct financial analysis and risk assessment for investment portfolios"
+   },
+   "Skills": "Financial Analysis, Risk Assessment, Investment Management",
+   "Domain": "Finance"
+ },
+ {
+   "ID": "397",
+   "Projects": {
+     "Experience": "Lead quality assurance initiatives for a pharmaceutical manufacturing company"
+   },
+   "Skills": "Quality Assurance, Pharmaceutical Manufacturing, Leadership",
+   "Domain": "Pharmaceuticals"
+ },
+ {
+   "ID": "398",
+   "Projects": {
+     "Experience": "Provide counseling and therapy for individuals and families"
+   },
+   "Skills": "Counseling, Therapy, Family Counseling",
+   "Domain": "Counseling"
+ },
+ {
+   "ID": "399",
+   "Projects": {
+     "Experience": "Design and oversee construction of transportation infrastructure projects"
+   },
+   "Skills": "Infrastructure Design, Construction Oversight, Transportation Engineering",
+   "Domain": "Transportation Engineering"
+ },
+ {
+   "ID": "400",
+   "Projects": {
+     "Experience": "Manage and optimize supply chain operations for a global logistics company"
+   },
+   "Skills": "Supply Chain Management, Operations Optimization, Global Logistics",
+   "Domain": "Supply Chain Management"
+ },
+ {
+   "ID": "401",
+   "Projects": {
+     "Experience": "Develop and implement cybersecurity protocols for financial institutions"
+   },
+   "Skills": "Cybersecurity, Protocol Development, Financial Institutions",
+   "Domain": "Cybersecurity"
+ },
+ {
+   "ID": "402",
+   "Projects": {
+     "Experience": "Coordinate and manage public relations campaigns for a government agency"
+   },
+   "Skills": "Public Relations, Government Relations, Campaign Management",
+   "Domain": "Public Relations"
+ },
+ {
+   "ID": "403",
+   "Projects": {
+     "Experience": "Design and implement renewable energy systems for residential properties"
+   },
+   "Skills": "Renewable Energy, Residential Systems, System Implementation",
+   "Domain": "Renewable Energy"
+ },
+ {
+   "ID": "404",
+   "Projects": {
+     "Experience": "Develop and implement curriculum for corporate training programs"
+   },
+   "Skills": "Curriculum Development, Corporate Training, Education",
+   "Domain": "Corporate Training"
+ },
+ {
+   "ID": "405",
+   "Projects": {
+     "Experience": "Manage and optimize production processes for a manufacturing company"
+   },
+   "Skills": "Production Management, Process Optimization, Manufacturing",
+   "Domain": "Production Management"
+ },
+ {
+   "ID": "406",
+   "Projects": {
+     "Experience": "Provide legal counsel for intellectual property matters"
+   },
+   "Skills": "Legal Counsel, Intellectual Property Law, Representation",
+   "Domain": "Intellectual Property Law"
+ },
+ {
+   "ID": "407",
+   "Projects": {
+     "Experience": "Develop and implement marketing strategies for a healthcare organization"
+   },
+   "Skills": "Marketing Strategy, Healthcare Industry, Strategy Implementation",
+   "Domain": "Healthcare Marketing"
+ },
+ {
+   "ID": "408",
+   "Projects": {
+     "Experience": "Design and oversee construction of educational facilities"
+   },
+   "Skills": "Educational Facility Design, Construction Oversight, Education",
+   "Domain": "Educational Facilities"
+ },
+ {
+   "ID": "409",
+   "Projects": {
+     "Experience": "Lead talent acquisition and recruitment efforts for a tech startup"
+   },
+   "Skills": "Talent Acquisition, Recruitment, Startup Management",
+   "Domain": "Recruitment"
+ },
+ {
+   "ID": "410",
+   "Projects": {
+     "Experience": "Plan and coordinate marketing events for a tourism board"
+   },
+   "Skills": "Event Planning, Tourism Marketing, Coordination",
+   "Domain": "Tourism Marketing"
+ },
+ {
+   "ID": "411",
+   "Projects": {
+     "Experience": "Provide financial advisory services for high net worth individuals"
+   },
+   "Skills": "Financial Advisory, High Net Worth Individuals, Wealth Management",
+   "Domain": "Financial Advisory"
+ },
+ {
+   "ID": "412",
+   "Projects": {
+     "Experience": "Develop and implement employee training programs for customer service improvement"
+   },
+   "Skills": "Training Program Development, Customer Service Improvement, Employee Education",
+   "Domain": "Employee Training"
+ },
+ {
+   "ID": "413",
+   "Projects": {
+     "Experience": "Coordinate and manage public health campaigns for a non-profit organization"
+   },
+   "Skills": "Public Health Campaigns, Non-Profit Management, Campaign Coordination",
+   "Domain": "Public Health"
+ },
+ {
+   "ID": "414",
+   "Projects": {
+     "Experience": "Design and implement sustainable water management systems for cities"
+   },
+   "Skills": "Water Management, Sustainable Systems, Urban Planning",
+   "Domain": "Water Management"
+ },
+ {
+   "ID": "415",
+   "Projects": {
+     "Experience": "Manage and optimize digital advertising campaigns for a media company"
+   },
+   "Skills": "Digital Advertising, Campaign Optimization, Media Management",
+   "Domain": "Digital Advertising"
+ },
+ {
+   "ID": "416",
+   "Projects": {
+     "Experience": "Provide legal counsel for labor and employment disputes"
+   },
+   "Skills": "Legal Counsel, Labor Law, Employment Disputes",
+   "Domain": "Labor Law"
+ },
+ {
+   "ID": "417",
+   "Projects": {
+     "Experience": "Develop and implement curriculum for online learning platforms"
+   },
+   "Skills": "Curriculum Development, Online Learning, Educational Technology",
+   "Domain": "Online Education"
+ },
+ {
+   "ID": "418",
+   "Projects": {
+     "Experience": "Manage and optimize social media marketing campaigns for a digital agency"
+   },
+   "Skills": "Social Media Marketing, Campaign Optimization, Digital Marketing",
+   "Domain": "Social Media Marketing"
+ },
+ {
+   "ID": "419",
+   "Projects": {
+     "Experience": "Coordinate and oversee construction projects for public infrastructure"
+   },
+   "Skills": "Construction Coordination, Infrastructure Projects, Project Management",
+   "Domain": "Infrastructure Development"
+ },
+ {
+   "ID": "420",
+   "Projects": {
+     "Experience": "Design and implement health and wellness programs for corporate clients"
+   },
+   "Skills": "Health and Wellness, Corporate Programs, Program Design",
+   "Domain": "Corporate Wellness"
+ },
+ {
+   "ID": "421",
+   "Projects": {
+     "Experience": "Provide financial planning services for individuals and families"
+   },
+   "Skills": "Financial Planning, Personal Finance, Wealth Management",
+   "Domain": "Financial Planning"
+ },
+ {
+   "ID": "422",
+   "Projects": {
+     "Experience": "Design and oversee construction of educational playgrounds"
+   },
+   "Skills": "Playground Design, Construction Oversight, Education",
+   "Domain": "Educational Playgrounds"
+ },
+ {
+   "ID": "423",
+   "Projects": {
+     "Experience": "Lead marketing initiatives for a hospitality industry association"
+   },
+   "Skills": "Marketing, Hospitality Industry, Association Management",
+   "Domain": "Hospitality Marketing"
+ },
+ {
+   "ID": "424",
+   "Projects": {
+     "Experience": "Develop and implement diversity and inclusion programs for organizations"
+   },
+   "Skills": "Diversity and Inclusion, Program Development, Organizational Culture",
+   "Domain": "Diversity and Inclusion"
+ },
+ {
+   "ID": "425",
+   "Projects": {
+     "Experience": "Coordinate and manage community development projects for a city government"
+   },
+   "Skills": "Community Development, Government Projects, Project Management",
+   "Domain": "Community Development"
+ },
+ {
+   "ID": "426",
+   "Projects": {
+     "Experience": "Manage operations and logistics for a food distribution company"
+   },
+   "Skills": "Operations Management, Logistics, Food Distribution",
+   "Domain": "Logistics Management"
+ },
+ {
+   "ID": "427",
+   "Projects": {
+     "Experience": "Design and implement curriculum for special education programs"
+   },
+   "Skills": "Curriculum Design, Special Education, Program Implementation",
+   "Domain": "Special Education"
+ },
+ {
+   "ID": "428",
+   "Projects": {
+     "Experience": "Develop and implement marketing strategies for a tourism agency"
+   },
+   "Skills": "Marketing Strategy, Tourism, Strategy Implementation",
+   "Domain": "Tourism Marketing"
+ },
+ {
+   "ID": "429",
+   "Projects": {
+     "Experience": "Plan and coordinate logistics for international trade operations"
+   },
+   "Skills": "Logistics Planning, International Trade, Coordination",
+   "Domain": "Logistics Management"
+ },
+ {
+   "ID": "430",
+   "Projects": {
+     "Experience": "Lead research and development projects for pharmaceutical products"
+   },
+   "Skills": "Research and Development, Pharmaceutical Products, Project Leadership",
+   "Domain": "Pharmaceuticals"
+ },
+ {
+   "ID": "431",
+   "Projects": {
+     "Experience": "Design and implement sustainability initiatives for corporate offices"
+   },
+   "Skills": "Sustainability, Corporate Initiatives, Implementation",
+   "Domain": "Corporate Sustainability"
+ },
+ {
+   "ID": "432",
+   "Projects": {
+     "Experience": "Provide legal counsel and representation for immigration cases"
+   },
+   "Skills": "Legal Counsel, Immigration Law, Representation",
+   "Domain": "Immigration Law"
+ },
+ {
+   "ID": "433",
+   "Projects": {
+     "Experience": "Develop and implement training programs for healthcare professionals"
+   },
+   "Skills": "Training Program Development, Healthcare, Professional Education",
+   "Domain": "Healthcare Education"
+ },
+ {
+   "ID": "434",
+   "Projects": {
+     "Experience": "Manage customer service operations for a retail chain"
+   },
+   "Skills": "Customer Service Management, Retail Operations, Operations Management",
+   "Domain": "Customer Service"
+ },
+ {
+   "ID": "435",
+   "Projects": {
+     "Experience": "Design and implement renewable energy systems for residential properties"
+   },
+   "Skills": "Renewable Energy, System Design, Residential Properties",
+   "Domain": "Renewable Energy"
+ },
+ {
+   "ID": "436",
+   "Projects": {
+     "Experience": "Lead community outreach programs for a non-profit organization"
+   },
+   "Skills": "Community Outreach, Non-Profit Management, Program Leadership",
+   "Domain": "Community Development"
+ },
+ {
+   "ID": "437",
+   "Projects": {
+     "Experience": "Design and oversee construction of transportation infrastructure projects"
+   },
+   "Skills": "Infrastructure Design, Construction Oversight, Transportation",
+   "Domain": "Civil Engineering"
+ },
+ {
+   "ID": "438",
+   "Projects": {
+     "Experience": "Develop and implement marketing campaigns for a technology startup"
+   },
+   "Skills": "Marketing, Campaign Development, Technology Startup",
+   "Domain": "Technology Marketing"
+ },
+ {
+   "ID": "439",
+   "Projects": {
+     "Experience": "Manage financial operations and budgeting for a non-governmental organization"
+   },
+   "Skills": "Financial Management, Budgeting, NGO Management",
+   "Domain": "Non-Profit Finance"
+ },
+ {
+   "ID": "440",
+   "Projects": {
+     "Experience": "Provide counseling and therapy for individuals struggling with addiction"
+   },
+   "Skills": "Counseling, Addiction Therapy, Individual Therapy",
+   "Domain": "Addiction Counseling"
+ },
+ {
+   "ID": "441",
+   "Projects": {
+     "Experience": "Plan and coordinate corporate events for a multinational corporation"
+   },
+   "Skills": "Event Planning, Corporate Events, Coordination",
+   "Domain": "Event Management"
+ },
+ {
+   "ID": "442",
+   "Projects": {
+     "Experience": "Design and implement irrigation systems for agricultural projects"
+   },
+   "Skills": "Irrigation Design, Agricultural Projects, System Implementation",
+   "Domain": "Agricultural Engineering"
+ },
+ {
+   "ID": "443",
+   "Projects": {
+     "Experience": "Lead strategic planning and development for a healthcare institution"
+   },
+   "Skills": "Strategic Planning, Healthcare Development, Leadership",
+   "Domain": "Healthcare Management"
+ },
+ {
+   "ID": "444",
+   "Projects": {
+     "Experience": "Develop and implement educational programs for at-risk youth"
+   },
+   "Skills": "Educational Program Development, Youth Education, Program Implementation",
+   "Domain": "Youth Development"
+ },
+ {
+   "ID": "445",
+   "Projects": {
+     "Experience": "Manage public relations and communications for a hospitality chain"
+   },
+   "Skills": "Public Relations, Hospitality Industry, Communication Strategy",
+   "Domain": "Public Relations"
+ },
+ {
+   "ID": "446",
+   "Projects": {
+     "Experience": "Design and implement waste management systems for urban areas"
+   },
+   "Skills": "Waste Management, Urban Planning, System Implementation",
+   "Domain": "Environmental Engineering"
+ },
+ {
+   "ID": "447",
+   "Projects": {
+     "Experience": "Develop and implement curriculum for language learning programs"
+   },
+   "Skills": "Curriculum Development, Language Learning, Education",
+   "Domain": "Language Education"
+ },
+ {
+   "ID": "448",
+   "Projects": {
+     "Experience": "Design and oversee construction of public transportation systems"
+   },
+   "Skills": "Public Transportation, Construction Oversight, Civil Engineering",
+   "Domain": "Civil Engineering"
+ },
+ {
+   "ID": "449",
+   "Projects": {
+     "Experience": "Manage and optimize online advertising campaigns for a digital agency"
+   },
+   "Skills": "Online Advertising, Campaign Optimization, Digital Marketing",
+   "Domain": "Digital Advertising"
+ },
+ {
+   "ID": "450",
+   "Projects": {
+     "Experience": "Provide legal counsel for intellectual property rights cases"
+   },
+   "Skills": "Legal Counsel, Intellectual Property Law, Representation",
+   "Domain": "Intellectual Property Law"
+ },
+ {
+   "ID": "451",
+   "Projects": {
+     "Experience": "Lead environmental conservation projects for a non-profit organization"
+   },
+   "Skills": "Environmental Conservation, Project Leadership, Non-Profit Management",
+   "Domain": "Environmental Conservation"
+ },
+ {
+   "ID": "452",
+   "Projects": {
+     "Experience": "Plan and execute marketing campaigns for a hospitality industry client"
+   },
+   "Skills": "Marketing, Campaign Planning, Hospitality Industry",
+   "Domain": "Hospitality Marketing"
+ },
+ {
+   "ID": "453",
+   "Projects": {
+     "Experience": "Manage and coordinate logistics for international shipping operations"
+   },
+   "Skills": "Logistics Management, International Shipping, Coordination",
+   "Domain": "International Logistics"
+ },
+ {
+   "ID": "454",
+   "Projects": {
+     "Experience": "Design and implement renewable energy systems for residential properties"
+   },
+   "Skills": "Renewable Energy, Residential Properties, System Implementation",
+   "Domain": "Renewable Energy Systems"
+ },
+ {
+   "ID": "455",
+   "Projects": {
+     "Experience": "Develop and implement training programs for healthcare staff"
+   },
+   "Skills": "Training Program Development, Healthcare, Staff Education",
+   "Domain": "Healthcare Training"
+ },
+ {
+   "ID": "456",
+   "Projects": {
+     "Experience": "Manage customer relationship management for a software company"
+   },
+   "Skills": "CRM Management, Software Industry, Customer Relations",
+   "Domain": "Customer Relationship Management"
+ },
+ {
+   "ID": "457",
+   "Projects": {
+     "Experience": "Lead community development initiatives for a rural development organization"
+   },
+   "Skills": "Community Development, Initiative Leadership, Rural Development",
+   "Domain": "Rural Development"
+ },
+ {
+   "ID": "458",
+   "Projects": {
+     "Experience": "Design and implement curriculum for special education programs"
+   },
+   "Skills": "Curriculum Design, Special Education, Program Implementation",
+   "Domain": "Special Education"
+ },
+ {
+   "ID": "459",
+   "Projects": {
+     "Experience": "Coordinate and manage supply chain operations for a manufacturing company"
+   },
+   "Skills": "Supply Chain Management, Manufacturing Operations, Coordination",
+   "Domain": "Supply Chain Operations"
+ },
+ {
+   "ID": "460",
+   "Projects": {
+     "Experience": "Provide legal advice and representation for employment law cases"
+   },
+   "Skills": "Legal Advice, Employment Law, Representation",
+   "Domain": "Employment Law"
+ },
+ {
+   "ID": "461",
+   "Projects": {
+     "Experience": "Design and implement water conservation strategies for municipalities"
+   },
+   "Skills": "Water Conservation, Municipalities, Strategy Implementation",
+   "Domain": "Water Conservation"
+ },
+ {
+   "ID": "462",
+   "Projects": {
+     "Experience": "Develop and execute sales strategies for a retail company"
+   },
+   "Skills": "Sales Strategy, Retail Industry, Strategy Execution",
+   "Domain": "Retail Sales"
+ },
+ {
+   "ID": "463",
+   "Projects": {
+     "Experience": "Lead public relations campaigns for a healthcare organization"
+   },
+   "Skills": "Public Relations, Healthcare Industry, Campaign Leadership",
+   "Domain": "Healthcare Public Relations"
+ },
+ {
+   "ID": "464",
+   "Projects": {
+     "Experience": "Design and implement wildlife conservation programs for national parks"
+   },
+   "Skills": "Wildlife Conservation, National Parks, Program Implementation",
+   "Domain": "Wildlife Conservation"
+ },
+ {
+   "ID": "465",
+   "Projects": {
+     "Experience": "Coordinate and manage event planning for corporate conferences"
+   },
+   "Skills": "Event Planning, Corporate Events, Planning Coordination",
+   "Domain": "Corporate Event Planning"
+ },
+ {
+   "ID": "466",
+   "Projects": {
+     "Experience": "Provide financial consulting services for small businesses"
+   },
+   "Skills": "Financial Consulting, Small Business Management, Consulting Services",
+   "Domain": "Financial Consulting"
+ },
+ {
+   "ID": "467",
+   "Projects": {
+     "Experience": "Design and implement curriculum for online education platforms"
+   },
+   "Skills": "Curriculum Design, Online Education, Platform Implementation",
+   "Domain": "Online Education"
+ },
+ {
+   "ID": "468",
+   "Projects": {
+     "Experience": "Lead marketing campaigns for a hospitality chain"
+   },
+   "Skills": "Marketing, Campaign Leadership, Hospitality Industry",
+   "Domain": "Hospitality Marketing"
+ },
+ {
+   "ID": "469",
+   "Projects": {
+     "Experience": "Design and implement waste management systems for urban areas"
+   },
+   "Skills": "Waste Management, Urban Planning, System Implementation",
+   "Domain": "Environmental Engineering"
+ },
+ {
+   "ID": "470",
+   "Projects": {
+     "Experience": "Manage and optimize supply chain operations for a retail company"
+   },
+   "Skills": "Supply Chain Management, Retail Operations, Optimization",
+   "Domain": "Supply Chain Management"
+ },
+ {
+   "ID": "471",
+   "Projects": {
+     "Experience": "Provide legal counsel for corporate mergers and acquisitions"
+   },
+   "Skills": "Legal Counsel, Mergers and Acquisitions, Corporate Law",
+   "Domain": "Corporate Law"
+ },
+ {
+   "ID": "472",
+   "Projects": {
+     "Experience": "Design and implement health and safety protocols for construction sites"
+   },
+   "Skills": "Health and Safety, Protocol Design, Construction",
+   "Domain": "Construction Safety"
+ },
+ {
+   "ID": "473",
+   "Projects": {
+     "Experience": "Coordinate and manage community development projects for a non-profit organization"
+   },
+   "Skills": "Community Development, Non-Profit Management, Project Coordination",
+   "Domain": "Community Development"
+ },
+ {
+   "ID": "474",
+   "Projects": {
+     "Experience": "Develop and implement training programs for new employees"
+   },
+   "Skills": "Training Program Development, Onboarding, Employee Training",
+   "Domain": "Training and Development"
+ },
+ {
+   "ID": "475",
+   "Projects": {
+     "Experience": "Manage accounting and financial reporting for a healthcare facility"
+   },
+   "Skills": "Accounting, Financial Reporting, Healthcare Management",
+   "Domain": "Healthcare Finance"
+ },
+ {
+   "ID": "476",
+   "Projects": {
+     "Experience": "Lead public relations campaigns for a cultural institution"
+   },
+   "Skills": "Public Relations, Campaign Leadership, Cultural Institutions",
+   "Domain": "Public Relations"
+ },
+ {
+   "ID": "477",
+   "Projects": {
+     "Experience": "Design and implement irrigation systems for agricultural farms"
+   },
+   "Skills": "Irrigation Systems, Agricultural Engineering, System Implementation",
+   "Domain": "Agriculture"
+ },
+ {
+   "ID": "478",
+   "Projects": {
+     "Experience": "Manage and coordinate event logistics for corporate events"
+   },
+   "Skills": "Event Management, Logistics Coordination, Corporate Events",
+   "Domain": "Event Management"
+ },
+ {
+   "ID": "479",
+   "Projects": {
+     "Experience": "Develop and implement marketing strategies for a real estate agency"
+   },
+   "Skills": "Marketing Strategy, Real Estate, Strategy Implementation",
+   "Domain": "Real Estate Marketing"
+ },
+ {
+   "ID": "480",
+   "Projects": {
+     "Experience": "Coordinate and manage transportation logistics for a shipping company"
+   },
+   "Skills": "Transportation Logistics, Operations Management, Coordination",
+   "Domain": "Logistics Management"
+ },
+ {
+   "ID": "481",
+   "Projects": {
+     "Experience": "Provide legal advice and representation for immigration cases"
+   },
+   "Skills": "Legal Advice, Immigration Law, Representation",
+   "Domain": "Immigration Law"
+ },
+ {
+   "ID": "482",
+   "Projects": {
+     "Experience": "Design and implement sustainability initiatives for corporate organizations"
+   },
+   "Skills": "Sustainability, Corporate Initiatives, Implementation",
+   "Domain": "Corporate Sustainability"
+ },
+ {
+   "ID": "483",
+   "Projects": {
+     "Experience": "Lead marketing campaigns for a tourism destination"
+   },
+   "Skills": "Marketing, Campaign Leadership, Tourism Industry",
+   "Domain": "Tourism Marketing"
+ },
+ {
+   "ID": "484",
+   "Projects": {
+     "Experience": "Develop and implement safety protocols for manufacturing facilities"
+   },
+   "Skills": "Safety Protocols, Manufacturing, Protocol Implementation",
+   "Domain": "Occupational Health and Safety"
+ },
+ {
+   "ID": "485",
+   "Projects": {
+     "Experience": "Manage and coordinate fundraising events for a charitable organization"
+   },
+   "Skills": "Fundraising, Event Coordination, Charitable Organizations",
+   "Domain": "Fundraising"
+ },
+ {
+   "ID": "486",
+   "Projects": {
+     "Experience": "Develop and implement curriculum for online learning platforms"
+   },
+   "Skills": "Curriculum Development, Online Learning, Platform Implementation",
+   "Domain": "Education Technology"
+ },
+ {
+   "ID": "487",
+   "Projects": {
+     "Experience": "Provide financial consulting services for small businesses"
+   },
+   "Skills": "Financial Consulting, Small Business Management, Consultation",
+   "Domain": "Financial Consulting"
+ },
+ {
+   "ID": "488",
+   "Projects": {
+     "Experience": "Coordinate and manage maintenance operations for residential properties"
+   },
+   "Skills": "Maintenance Management, Residential Properties, Operations Coordination",
+   "Domain": "Property Management"
+ },
+ {
+   "ID": "489",
+   "Projects": {
+     "Experience": "Design and implement disaster recovery plans for businesses"
+   },
+   "Skills": "Disaster Recovery, Business Continuity, Risk Management",
+   "Domain": "Business Continuity"
+ },
+ {
+   "ID": "490",
+   "Projects": {
+     "Experience": "Manage and optimize advertising campaigns for digital media platforms"
+   },
+   "Skills": "Advertising, Campaign Optimization, Digital Media",
+   "Domain": "Advertising"
+ },
+ {
+   "ID": "491",
+   "Projects": {
+     "Experience": "Design and oversee construction of transportation infrastructure projects"
+   },
+   "Skills": "Transportation Infrastructure, Construction Oversight, Civil Engineering",
+   "Domain": "Civil Engineering"
+ },
+ {
+   "ID": "492",
+   "Projects": {
+     "Experience": "Develop and implement health promotion programs for community wellness"
+   },
+   "Skills": "Health Promotion, Community Wellness, Program Development",
+   "Domain": "Public Health"
+ },
+ {
+   "ID": "493",
+   "Projects": {
+     "Experience": "Manage and coordinate event logistics for corporate conferences"
+   },
+   "Skills": "Event Management, Corporate Events, Logistics Coordination",
+   "Domain": "Event Planning"
+ },
+ {
+   "ID": "494",
+   "Projects": {
+     "Experience": "Provide legal advice and representation for employment law cases"
+   },
+   "Skills": "Employment Law, Legal Advice, Representation",
+   "Domain": "Employment Law"
+ },
+ {
+   "ID": "495",
+   "Projects": {
+     "Experience": "Design and implement energy-efficient lighting systems for buildings"
+   },
+   "Skills": "Energy Efficiency, Lighting Systems, Building Design",
+   "Domain": "Energy Efficiency"
+ },
+ {
+   "ID": "496",
+   "Projects": {
+     "Experience": "Develop and implement educational programs for youth empowerment"
+   },
+   "Skills": "Youth Empowerment, Educational Programs, Program Development",
+   "Domain": "Youth Development"
+ },
+ {
+   "ID": "497",
+   "Projects": {
+     "Experience": "Manage and optimize inventory levels for retail stores"
+   },
+   "Skills": "Inventory Management, Retail Operations, Optimization",
+   "Domain": "Retail Management"
+ },
+ {
+   "ID": "498",
+   "Projects": {
+     "Experience": "Design and oversee construction of water treatment facilities"
+   },
+   "Skills": "Water Treatment, Construction Oversight, Engineering",
+   "Domain": "Environmental Engineering"
+ },
+ {
+   "ID": "499",
+   "Projects": {
+     "Experience": "Develop and implement marketing strategies for a hospitality chain"
+   },
+   "Skills": "Marketing Strategy, Hospitality Industry, Brand Promotion",
+   "Domain": "Hospitality Marketing"
+ },
+ {
+   "ID": "500",
+   "Projects": {
+     "Experience": "Lead strategic planning initiatives for nonprofit organizations"
+   },
+   "Skills": "Strategic Planning, Nonprofit Management, Initiative Leadership",
+   "Domain": "Nonprofit Management"
+ },
+ {
+   "ID": "501",
+   "Projects": {
+     "Experience": "Design and implement irrigation systems for agricultural lands"
+   },
+   "Skills": "Irrigation Systems, Agriculture, System Design",
+   "Domain": "Agricultural Engineering"
+ },
+ {
+   "ID": "502",
+   "Projects": {
+     "Experience": "Coordinate and manage supply chain operations for a manufacturing company"
+   },
+   "Skills": "Supply Chain Management, Manufacturing Operations, Coordination",
+   "Domain": "Supply Chain Management"
+ },
+ {
+   "ID": "503",
+   "Projects": {
+     "Experience": "Provide financial advisory services for individual clients"
+   },
+   "Skills": "Financial Advisory, Personal Finance, Wealth Management",
+   "Domain": "Financial Advisory"
+ },
+ {
+   "ID": "504",
+   "Projects": {
+     "Experience": "Design and implement waste management systems for municipalities"
+   },
+   "Skills": "Waste Management, Municipal Systems, Engineering Design",
+   "Domain": "Environmental Engineering"
+ },
+ {
+   "ID": "505",
+   "Projects": {
+     "Experience": "Manage and coordinate logistics for international shipping operations"
+   },
+   "Skills": "Logistics Management, International Shipping, Coordination",
+   "Domain": "Logistics Management"
+ },
+ {
+   "ID": "506",
+   "Projects": {
+     "Experience": "Lead community outreach initiatives for a social services organization"
+   },
+   "Skills": "Community Outreach, Social Services, Initiative Leadership",
+   "Domain": "Community Development"
+ },
+ {
+   "ID": "507",
+   "Projects": {
+     "Experience": "Design and implement workplace safety protocols for industrial facilities"
+   },
+   "Skills": "Workplace Safety, Industrial Facilities, Protocol Design",
+   "Domain": "Occupational Health and Safety"
+ },
+ {
+   "ID": "508",
+   "Projects": {
+     "Experience": "Develop and implement educational programs for adult learners"
+   },
+   "Skills": "Adult Education, Program Development, Educational Curriculum",
+   "Domain": "Adult Education"
+ },
+ {
+   "ID": "509",
+   "Projects": {
+     "Experience": "Manage and oversee real estate transactions for commercial properties"
+   },
+   "Skills": "Real Estate, Transaction Management, Commercial Properties",
+   "Domain": "Real Estate"
+ },
+ {
+   "ID": "510",
+   "Projects": {
+     "Experience": "Design and implement landscaping projects for commercial properties"
+   },
+   "Skills": "Landscaping Design, Commercial Properties, Project Implementation",
+   "Domain": "Commercial Landscaping"
+ },
+ {
+   "ID": "511",
+   "Projects": {
+     "Experience": "Manage and coordinate maintenance operations for industrial facilities"
+   },
+   "Skills": "Maintenance Management, Industrial Facilities, Operations Coordination",
+   "Domain": "Industrial Maintenance"
+ },
+ {
+   "ID": "512",
+   "Projects": {
+     "Experience": "Develop and implement marketing strategies for a hospitality chain"
+   },
+   "Skills": "Marketing Strategy, Hospitality Industry, Brand Management",
+   "Domain": "Hospitality Marketing"
+ },
+ {
+   "ID": "513",
+   "Projects": {
+     "Experience": "Lead strategic planning initiatives for community development projects"
+   },
+   "Skills": "Strategic Planning, Community Development, Initiative Leadership",
+   "Domain": "Community Planning"
+ },
+ {
+   "ID": "514",
+   "Projects": {
+     "Experience": "Design and implement ergonomic workplace solutions for businesses"
+   },
+   "Skills": "Ergonomics, Workplace Solutions, Business Consulting",
+   "Domain": "Ergonomics"
+ },
+ {
+   "ID": "515",
+   "Projects": {
+     "Experience": "Manage public relations and media relations for a non-profit organization"
+   },
+   "Skills": "Public Relations, Media Relations, Non-Profit Management",
+   "Domain": "Non-Profit PR"
+ },
+ {
+   "ID": "516",
+   "Projects": {
+     "Experience": "Develop and execute advertising campaigns for a retail chain"
+   },
+   "Skills": "Advertising, Campaign Execution, Retail Marketing",
+   "Domain": "Retail Advertising"
+ },
+ {
+   "ID": "517",
+   "Projects": {
+     "Experience": "Coordinate and manage construction projects for residential complexes"
+   },
+   "Skills": "Construction Coordination, Residential Construction, Project Management",
+   "Domain": "Residential Construction"
+ },
+ {
+   "ID": "518",
+   "Projects": {
+     "Experience": "Design and implement waste management systems for urban areas"
+   },
+   "Skills": "Waste Management, Urban Planning, System Implementation",
+   "Domain": "Urban Waste Management"
+ },
+ {
+   "ID": "519",
+   "Projects": {
+     "Experience": "Manage and optimize supply chain operations for a manufacturing company"
+   },
+   "Skills": "Supply Chain Management, Operations Optimization, Manufacturing",
+   "Domain": "Supply Chain Optimization"
+ },
+ {
+   "ID": "520",
+   "Projects": {
+     "Experience": "Develop and implement training programs for sales teams"
+   },
+   "Skills": "Sales Training, Program Development, Team Education",
+   "Domain": "Sales Training"
+ },
+ {
+   "ID": "521",
+   "Projects": {
+     "Experience": "Coordinate and manage transportation logistics for a shipping company"
+   },
+   "Skills": "Transportation Logistics, Shipping Operations, Logistics Coordination",
+   "Domain": "Shipping Logistics"
+ },
+ {
+   "ID": "522",
+   "Projects": {
+     "Experience": "Design and oversee construction of educational facilities"
+   },
+   "Skills": "Educational Facility Design, Construction Oversight, Education",
+   "Domain": "Educational Facilities"
+ },
+ {
+   "ID": "523",
+   "Projects": {
+     "Experience": "Lead diversity and inclusion initiatives for a corporate organization"
+   },
+   "Skills": "Diversity and Inclusion, Initiative Leadership, Corporate Management",
+   "Domain": "Diversity and Inclusion"
+ },
+ {
+   "ID": "524",
+   "Projects": {
+     "Experience": "Develop and implement branding strategies for startups"
+   },
+   "Skills": "Branding, Startup Management, Strategy Implementation",
+   "Domain": "Startup Branding"
+ },
+ {
+   "ID": "525",
+   "Projects": {
+     "Experience": "Manage and coordinate event planning for weddings and special occasions"
+   },
+   "Skills": "Event Planning, Wedding Planning, Coordination",
+   "Domain": "Wedding Planning"
+ },
+ {
+   "ID": "526",
+   "Projects": {
+     "Experience": "Provide legal counsel for intellectual property matters"
+   },
+   "Skills": "Intellectual Property Law, Legal Counsel, Copyrights and Patents",
+   "Domain": "Intellectual Property Law"
+ },
+ {
+   "ID": "527",
+   "Projects": {
+     "Experience": "Develop and implement employee wellness programs for corporations"
+   },
+   "Skills": "Employee Wellness, Program Development, Corporate Wellness",
+   "Domain": "Corporate Wellness"
+ },
+ {
+   "ID": "528",
+   "Projects": {
+     "Experience": "Design and implement renewable energy systems for residential properties"
+   },
+   "Skills": "Renewable Energy, Residential Properties, System Design",
+   "Domain": "Residential Renewable Energy"
+ },
+ {
+   "ID": "529",
+   "Projects": {
+     "Experience": "Manage and optimize financial operations for a healthcare institution"
+   },
+   "Skills": "Financial Management, Healthcare Finance, Operations Optimization",
+   "Domain": "Healthcare Finance"
+ },
+ {
+   "ID": "530",
+   "Projects": {
+     "Experience": "Develop and implement talent acquisition strategies for a tech startup"
+   },
+   "Skills": "Talent Acquisition, Startup Management, Strategy Development",
+   "Domain": "Talent Acquisition"
+ },
+ {
+   "ID": "531",
+   "Projects": {
+     "Experience": "Lead marketing campaigns for a fitness and wellness center"
+   },
+   "Skills": "Marketing, Campaign Management, Fitness Industry",
+   "Domain": "Fitness Marketing"
+ },
+ {
+   "ID": "532",
+   "Projects": {
+     "Experience": "Design and implement renewable energy solutions for residential properties"
+   },
+   "Skills": "Renewable Energy, Residential Properties, Solution Design",
+   "Domain": "Renewable Energy Solutions"
+ },
+ {
+   "ID": "533",
+   "Projects": {
+     "Experience": "Manage public relations and media outreach for a non-profit organization"
+   },
+   "Skills": "Public Relations, Media Outreach, Non-Profit Management",
+   "Domain": "Non-Profit Public Relations"
+ },
+ {
+   "ID": "534",
+   "Projects": {
+     "Experience": "Develop and oversee environmental sustainability initiatives for a corporation"
+   },
+   "Skills": "Environmental Sustainability, Corporate Initiatives, Oversight",
+   "Domain": "Corporate Sustainability"
+ },
+ {
+   "ID": "535",
+   "Projects": {
+     "Experience": "Plan and coordinate fundraising events for charitable causes"
+   },
+   "Skills": "Event Planning, Fundraising, Charity Events",
+   "Domain": "Fundraising Coordination"
+ },
+ {
+   "ID": "536",
+   "Projects": {
+     "Experience": "Design and implement water conservation strategies for agricultural farms"
+   },
+   "Skills": "Water Conservation, Agricultural Practices, Strategy Implementation",
+   "Domain": "Agricultural Water Conservation"
+ },
+ {
+   "ID": "537",
+   "Projects": {
+     "Experience": "Lead talent acquisition and recruitment efforts for a consulting firm"
+   },
+   "Skills": "Talent Acquisition, Recruitment, Consulting",
+   "Domain": "Recruitment Consulting"
+ },
+ {
+   "ID": "538",
+   "Projects": {
+     "Experience": "Develop and implement health and safety protocols for a manufacturing facility"
+   },
+   "Skills": "Health and Safety, Protocol Development, Manufacturing",
+   "Domain": "Health and Safety Management"
+ },
+ {
+   "ID": "539",
+   "Projects": {
+     "Experience": "Manage operations and logistics for a transportation company"
+   },
+   "Skills": "Operations Management, Logistics, Transportation",
+   "Domain": "Transportation Management"
+ },
+ {
+   "ID": "540",
+   "Projects": {
+     "Experience": "Design and implement educational programs for community development"
+   },
+   "Skills": "Educational Program Design, Community Development, Implementation",
+   "Domain": "Community Education"
+ },
+ {
+   "ID": "541",
+   "Projects": {
+     "Experience": "Coordinate and manage supply chain operations for a retail chain"
+   },
+   "Skills": "Supply Chain Management, Retail Operations, Coordination",
+   "Domain": "Retail Supply Chain"
+ },
+ {
+   "ID": "542",
+   "Projects": {
+     "Experience": "Provide legal advice and representation for immigration cases"
+   },
+   "Skills": "Immigration Law, Legal Representation, Legal Advice",
+   "Domain": "Immigration Law"
+ },
+ {
+   "ID": "543",
+   "Projects": {
+     "Experience": "Develop and implement software solutions for healthcare management"
+   },
+   "Skills": "Software Development, Healthcare Management, Solution Implementation",
+   "Domain": "Healthcare Software Solutions"
+ },
+ {
+   "ID": "544",
+   "Projects": {
+     "Experience": "Plan and execute marketing strategies for a tourism agency"
+   },
+   "Skills": "Marketing Strategy, Tourism, Strategy Execution",
+   "Domain": "Tourism Marketing"
+ },
+ {
+   "ID": "545",
+   "Projects": {
+     "Experience": "Design and oversee construction of transportation infrastructure projects"
+   },
+   "Skills": "Infrastructure Design, Construction Oversight, Transportation",
+   "Domain": "Transportation Infrastructure"
+ },
+ {
+   "ID": "546",
+   "Projects": {
+     "Experience": "Manage financial operations and budgeting for a non-profit organization"
+   },
+   "Skills": "Financial Management, Budgeting, Non-Profit Management",
+   "Domain": "Non-Profit Financial Management"
+ },
+ {
+   "ID": "547",
+   "Projects": {
+     "Experience": "Lead customer service initiatives for a hospitality company"
+   },
+   "Skills": "Customer Service, Hospitality, Leadership",
+   "Domain": "Hospitality Customer Service"
+ },
+ {
+   "ID": "548",
+   "Projects": {
+     "Experience": "Develop and implement urban development projects for city revitalization"
+   },
+   "Skills": "Urban Development, City Revitalization, Project Implementation",
+   "Domain": "Urban Development"
+ },
+ {
+   "ID": "549",
+   "Projects": {
+     "Experience": "Coordinate and manage IT infrastructure projects for a corporation"
+   },
+   "Skills": "IT Infrastructure Management, Project Coordination, Corporate IT",
+   "Domain": "Corporate IT Management"
+ },
+ {
+   "ID": "550",
+   "Projects": {
+     "Experience": "Provide counseling and therapy for individuals dealing with addiction"
+   },
+   "Skills": "Counseling, Therapy, Addiction Counseling",
+   "Domain": "Addiction Counseling"
+ },
+ {
+   "ID": "551",
+   "Projects": {
+     "Experience": "Design and implement solar energy systems for residential and commercial buildings"
+   },
+   "Skills": "Solar Energy, System Design, Residential and Commercial Applications",
+   "Domain": "Solar Energy Systems"
+ },
+ {
+   "ID": "552",
+   "Projects": {
+     "Experience": "Design and oversee construction of wastewater treatment plants"
+   },
+   "Skills": "Wastewater Treatment, Construction Management, Civil Engineering",
+   "Domain": "Civil Engineering"
+ },
+ {
+   "ID": "553",
+   "Projects": {
+     "Experience": "Develop and implement training programs for healthcare professionals"
+   },
+   "Skills": "Training Program Development, Healthcare, Professional Education",
+   "Domain": "Healthcare Education"
+ },
+ {
+   "ID": "554",
+   "Projects": {
+     "Experience": "Manage customer service operations for a telecommunications company"
+   },
+   "Skills": "Customer Service Management, Telecommunications, Operations",
+   "Domain": "Customer Service"
+ },
+ {
+   "ID": "555",
+   "Projects": {
+     "Experience": "Design and implement wastewater treatment systems for municipalities"
+   },
+   "Skills": "Wastewater Treatment, Municipal Systems, Engineering Design",
+   "Domain": "Environmental Engineering"
+ },
+ {
+   "ID": "556",
+   "Projects": {
+     "Experience": "Plan and execute marketing campaigns for a fashion retail brand"
+   },
+   "Skills": "Marketing, Campaign Planning, Fashion Retail",
+   "Domain": "Fashion Marketing"
+ },
+ {
+   "ID": "557",
+   "Projects": {
+     "Experience": "Coordinate and manage inventory for a wholesale distribution company"
+   },
+   "Skills": "Inventory Management, Wholesale Distribution, Operations Coordination",
+   "Domain": "Inventory Management"
+ },
+ {
+   "ID": "558",
+   "Projects": {
+     "Experience": "Develop and implement safety protocols for a chemical manufacturing plant"
+   },
+   "Skills": "Safety Protocols, Chemical Manufacturing, Plant Operations",
+   "Domain": "Chemical Engineering"
+ },
+ {
+   "ID": "559",
+   "Projects": {
+     "Experience": "Lead community engagement programs for a local government agency"
+   },
+   "Skills": "Community Engagement, Local Government, Program Leadership",
+   "Domain": "Community Development"
+ },
+ {
+   "ID": "560",
+   "Projects": {
+     "Experience": "Design and implement curriculum for vocational training programs"
+   },
+   "Skills": "Curriculum Design, Vocational Training, Education",
+   "Domain": "Vocational Education"
+ },
+ {
+   "ID": "561",
+   "Projects": {
+     "Experience": "Manage and optimize digital marketing campaigns for e-commerce platforms"
+   },
+   "Skills": "Digital Marketing, E-commerce, Campaign Optimization",
+   "Domain": "Digital Marketing"
+ },
+ {
+   "ID": "562",
+   "Projects": {
+     "Experience": "Design and oversee construction of renewable energy projects"
+   },
+   "Skills": "Renewable Energy, Construction Oversight, Engineering",
+   "Domain": "Renewable Energy"
+ },
+ {
+   "ID": "563",
+   "Projects": {
+     "Experience": "Develop and implement training programs for software users"
+   },
+   "Skills": "Training Program Development, Software Training, User Education",
+   "Domain": "Software Training"
+ },
+ {
+   "ID": "564",
+   "Projects": {
+     "Experience": "Manage and coordinate transportation logistics for a logistics company"
+   },
+   "Skills": "Transportation Logistics, Operations Management, Coordination",
+   "Domain": "Logistics Management"
+ },
+ {
+   "ID": "565",
+   "Projects": {
+     "Experience": "Provide legal advice and representation for family law cases"
+   },
+   "Skills": "Legal Advice, Family Law, Representation",
+   "Domain": "Family Law"
+ },
+ {
+   "ID": "566",
+   "Projects": {
+     "Experience": "Design and implement sustainable agriculture practices for farms"
+   },
+   "Skills": "Sustainable Agriculture, Farming Practices, Implementation",
+   "Domain": "Agriculture"
+ },
+ {
+   "ID": "567",
+   "Projects": {
+     "Experience": "Develop and implement corporate social responsibility programs for companies"
+   },
+   "Skills": "Corporate Social Responsibility, Program Development, Corporate Management",
+   "Domain": "Corporate Social Responsibility"
+ },
+ {
+   "ID": "568",
+   "Projects": {
+     "Experience": "Coordinate and manage events for a cultural institution"
+   },
+   "Skills": "Event Coordination, Cultural Events, Management",
+   "Domain": "Event Management"
+ },
+ {
+   "ID": "569",
+   "Projects": {
+     "Experience": "Conduct financial analysis and risk assessment for investment portfolios"
+   },
+   "Skills": "Financial Analysis, Risk Assessment, Investment Management",
+   "Domain": "Finance"
+ },
+ {
+   "ID": "570",
+   "Projects": {
+     "Experience": "Lead quality assurance initiatives for a pharmaceutical manufacturing company"
+   },
+   "Skills": "Quality Assurance, Pharmaceutical Manufacturing, Leadership",
+   "Domain": "Pharmaceuticals"
+ },
+ {
+   "ID": "571",
+   "Projects": {
+     "Experience": "Provide counseling and therapy for individuals and families"
+   },
+   "Skills": "Counseling, Therapy, Family Counseling",
+   "Domain": "Counseling"
+ },
+ {
+   "ID": "572",
+   "Projects": {
+     "Experience": "Develop and implement marketing strategies for a hospitality company"
+   },
+   "Skills": "Marketing, Hospitality Industry, Strategy Development",
+   "Domain": "Hospitality Management"
+ },
+ {
+   "ID": "573",
+   "Projects": {
+     "Experience": "Design and implement public health interventions for disease prevention"
+   },
+   "Skills": "Public Health, Intervention Design, Disease Prevention",
+   "Domain": "Public Health"
+ },
+ {
+   "ID": "574",
+   "Projects": {
+     "Experience": "Manage and optimize digital advertising campaigns for online retailers"
+   },
+   "Skills": "Digital Advertising, Campaign Optimization, Online Retail",
+   "Domain": "Digital Advertising"
+ },
+ {
+   "ID": "575",
+   "Projects": {
+     "Experience": "Coordinate and manage construction projects for residential developments"
+   },
+   "Skills": "Construction Management, Residential Developments, Project Coordination",
+   "Domain": "Construction Management"
+ },
+ {
+   "ID": "576",
+   "Projects": {
+     "Experience": "Provide legal consultation and representation for immigration cases"
+   },
+   "Skills": "Immigration Law, Legal Consultation, Representation",
+   "Domain": "Immigration Law"
+ },
+ {
+   "ID": "577",
+   "Projects": {
+     "Experience": "Design and implement learning programs for adult education"
+   },
+   "Skills": "Learning Program Design, Adult Education, Implementation",
+   "Domain": "Adult Education"
+ },
+ {
+   "ID": "578",
+   "Projects": {
+     "Experience": "Manage and coordinate fundraising events for a non-profit organization"
+   },
+   "Skills": "Fundraising, Event Coordination, Non-Profit Management",
+   "Domain": "Fundraising"
+ },
+ {
+   "ID": "579",
+   "Projects": {
+     "Experience": "Develop and implement marketing strategies for a hospitality company"
+   },
+   "Skills": "Marketing Strategy, Hospitality Industry, Implementation",
+   "Domain": "Hospitality Marketing"
+ },
+ {
+   "ID": "580",
+   "Projects": {
+     "Experience": "Lead research projects in the field of environmental science"
+   },
+   "Skills": "Environmental Science, Research Leadership, Project Management",
+   "Domain": "Environmental Science"
+ },
+ {
+   "ID": "581",
+   "Projects": {
+     "Experience": "Design and implement landscape architecture projects for public parks"
+   },
+   "Skills": "Landscape Architecture, Public Parks, Project Implementation",
+   "Domain": "Landscape Architecture"
+ },
+ {
+   "ID": "582",
+   "Projects": {
+     "Experience": "Manage and oversee human resources operations for a multinational corporation"
+   },
+   "Skills": "Human Resources Management, Multinational Corporations, Operations Oversight",
+   "Domain": "Human Resources"
+ },
+ {
+   "ID": "583",
+   "Projects": {
+     "Experience": "Develop and implement IT security protocols for a financial institution"
+   },
+   "Skills": "IT Security, Protocol Implementation, Financial Institutions",
+   "Domain": "IT Security"
+ },
+ {
+   "ID": "584",
+   "Projects": {
+     "Experience": "Lead community development initiatives for urban revitalization"
+   },
+   "Skills": "Community Development, Urban Revitalization, Initiative Leadership",
+   "Domain": "Community Development"
+ },
+ {
+   "ID": "585",
+   "Projects": {
+     "Experience": "Design and implement health and safety protocols for manufacturing facilities"
+   },
+   "Skills": "Health and Safety, Protocol Design, Manufacturing Facilities",
+   "Domain": "Occupational Health and Safety"
+ },
+ {
+   "ID": "586",
+   "Projects": {
+     "Experience": "Provide financial advisory services for individual and corporate clients"
+   },
+   "Skills": "Financial Advisory, Individual Clients, Corporate Clients",
+   "Domain": "Financial Advisory"
+ },
+ {
+   "ID": "587",
+   "Projects": {
+     "Experience": "Coordinate and manage supply chain operations for a global logistics company"
+   },
+   "Skills": "Supply Chain Management, Global Logistics, Operations Coordination",
+   "Domain": "Supply Chain Management"
+ },
+ {
+   "ID": "588",
+   "Projects": {
+     "Experience": "Lead marketing campaigns for a technology startup"
+   },
+   "Skills": "Marketing, Campaign Leadership, Technology Startups",
+   "Domain": "Technology Marketing"
+ },
+ {
+   "ID": "589",
+   "Projects": {
+     "Experience": "Design and implement renewable energy systems for residential properties"
+   },
+   "Skills": "Renewable Energy, System Design, Residential Properties",
+   "Domain": "Renewable Energy Systems"
+ },
+ {
+   "ID": "590",
+   "Projects": {
+     "Experience": "Manage and optimize inventory for a retail chain"
+   },
+   "Skills": "Inventory Management, Retail Operations, Optimization",
+   "Domain": "Retail Management"
+ },
+ {
+   "ID": "591",
+   "Projects": {
+     "Experience": "Conduct market research and analysis for product development"
+   },
+   "Skills": "Market Research, Product Development, Analysis",
+   "Domain": "Market Research"
+ },
+ {
+   "ID": "592",
+   "Projects": {
+     "Experience": "Provide counseling and therapy for mental health issues"
+   },
+   "Skills": "Counseling, Therapy, Mental Health",
+   "Domain": "Mental Health Counseling"
+ },
+ {
+   "ID": "593",
+   "Projects": {
+     "Experience": "Design and implement urban planning projects for sustainable cities"
+   },
+   "Skills": "Urban Planning, Sustainable Cities, Project Implementation",
+   "Domain": "Urban Planning"
+ },
+ {
+   "ID": "594",
+   "Projects": {
+     "Experience": "Lead strategic planning and business development for a consulting firm"
+   },
+   "Skills": "Strategic Planning, Business Development, Consulting",
+   "Domain": "Consulting"
+ },
+ {
+   "ID": "595",
+   "Projects": {
+     "Experience": "Design and implement wastewater treatment systems for industrial facilities"
+   },
+   "Skills": "Wastewater Treatment, Industrial Facilities, Engineering Design",
+   "Domain": "Environmental Engineering"
+ },
+ {
+   "ID": "596",
+   "Projects": {
+     "Experience": "Plan and coordinate logistics for large-scale events and conferences"
+   },
+   "Skills": "Event Logistics, Conference Planning, Coordination",
+   "Domain": "Event Management"
+ },
+ {
+   "ID": "597",
+   "Projects": {
+     "Experience": "Develop and execute marketing strategies for a tourism destination"
+   },
+   "Skills": "Marketing Strategy, Tourism, Destination Marketing",
+   "Domain": "Tourism Marketing"
+ },
+ {
+   "ID": "598",
+   "Projects": {
+     "Experience": "Manage operations and facilities for a sports and recreation center"
+   },
+   "Skills": "Operations Management, Facility Management, Sports Management",
+   "Domain": "Sports Management"
+ },
+ {
+   "ID": "599",
+   "Projects": {
+     "Experience": "Design and implement fire protection systems for commercial buildings"
+   },
+   "Skills": "Fire Protection, Commercial Buildings, Engineering Design",
+   "Domain": "Fire Protection Engineering"
+ },
+ {
+   "ID": "600",
+   "Projects": {
+     "Experience": "Lead community development projects for a non-profit organization"
+   },
+   "Skills": "Community Development, Non-Profit Management, Project Leadership",
+   "Domain": "Community Development"
+ },
+ {
+   "ID": "601",
+   "Projects": {
+     "Experience": "Develop and implement training programs for healthcare professionals"
+   },
+   "Skills": "Training Program Development, Healthcare, Professional Education",
+   "Domain": "Healthcare Education"
+ },
+ {
+   "ID": "602",
+   "Projects": {
+     "Experience": "Manage customer service operations for a telecommunications company"
+   },
+   "Skills": "Customer Service Management, Telecommunications, Operations",
+   "Domain": "Customer Service"
+ },
+ {
+   "ID": "603",
+   "Projects": {
+     "Experience": "Design and implement wastewater treatment systems for municipalities"
+   },
+   "Skills": "Wastewater Treatment, Municipal Systems, Engineering Design",
+   "Domain": "Environmental Engineering"
+ },
+ {
+   "ID": "604",
+   "Projects": {
+     "Experience": "Plan and execute marketing campaigns for a fashion retail brand"
+   },
+   "Skills": "Marketing, Campaign Planning, Fashion Retail",
+   "Domain": "Fashion Marketing"
+ },
+ {
+   "ID": "605",
+   "Projects": {
+     "Experience": "Coordinate and manage inventory for a wholesale distribution company"
+   },
+   "Skills": "Inventory Management, Wholesale Distribution, Operations Coordination",
+   "Domain": "Inventory Management"
+ },
+ {
+   "ID": "606",
+   "Projects": {
+     "Experience": "Develop and implement safety protocols for a chemical manufacturing plant"
+   },
+   "Skills": "Safety Protocols, Chemical Manufacturing, Plant Operations",
+   "Domain": "Chemical Engineering"
+ },
+ {
+   "ID": "607",
+   "Projects": {
+     "Experience": "Lead community engagement programs for a local government agency"
+   },
+   "Skills": "Community Engagement, Local Government, Program Leadership",
+   "Domain": "Community Development"
+ },
+ {
+   "ID": "608",
+   "Projects": {
+     "Experience": "Design and implement curriculum for vocational training programs"
+   },
+   "Skills": "Curriculum Design, Vocational Training, Education",
+   "Domain": "Vocational Education"
+ },
+ {
+   "ID": "609",
+   "Projects": {
+     "Experience": "Manage and optimize digital marketing campaigns for e-commerce platforms"
+   },
+   "Skills": "Digital Marketing, E-commerce, Campaign Optimization",
+   "Domain": "Digital Marketing"
+ },
+ {
+   "ID": "610",
+   "Projects": {
+     "Experience": "Design and oversee construction of renewable energy projects"
+   },
+   "Skills": "Renewable Energy, Construction Oversight, Engineering",
+   "Domain": "Renewable Energy"
+ },
+ {
+   "ID": "611",
+   "Projects": {
+     "Experience": "Develop and implement training programs for software users"
+   },
+   "Skills": "Training Program Development, Software Training, User Education",
+   "Domain": "Software Training"
+ },
+ {
+   "ID": "612",
+   "Projects": {
+     "Experience": "Manage and coordinate transportation logistics for a logistics company"
+   },
+   "Skills": "Transportation Logistics, Operations Management, Coordination",
+   "Domain": "Logistics Management"
+ },
+ {
+   "ID": "613",
+   "Projects": {
+     "Experience": "Provide legal advice and representation for family law cases"
+   },
+   "Skills": "Legal Advice, Family Law, Representation",
+   "Domain": "Family Law"
+ },
+ {
+   "ID": "614",
+   "Projects": {
+     "Experience": "Design and implement sustainable agriculture practices for farms"
+   },
+   "Skills": "Sustainable Agriculture, Farming Practices, Implementation",
+   "Domain": "Agriculture"
+ },
+ {
+   "ID": "615",
+   "Projects": {
+     "Experience": "Design and implement public transportation systems for urban areas"
+   },
+   "Skills": "Public Transportation, Urban Planning, System Implementation",
+   "Domain": "Transportation Engineering"
+ },
+ {
+   "ID": "616",
+   "Projects": {
+     "Experience": "Manage and oversee construction projects for commercial real estate developments"
+   },
+   "Skills": "Construction Management, Real Estate Development, Project Oversight",
+   "Domain": "Construction Management"
+ },
+ {
+   "ID": "617",
+   "Projects": {
+     "Experience": "Develop and implement marketing strategies for a hospitality chain"
+   },
+   "Skills": "Marketing, Hospitality Industry, Strategy Implementation",
+   "Domain": "Hospitality Marketing"
+ },
+ {
+   "ID": "618",
+   "Projects": {
+     "Experience": "Coordinate and manage customer support operations for a software company"
+   },
+   "Skills": "Customer Support, Software Industry, Operations Coordination",
+   "Domain": "Customer Support"
+ },
+ {
+   "ID": "619",
+   "Projects": {
+     "Experience": "Design and implement water resource management systems for agricultural use"
+   },
+   "Skills": "Water Resource Management, Agricultural Systems, Implementation",
+   "Domain": "Agricultural Engineering"
+ },
+ {
+   "ID": "620",
+   "Projects": {
+     "Experience": "Lead strategic planning efforts for a non-profit organization"
+   },
+   "Skills": "Strategic Planning, Non-Profit Management, Leadership",
+   "Domain": "Non-Profit Management"
+ },
+ {
+   "ID": "621",
+   "Projects": {
+     "Experience": "Develop and implement educational programs for underprivileged communities"
+   },
+   "Skills": "Educational Program Development, Community Outreach, Implementation",
+   "Domain": "Community Education"
+ },
+ {
+   "ID": "622",
+   "Projects": {
+     "Experience": "Manage and optimize supply chain operations for a retail company"
+   },
+   "Skills": "Supply Chain Management, Retail Operations, Optimization",
+   "Domain": "Supply Chain Optimization"
+ },
+ {
+   "ID": "623",
+   "Projects": {
+     "Experience": "Design and implement solar energy systems for residential properties"
+   },
+   "Skills": "Solar Energy Systems, Residential Properties, System Implementation",
+   "Domain": "Solar Energy Engineering"
+ },
+ {
+   "ID": "624",
+   "Projects": {
+     "Experience": "Conduct market research and analysis for product development initiatives"
+   },
+   "Skills": "Market Research, Product Development, Analysis",
+   "Domain": "Market Research"
+ },
+ {
+   "ID": "625",
+   "Projects": {
+     "Experience": "Manage and coordinate IT infrastructure for a medium-sized company"
+   },
+   "Skills": "IT Infrastructure Management, Coordination, Medium-Sized Companies",
+   "Domain": "IT Management"
+ },
+ {
+   "ID": "626",
+   "Projects": {
+     "Experience": "Develop and implement social media marketing campaigns for a fashion brand"
+   },
+   "Skills": "Social Media Marketing, Fashion Industry, Campaign Implementation",
+   "Domain": "Fashion Marketing"
+ },
+ {
+   "ID": "627",
+   "Projects": {
+     "Experience": "Design and oversee construction of educational facilities"
+   },
+   "Skills": "Educational Facility Design, Construction Oversight, Education Sector",
+   "Domain": "Educational Facility Management"
+ },
+ {
+   "ID": "628",
+   "Projects": {
+     "Experience": "Coordinate and manage public relations efforts for a technology startup"
+   },
+   "Skills": "Public Relations, Technology Industry, PR Coordination",
+   "Domain": "Public Relations"
+ },
+ {
+   "ID": "629",
+   "Projects": {
+     "Experience": "Lead strategic marketing initiatives for a healthcare organization"
+   },
+   "Skills": "Strategic Marketing, Healthcare Industry, Initiative Leadership",
+   "Domain": "Healthcare Marketing"
+ },
+ {
+   "ID": "630",
+   "Projects": {
+     "Experience": "Develop and implement waste management strategies for municipalities"
+   },
+   "Skills": "Waste Management, Municipalities, Strategy Implementation",
+   "Domain": "Municipal Waste Management"
+ },
+ {
+   "ID": "631",
+   "Projects": {
+     "Experience": "Manage and optimize manufacturing processes for efficiency and quality"
+   },
+   "Skills": "Manufacturing Process Management, Efficiency Optimization, Quality Assurance",
+   "Domain": "Manufacturing Optimization"
+ },
+ {
+   "ID": "632",
+   "Projects": {
+     "Experience": "Design and implement energy-efficient lighting systems for commercial buildings"
+   },
+   "Skills": "Energy-Efficient Lighting, Commercial Buildings, System Implementation",
+   "Domain": "Energy-Efficient Lighting Design"
+ },
+ {
+   "ID": "633",
+   "Projects": {
+     "Experience": "Conduct financial audits and provide advisory services for businesses"
+   },
+   "Skills": "Financial Auditing, Advisory Services, Business Finance",
+   "Domain": "Financial Advisory"
+ },
+ {
+   "ID": "634",
+   "Projects": {
+     "Experience": "Lead community development initiatives for a local government agency"
+   },
+   "Skills": "Community Development, Local Government, Initiative Leadership",
+   "Domain": "Community Development"
+ },
+ {
+   "ID": "635",
+   "Projects": {
+     "Experience": "Design and implement cybersecurity measures for corporate networks"
+   },
+   "Skills": "Cybersecurity, Corporate Networks, Implementation",
+   "Domain": "Cybersecurity"
+ },
+ {
+   "ID": "636",
+   "Projects": {
+     "Experience": "Design and oversee construction of public transportation systems"
+   },
+   "Skills": "Public Transportation, Construction Oversight, Civil Engineering",
+   "Domain": "Civil Engineering"
+ },
+ {
+   "ID": "637",
+   "Projects": {
+     "Experience": "Develop and implement employee training programs for retail staff"
+   },
+   "Skills": "Training Program Development, Retail Operations, Employee Education",
+   "Domain": "Retail Management"
+ },
+ {
+   "ID": "638",
+   "Projects": {
+     "Experience": "Manage marketing campaigns for a hospitality industry client"
+   },
+   "Skills": "Marketing Management, Hospitality Industry, Campaign Coordination",
+   "Domain": "Hospitality Marketing"
+ },
+ {
+   "ID": "639",
+   "Projects": {
+     "Experience": "Plan and execute fundraising events for a non-profit organization"
+   },
+   "Skills": "Event Planning, Fundraising, Non-Profit Management",
+   "Domain": "Fundraising Events"
+ },
+ {
+   "ID": "640",
+   "Projects": {
+     "Experience": "Design and implement irrigation systems for agricultural land"
+   },
+   "Skills": "Irrigation Systems, Agriculture, Implementation",
+   "Domain": "Agricultural Engineering"
+ },
+ {
+   "ID": "641",
+   "Projects": {
+     "Experience": "Manage public relations and communications for a technology company"
+   },
+   "Skills": "Public Relations, Technology Industry, Communication Strategy",
+   "Domain": "Technology PR"
+ },
+ {
+   "ID": "642",
+   "Projects": {
+     "Experience": "Develop and implement curriculum for special education programs"
+   },
+   "Skills": "Curriculum Development, Special Education, Program Implementation",
+   "Domain": "Special Education"
+ },
+ {
+   "ID": "643",
+   "Projects": {
+     "Experience": "Coordinate and oversee construction projects for residential developments"
+   },
+   "Skills": "Construction Coordination, Residential Development, Project Management",
+   "Domain": "Construction Management"
+ },
+ {
+   "ID": "644",
+   "Projects": {
+     "Experience": "Design and implement waste management systems for municipalities"
+   },
+   "Skills": "Waste Management, Municipal Systems, Engineering Design",
+   "Domain": "Environmental Engineering"
+ },
+ {
+   "ID": "645",
+   "Projects": {
+     "Experience": "Plan and manage logistics for large-scale events and conferences"
+   },
+   "Skills": "Event Logistics, Conference Management, Logistics Planning",
+   "Domain": "Event Logistics"
+ },
+ {
+   "ID": "646",
+   "Projects": {
+     "Experience": "Develop and implement talent acquisition strategies for a recruitment firm"
+   },
+   "Skills": "Talent Acquisition, Recruitment Strategies, HR Management",
+   "Domain": "Recruitment"
+ },
+ {
+   "ID": "647",
+   "Projects": {
+     "Experience": "Lead environmental conservation initiatives for a wildlife preservation organization"
+   },
+   "Skills": "Environmental Conservation, Wildlife Preservation, Initiative Leadership",
+   "Domain": "Environmental Conservation"
+ },
+ {
+   "ID": "648",
+   "Projects": {
+     "Experience": "Design and implement sustainable architecture solutions for buildings"
+   },
+   "Skills": "Sustainable Architecture, Building Design, Implementation",
+   "Domain": "Sustainable Architecture"
+ },
+ {
+   "ID": "649",
+   "Projects": {
+     "Experience": "Manage and optimize supply chain operations for a manufacturing company"
+   },
+   "Skills": "Supply Chain Management, Operations Optimization, Manufacturing",
+   "Domain": "Supply Chain Optimization"
+ },
+ {
+   "ID": "650",
+   "Projects": {
+     "Experience": "Provide legal counsel for intellectual property rights cases"
+   },
+   "Skills": "Intellectual Property Law, Legal Counsel, Rights Protection",
+   "Domain": "Intellectual Property Law"
+ },
+ {
+   "ID": "651",
+   "Projects": {
+     "Experience": "Develop and implement educational programs for community outreach"
+   },
+   "Skills": "Educational Program Development, Community Outreach, Program Implementation",
+   "Domain": "Community Education"
+ },
+ {
+   "ID": "652",
+   "Projects": {
+     "Experience": "Manage and coordinate public health campaigns for a healthcare organization"
+   },
+   "Skills": "Public Health Management, Campaign Coordination, Healthcare",
+   "Domain": "Public Health"
+ },
+ {
+   "ID": "653",
+   "Projects": {
+     "Experience": "Design and implement renewable energy solutions for residential buildings"
+   },
+   "Skills": "Renewable Energy, Residential Buildings, Energy Solutions",
+   "Domain": "Renewable Energy"
+ },
+ {
+   "ID": "654",
+   "Projects": {
+     "Experience": "Lead diversity and inclusion initiatives for a corporate organization"
+   },
+   "Skills": "Diversity and Inclusion, Initiative Leadership, Corporate Culture",
+   "Domain": "Diversity and Inclusion"
+ },
+ {
+   "ID": "655",
+   "Projects": {
+     "Experience": "Provide financial advisory services for individual clients"
+   },
+   "Skills": "Financial Advisory, Individual Finance, Advisory Services",
+   "Domain": "Financial Advisory"
+ },
+ {
+   "ID": "656",
+   "Projects": {
+     "Experience": "Design and implement educational programs for workforce development"
+   },
+   "Skills": "Educational Program Design, Workforce Development, Implementation",
+   "Domain": "Workforce Development"
+ },
+ {
+   "ID": "657",
+   "Projects": {
+     "Experience": "Design and develop architectural plans for residential properties"
+   },
+   "Skills": "Architectural Design, Residential Properties, Plan Development",
+   "Domain": "Architecture"
+ },
+ {
+   "ID": "658",
+   "Projects": {
+     "Experience": "Lead marketing campaigns for a tourism destination"
+   },
+   "Skills": "Marketing, Tourism, Campaign Leadership",
+   "Domain": "Tourism Marketing"
+ },
+ {
+   "ID": "659",
+   "Projects": {
+     "Experience": "Coordinate and manage logistics for a large-scale event"
+   },
+   "Skills": "Event Logistics, Event Management, Coordination",
+   "Domain": "Event Planning"
+ },
+ {
+   "ID": "660",
+   "Projects": {
+     "Experience": "Provide legal representation for immigration cases"
+   },
+   "Skills": "Immigration Law, Legal Representation, Case Management",
+   "Domain": "Immigration Law"
+ },
+ {
+   "ID": "661",
+   "Projects": {
+     "Experience": "Develop and implement social media strategies for brand promotion"
+   },
+   "Skills": "Social Media Marketing, Brand Promotion, Strategy Implementation",
+   "Domain": "Social Media Marketing"
+ },
+ {
+   "ID": "662",
+   "Projects": {
+     "Experience": "Manage and oversee operations for a food manufacturing plant"
+   },
+   "Skills": "Operations Management, Food Manufacturing, Plant Oversight",
+   "Domain": "Food Industry"
+ },
+ {
+   "ID": "663",
+   "Projects": {
+     "Experience": "Design and implement landscaping projects for public parks"
+   },
+   "Skills": "Landscaping Design, Public Parks, Project Implementation",
+   "Domain": "Landscape Architecture"
+ },
+ {
+   "ID": "664",
+   "Projects": {
+     "Experience": "Provide financial advisory services for individual clients"
+   },
+   "Skills": "Financial Advisory, Wealth Management, Client Services",
+   "Domain": "Financial Advisory"
+ },
+ {
+   "ID": "665",
+   "Projects": {
+     "Experience": "Lead research and development projects for pharmaceutical products"
+   },
+   "Skills": "Research and Development, Pharmaceuticals, Project Leadership",
+   "Domain": "Pharmaceutical Research"
+ },
+ {
+   "ID": "666",
+   "Projects": {
+     "Experience": "Design and implement irrigation systems for agricultural farms"
+   },
+   "Skills": "Irrigation System Design, Agriculture, Implementation",
+   "Domain": "Agricultural Engineering"
+ },
+ {
+   "ID": "667",
+   "Projects": {
+     "Experience": "Develop and implement educational programs for environmental conservation"
+   },
+   "Skills": "Environmental Education, Conservation Programs, Program Development",
+   "Domain": "Environmental Education"
+ },
+ {
+   "ID": "668",
+   "Projects": {
+     "Experience": "Manage and oversee supply chain operations for a retail company"
+   },
+   "Skills": "Supply Chain Management, Retail Operations, Operations Oversight",
+   "Domain": "Retail Management"
+ },
+ {
+   "ID": "669",
+   "Projects": {
+     "Experience": "Provide counseling and therapy for mental health patients"
+   },
+   "Skills": "Counseling, Therapy, Mental Health",
+   "Domain": "Mental Health Counseling"
+ },
+ {
+   "ID": "670",
+   "Projects": {
+     "Experience": "Design and develop user interfaces for mobile applications"
+   },
+   "Skills": "UI Design, Mobile Applications, User Experience",
+   "Domain": "Mobile App Development"
+ },
+ {
+   "ID": "671",
+   "Projects": {
+     "Experience": "Lead business strategy development for a consulting firm"
+   },
+   "Skills": "Business Strategy, Consulting, Strategy Development",
+   "Domain": "Business Consulting"
+ },
+ {
+   "ID": "672",
+   "Projects": {
+     "Experience": "Manage and coordinate emergency response efforts for disaster relief"
+   },
+   "Skills": "Emergency Response, Disaster Relief, Coordination",
+   "Domain": "Emergency Management"
+ },
+ {
+   "ID": "673",
+   "Projects": {
+     "Experience": "Develop and implement curriculum for corporate training programs"
+   },
+   "Skills": "Curriculum Development, Corporate Training, Program Implementation",
+   "Domain": "Corporate Training"
+ },
+ {
+   "ID": "674",
+   "Projects": {
+     "Experience": "Provide legal representation for criminal defense cases"
+   },
+   "Skills": "Criminal Defense, Legal Representation, Case Management",
+   "Domain": "Criminal Law"
+ },
+ {
+   "ID": "675",
+   "Projects": {
+     "Experience": "Coordinate and manage marketing campaigns for a tech startup"
+   },
+   "Skills": "Marketing, Campaign Management, Startup Marketing",
+   "Domain": "Tech Startup Marketing"
+ },
+ {
+   "ID": "676",
+   "Projects": {
+     "Experience": "Design and oversee construction of renewable energy infrastructure"
+   },
+   "Skills": "Renewable Energy, Construction Oversight, Infrastructure Design",
+   "Domain": "Renewable Energy Infrastructure"
+ },
+ {
+   "ID": "677",
+   "Projects": {
+     "Experience": "Develop and implement training programs for healthcare staff"
+   },
+   "Skills": "Training Program Development, Healthcare, Staff Training",
+   "Domain": "Healthcare Training"
+ },
+ {
+   "ID": "678",
+   "Projects": {
+     "Experience": "Design and implement fire protection systems for commercial buildings"
+   },
+   "Skills": "Fire Protection, Commercial Buildings, System Design",
+   "Domain": "Fire Protection Engineering"
+ },
+ {
+   "ID": "679",
+   "Projects": {
+     "Experience": "Manage and oversee agricultural operations for a large farm"
+   },
+   "Skills": "Agricultural Management, Farm Operations, Oversight",
+   "Domain": "Agriculture"
+ },
+ {
+   "ID": "680",
+   "Projects": {
+     "Experience": "Develop and implement educational programs for environmental conservation"
+   },
+   "Skills": "Environmental Education, Conservation Programs, Program Development",
+   "Domain": "Environmental Conservation"
+ },
+ {
+   "ID": "681",
+   "Projects": {
+     "Experience": "Coordinate and manage fundraising events for a non-profit organization"
+   },
+   "Skills": "Fundraising, Event Coordination, Non-Profit Management",
+   "Domain": "Fundraising Management"
+ },
+ {
+   "ID": "682",
+   "Projects": {
+     "Experience": "Provide legal representation for immigration cases"
+   },
+   "Skills": "Immigration Law, Legal Representation, Case Management",
+   "Domain": "Immigration Law"
+ },
+ {
+   "ID": "683",
+   "Projects": {
+     "Experience": "Lead strategic planning initiatives for a healthcare organization"
+   },
+   "Skills": "Strategic Planning, Healthcare Management, Leadership",
+   "Domain": "Healthcare Management"
+ },
+ {
+   "ID": "684",
+   "Projects": {
+     "Experience": "Design and implement waste management systems for municipalities"
+   },
+   "Skills": "Waste Management, Municipal Systems, Engineering Design",
+   "Domain": "Environmental Engineering"
+ },
+ {
+   "ID": "685",
+   "Projects": {
+     "Experience": "Manage and optimize supply chain processes for a manufacturing company"
+   },
+   "Skills": "Supply Chain Management, Process Optimization, Manufacturing",
+   "Domain": "Supply Chain Management"
+ },
+ {
+   "ID": "686",
+   "Projects": {
+     "Experience": "Plan and coordinate logistics for international trade operations"
+   },
+   "Skills": "Logistics Planning, International Trade, Coordination",
+   "Domain": "International Trade"
+ },
+ {
+   "ID": "687",
+   "Projects": {
+     "Experience": "Develop and implement diversity and inclusion programs for companies"
+   },
+   "Skills": "Diversity and Inclusion, Program Development, Corporate Culture",
+   "Domain": "Diversity and Inclusion"
+ },
+ {
+   "ID": "688",
+   "Projects": {
+     "Experience": "Manage and oversee human resources operations for a large corporation"
+   },
+   "Skills": "Human Resources Management, Operations Oversight, Corporate HR",
+   "Domain": "Human Resources"
+ },
+ {
+   "ID": "689",
+   "Projects": {
+     "Experience": "Provide financial advisory services for high-net-worth individuals"
+   },
+   "Skills": "Financial Advisory, High-Net-Worth Clients, Wealth Management",
+   "Domain": "Wealth Management"
+ },
+ {
+   "ID": "690",
+   "Projects": {
+     "Experience": "Lead marketing campaigns for a hospitality industry client"
+   },
+   "Skills": "Marketing, Campaign Leadership, Hospitality Industry",
+   "Domain": "Hospitality Marketing"
+ },
+ {
+   "ID": "691",
+   "Projects": {
+     "Experience": "Design and implement traffic management systems for urban areas"
+   },
+   "Skills": "Traffic Management, Urban Planning, System Implementation",
+   "Domain": "Urban Planning"
+ },
+ {
+   "ID": "692",
+   "Projects": {
+     "Experience": "Coordinate and manage community development projects for a local government"
+   },
+   "Skills": "Community Development, Project Coordination, Local Government",
+   "Domain": "Community Development"
+ },
+ {
+   "ID": "693",
+   "Projects": {
+     "Experience": "Develop and implement training programs for corporate employees"
+   },
+   "Skills": "Training Program Development, Corporate Training, Employee Development",
+   "Domain": "Corporate Training"
+ },
+ {
+   "ID": "694",
+   "Projects": {
+     "Experience": "Manage and oversee facilities maintenance for a university campus"
+   },
+   "Skills": "Facilities Maintenance, Campus Operations, Management",
+   "Domain": "Facilities Management"
+ },
+ {
+   "ID": "695",
+   "Projects": {
+     "Experience": "Provide counseling services for individuals dealing with addiction"
+   },
+   "Skills": "Addiction Counseling, Individual Counseling, Therapy",
+   "Domain": "Addiction Counseling"
+ },
+ {
+   "ID": "696",
+   "Projects": {
+     "Experience": "Design and implement energy efficiency solutions for residential buildings"
+   },
+   "Skills": "Energy Efficiency, Residential Buildings, Solution Implementation",
+   "Domain": "Energy Efficiency"
+ },
+ {
+   "ID": "697",
+   "Projects": {
+     "Experience": "Lead marketing initiatives for a technology startup"
+   },
+   "Skills": "Marketing Strategy, Startup Management, Initiative Leadership",
+   "Domain": "Startup Marketing"
+ },
+ {
+   "ID": "698",
+   "Projects": {
+     "Experience": "Manage and optimize manufacturing processes for efficiency and quality"
+   },
+   "Skills": "Manufacturing Management, Process Optimization, Quality Control",
+   "Domain": "Manufacturing Management"
+ },
+ {
+   "ID": "699",
+   "Projects": {
+     "Experience": "Provide legal advice and representation for corporate clients"
+   },
+   "Skills": "Legal Advice, Corporate Law, Representation",
+   "Domain": "Corporate Law"
+ },
+ {
+   "ID": "700",
+   "Projects": {
+     "Experience": "Develop and implement nutrition and wellness programs for community centers"
+   },
+   "Skills": "Nutrition Programs, Wellness Programs, Community Engagement",
+   "Domain": "Nutrition and Wellness"
+ },
+ {
+   "ID": "701",
+   "Projects": {
+     "Experience": "Design and implement community health programs for underprivileged areas"
+   },
+   "Skills": "Community Health, Program Design, Underprivileged Areas",
+   "Domain": "Public Health"
+ },
+ {
+   "ID": "702",
+   "Projects": {
+     "Experience": "Manage and optimize digital advertising campaigns for a media agency"
+   },
+   "Skills": "Digital Advertising, Campaign Optimization, Media Management",
+   "Domain": "Media Advertising"
+ },
+ {
+   "ID": "703",
+   "Projects": {
+     "Experience": "Lead architectural design projects for commercial buildings"
+   },
+   "Skills": "Architectural Design, Commercial Buildings, Project Leadership",
+   "Domain": "Architecture"
+ },
+ {
+   "ID": "704",
+   "Projects": {
+     "Experience": "Develop and implement marketing strategies for a hospitality industry client"
+   },
+   "Skills": "Marketing Strategy, Hospitality Industry, Client Management",
+   "Domain": "Hospitality Management"
+ },
+ {
+   "ID": "705",
+   "Projects": {
+     "Experience": "Manage and coordinate construction projects for infrastructure development"
+   },
+   "Skills": "Construction Management, Infrastructure Development, Project Coordination",
+   "Domain": "Construction Management"
+ },
+ {
+   "ID": "706",
+   "Projects": {
+     "Experience": "Plan and implement educational programs for children with special needs"
+   },
+   "Skills": "Special Education, Program Planning, Child Development",
+   "Domain": "Special Education"
+ },
+ {
+   "ID": "707",
+   "Projects": {
+     "Experience": "Provide legal counsel and representation for immigration cases"
+   },
+   "Skills": "Immigration Law, Legal Representation, Counsel",
+   "Domain": "Immigration Law"
+ },
+ {
+   "ID": "708",
+   "Projects": {
+     "Experience": "Design and implement energy-efficient lighting solutions for commercial spaces"
+   },
+   "Skills": "Energy Efficiency, Lighting Solutions, Commercial Spaces",
+   "Domain": "Energy Efficiency"
+ },
+ {
+   "ID": "709",
+   "Projects": {
+     "Experience": "Coordinate and manage supply chain operations for a manufacturing company"
+   },
+   "Skills": "Supply Chain Management, Operations Coordination, Manufacturing",
+   "Domain": "Supply Chain Management"
+ },
+ {
+   "ID": "710",
+   "Projects": {
+     "Experience": "Conduct financial analysis and investment research for wealth management clients"
+   },
+   "Skills": "Financial Analysis, Investment Research, Wealth Management",
+   "Domain": "Wealth Management"
+ },
+ {
+   "ID": "711",
+   "Projects": {
+     "Experience": "Lead social media marketing campaigns for a non-profit organization"
+   },
+   "Skills": "Social Media Marketing, Non-Profit Management, Campaign Leadership",
+   "Domain": "Social Media Management"
+ },
+ {
+   "ID": "712",
+   "Projects": {
+     "Experience": "Manage and oversee operations for a chain of retail stores"
+   },
+   "Skills": "Retail Operations, Operations Management, Store Management",
+   "Domain": "Retail Management"
+ },
+ {
+   "ID": "713",
+   "Projects": {
+     "Experience": "Develop and implement corporate training programs for employee skill enhancement"
+   },
+   "Skills": "Training Program Development, Skill Enhancement, Corporate Training",
+   "Domain": "Corporate Training"
+ },
+ {
+   "ID": "714",
+   "Projects": {
+     "Experience": "Provide psychological counseling and therapy for individuals and groups"
+   },
+   "Skills": "Psychological Counseling, Group Therapy, Individual Counseling",
+   "Domain": "Psychology"
+ },
+ {
+   "ID": "715",
+   "Projects": {
+     "Experience": "Design and oversee construction of renewable energy infrastructure"
+   },
+   "Skills": "Renewable Energy, Infrastructure Construction, Project Oversight",
+   "Domain": "Renewable Energy"
+ },
+ {
+   "ID": "716",
+   "Projects": {
+     "Experience": "Plan and manage marketing campaigns for a technology startup"
+   },
+   "Skills": "Marketing Campaigns, Technology Startups, Campaign Management",
+   "Domain": "Technology Marketing"
+ },
+ {
+   "ID": "717",
+   "Projects": {
+     "Experience": "Manage and coordinate logistics for a global supply chain network"
+   },
+   "Skills": "Logistics Management, Global Supply Chain, Coordination",
+   "Domain": "Logistics Management"
+ },
+ {
+   "ID": "718",
+   "Projects": {
+     "Experience": "Lead environmental conservation projects for a conservation organization"
+   },
+   "Skills": "Environmental Conservation, Project Leadership, Conservation Strategies",
+   "Domain": "Environmental Conservation"
+ },
+ {
+   "ID": "719",
+   "Projects": {
+     "Experience": "Design and implement curriculum for online education platforms"
+   },
+   "Skills": "Curriculum Design, Online Education, Implementation",
+   "Domain": "Online Education"
+ },
+ {
+   "ID": "720",
+   "Projects": {
+     "Experience": "Manage and optimize digital marketing strategies for a software company"
+   },
+   "Skills": "Digital Marketing, Strategy Optimization, Software Industry",
+   "Domain": "Software Marketing"
+ },
+ {
+   "ID": "721",
+   "Projects": {
+     "Experience": "Coordinate and manage event logistics for corporate events"
+   },
+   "Skills": "Event Logistics, Corporate Events, Management",
+   "Domain": "Event Management"
+ },
+ {
+   "ID": "722",
+   "Projects": {
+     "Experience": "Design and implement landscape architecture for public parks"
+   },
+   "Skills": "Landscape Architecture, Park Design, Implementation",
+   "Domain": "Landscape Architecture"
+ },
+ {
+   "ID": "723",
+   "Projects": {
+     "Experience": "Manage and coordinate production operations for a manufacturing company"
+   },
+   "Skills": "Production Management, Operations Coordination, Manufacturing",
+   "Domain": "Production Management"
+ },
+ {
+   "ID": "724",
+   "Projects": {
+     "Experience": "Provide consulting services for organizational restructuring"
+   },
+   "Skills": "Consulting, Organizational Restructuring, Business Strategy",
+   "Domain": "Management Consulting"
+ },
+ {
+   "ID": "725",
+   "Projects": {
+     "Experience": "Design and oversee construction of road infrastructure projects"
+   },
+   "Skills": "Road Infrastructure, Construction Oversight, Civil Engineering",
+   "Domain": "Civil Engineering"
+ },
+ {
+   "ID": "726",
+   "Projects": {
+     "Experience": "Develop and implement marketing strategies for hospitality businesses"
+   },
+   "Skills": "Marketing Strategy, Hospitality Industry, Business Development",
+   "Domain": "Hospitality Marketing"
+ },
+ {
+   "ID": "727",
+   "Projects": {
+     "Experience": "Manage and optimize supply chain operations for a retail chain"
+   },
+   "Skills": "Supply Chain Management, Retail Operations, Optimization",
+   "Domain": "Supply Chain Management"
+ },
+ {
+   "ID": "728",
+   "Projects": {
+     "Experience": "Lead community development projects for a non-profit organization"
+   },
+   "Skills": "Community Development, Non-Profit Management, Project Leadership",
+   "Domain": "Community Development"
+ },
+ {
+   "ID": "729",
+   "Projects": {
+     "Experience": "Design and implement safety protocols for industrial facilities"
+   },
+   "Skills": "Safety Protocols, Industrial Facilities, Implementation",
+   "Domain": "Industrial Safety"
+ },
+ {
+   "ID": "730",
+   "Projects": {
+     "Experience": "Develop and manage educational programs for adult learners"
+   },
+   "Skills": "Program Management, Adult Education, Curriculum Development",
+   "Domain": "Adult Education"
+ },
+ {
+   "ID": "731",
+   "Projects": {
+     "Experience": "Provide legal advice and representation for immigration cases"
+   },
+   "Skills": "Immigration Law, Legal Representation, Immigration Cases",
+   "Domain": "Immigration Law"
+ },
+ {
+   "ID": "732",
+   "Projects": {
+     "Experience": "Design and implement renewable energy solutions for residential buildings"
+   },
+   "Skills": "Renewable Energy, Residential Buildings, Solution Design",
+   "Domain": "Renewable Energy Solutions"
+ },
+ {
+   "ID": "733",
+   "Projects": {
+     "Experience": "Develop and manage public health programs for disease prevention"
+   },
+   "Skills": "Public Health, Program Management, Disease Prevention",
+   "Domain": "Public Health"
+ },
+ {
+   "ID": "734",
+   "Projects": {
+     "Experience": "Coordinate and oversee construction projects for infrastructure development"
+   },
+   "Skills": "Construction Coordination, Infrastructure Development, Project Management",
+   "Domain": "Construction Management"
+ },
+ {
+   "ID": "735",
+   "Projects": {
+     "Experience": "Plan and execute marketing campaigns for technology startups"
+   },
+   "Skills": "Marketing, Campaign Planning, Technology Startups",
+   "Domain": "Technology Marketing"
+ },
+ {
+   "ID": "736",
+   "Projects": {
+     "Experience": "Manage and optimize digital advertising campaigns for e-commerce businesses"
+   },
+   "Skills": "Digital Advertising, E-commerce, Campaign Optimization",
+   "Domain": "Digital Advertising"
+ },
+ {
+   "ID": "737",
+   "Projects": {
+     "Experience": "Design and implement irrigation systems for agricultural farms"
+   },
+   "Skills": "Irrigation Systems, Agricultural Farms, System Design",
+   "Domain": "Agricultural Engineering"
+ },
+ {
+   "ID": "738",
+   "Projects": {
+     "Experience": "Lead customer service teams for a multinational corporation"
+   },
+   "Skills": "Customer Service Management, Multinational Corporations, Leadership",
+   "Domain": "Customer Service"
+ },
+ {
+   "ID": "739",
+   "Projects": {
+     "Experience": "Develop and implement marketing strategies for tourism destinations"
+   },
+   "Skills": "Tourism Marketing, Destination Marketing, Strategy Development",
+   "Domain": "Tourism Marketing"
+ },
+ {
+   "ID": "740",
+   "Projects": {
+     "Experience": "Manage and coordinate event logistics for large-scale conferences"
+   },
+   "Skills": "Event Logistics, Conference Management, Coordination",
+   "Domain": "Event Management"
+ },
+ {
+   "ID": "741",
+   "Projects": {
+     "Experience": "Provide financial consulting services for small businesses"
+   },
+   "Skills": "Financial Consulting, Small Business Management, Consulting Services",
+   "Domain": "Financial Consulting"
+ },
+ {
+   "ID": "742",
+   "Projects": {
+     "Experience": "Lead community outreach programs for an environmental conservation organization"
+   },
+   "Skills": "Community Outreach, Environmental Conservation, Program Leadership",
+   "Domain": "Community Outreach"
+ },
+ {
+   "ID": "743",
+   "Projects": {
+     "Experience": "Design and implement urban transportation systems for efficient city mobility"
+   },
+   "Skills": "Urban Transportation, Transportation Systems, City Planning",
+   "Domain": "Urban Planning"
+ },
+ {
+   "ID": "744",
+   "Projects": {
+     "Experience": "Lead marketing campaigns for a tourism destination to increase visitor numbers"
+   },
+   "Skills": "Marketing, Tourism, Campaign Management",
+   "Domain": "Tourism Marketing"
+ },
+ {
+   "ID": "745",
+   "Projects": {
+     "Experience": "Coordinate and manage facilities maintenance for a large corporate office"
+   },
+   "Skills": "Facilities Management, Maintenance Coordination, Corporate Facilities",
+   "Domain": "Facilities Management"
+ },
+ {
+   "ID": "746",
+   "Projects": {
+     "Experience": "Develop and implement employee training programs for workplace safety"
+   },
+   "Skills": "Training Program Development, Workplace Safety, Employee Education",
+   "Domain": "Workplace Safety"
+ },
+ {
+   "ID": "747",
+   "Projects": {
+     "Experience": "Provide legal counsel and representation for immigration cases"
+   },
+   "Skills": "Legal Counsel, Immigration Law, Representation",
+   "Domain": "Immigration Law"
+ },
+ {
+   "ID": "748",
+   "Projects": {
+     "Experience": "Design and oversee construction of water treatment plants for municipalities"
+   },
+   "Skills": "Water Treatment, Plant Construction, Civil Engineering",
+   "Domain": "Civil Engineering"
+ },
+ {
+   "ID": "749",
+   "Projects": {
+     "Experience": "Lead business development efforts for a consulting firm specializing in sustainability"
+   },
+   "Skills": "Business Development, Consulting, Sustainability",
+   "Domain": "Sustainability Consulting"
+ },
+ {
+   "ID": "750",
+   "Projects": {
+     "Experience": "Develop and implement curriculum for environmental education programs"
+   },
+   "Skills": "Curriculum Development, Environmental Education, Program Implementation",
+   "Domain": "Environmental Education"
+ }      
+]

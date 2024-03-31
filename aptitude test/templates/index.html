@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Akshar:wght@300..700&display=swap" rel="stylesheet">
+    <title>Aptitude Test</title>
+    <style>
+        * {
+            font-family: "Akshar";
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #F6E6FF;
+        }
+
+
+        .akshar {
+            font-family: "Akshar", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 450;
+            font-style: normal;
+        }
+
+        .container {
+            padding: 20px;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .question {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            color: #293264;
+            text-align: center;
+        }
+
+        .question-id {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 5px;
+            display: inline;
+        }
+
+        .question-id,
+        .question {
+            display: inline-block;
+            text-align: center;
+            font-size: 2rem;
+        }
+
+        #question-container {
+            order: 1px solid #eae6ff;
+            padding: 20px;
+            border-radius: 20px;
+            background-color: #eae6ff;
+            box-shadow: 3px 7px 20px 0px #b7b9be;
+
+        }
+
+        .options input[type='radio'] {
+            margin-right: 10px;
+            color: #293264;
+        }
+
+        .buttons {
+            margin-top: 5%;
+            text-align: center;
+        }
+
+        .buttons button {
+            padding: 10px 20px;
+            margin-right: 10px;
+            cursor: pointer;
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        }
+
+        .buttons button:hover {
+            background-color: #45a049;
+        }
+
+        .score {
+            font-size: 24px;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+
+        .error-message {
+            color: red;
+            margin-top: 10px;
+            text-align: center;
+            font-size: 2rem;
+        }
+
+        .radio-button-container {
+            display: flex;
+            align-items: center;
+            gap: 24px;
+        }
+
+        .radio-button {
+            display: inline-block;
+            position: relative;
+            cursor: pointer;
+        }
+
+        .radio-button__input {
+            position: absolute;
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+
+        .radio-button__label {
+            display: inline-block;
+            padding-left: 30px;
+            margin-bottom: 10px;
+            position: relative;
+            font-size: 1.5rem;
+            color: black;
+            font-weight: 600;
+            cursor: pointer;
+            text-transform: uppercase;
+            transition: all 0.3s ease;
+        }
+
+        .radio-button__custom {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            border: 2px solid #555;
+            transition: all 0.3s ease;
+        }
+
+        .radio-button__input:checked+.radio-button__label .radio-button__custom {
+            background-color: #4c8bf5;
+            border-color: transparent;
+            transform: scale(0.8);
+            box-shadow: 0 0 20px #4c8bf580;
+        }
+
+        .radio-button__input:checked+.radio-button__label {
+            color: #4c8bf5;
+        }
+
+        .radio-button__label:hover .radio-button__custom {
+            transform: scale(1.2);
+            border-color: #4c8bf5;
+            box-shadow: 0 0 20px #4c8bf580;
+        }
+
+        .solution-card {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+            background-color: #f3f3ff;
+            padding: 20px;
+        }
+
+        .correct-answer {
+            color: green;
+            font-weight: bold;
+        }
+
+        .incorrect-answer {
+            color: red;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="subcontainer">
+            <div id="question-container">
+                <p class="question-id akshar"></p>
+                <p class="question akshar"></p>
+                <div class="options akshar"></div>
+                <div class="error-message" id="error-message" style="display: none;">Selecting an option is mandatory.
+                </div>
+            </div>
+            <div class="buttons">
+                <button id="prev-btn" onclick="prevQuestion()">Previous</button>
+                <button class="akshar" id="next-btn" onclick="nextQuestion()">Next</button>
+                <button id="submit-btn" style="display: none;" onclick="submitQuiz()">Submit</button>
+                <button id="retake-btn" style="display: none;" onclick="retakeQuiz()">Retake</button>
+                <button id="view-solution-btn" style="display: none;" onclick="viewSolution()">View Solution</button>
+            </div>
+            <div id="score" class="score" style="display: none;"></div>
+            <canvas id="chart" width="400" height="400"></canvas>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
+    <script>
+        var quizData;
+        var currentQuestionIndex = 0;
+        var userAnswers = [];
+
+        $(document).ready(function () {
+            // Simulated AJAX call to get quiz data
+            // Replace this with your actual API call
+            $.getJSON('/get_quiz_data', function (data) {
+                quizData = data;
+                renderQuiz();
+            });
+        });
+
+        function renderQuiz() {
+            var questionContainer = $('#question-container');
+            var currentQuestion = quizData.result.quizzes[0].questions[currentQuestionIndex];
+
+            questionContainer.find('.question-id').text('Q' + (currentQuestionIndex + 1) + '. ');
+            questionContainer.find('.question').text(currentQuestion.text);
+
+            var optionsHtml = '';
+            currentQuestion.options.forEach(function (option, index) {
+                var checked = userAnswers[currentQuestionIndex] === option.value ? 'checked' : '';
+                optionsHtml += '<input type="radio" class="radio-button__input" id="radio' + index + '" name="radio-group" value="' + option.value + '" ' + checked + ' onclick="recordAnswer(\'' + option.value + '\')"> ';
+                optionsHtml += '<label class="radio-button__label" for="radio' + index + '">';
+                optionsHtml += '<span class="radio-button__custom"></span>';
+                optionsHtml += option.detail;
+                optionsHtml += '</label><br>';
+            });
+            questionContainer.find('.options').html(optionsHtml);
+
+            var submitButton = $('#submit-btn');
+            var retakeButton = $('#retake-btn');
+            var prevButton = $('#prev-btn');
+            var nextButton = $('#next-btn');
+
+            if (currentQuestionIndex === 0) {
+                prevButton.hide();
+            } else {
+                prevButton.show();
+            }
+
+            if (currentQuestionIndex === quizData.result.quizzes[0].questions.length - 1) {
+                submitButton.show();
+                nextButton.hide();
+            } else {
+                submitButton.hide();
+                nextButton.show();
+            }
+        }
+
+
+        function prevQuestion() {
+            if (currentQuestionIndex > 0) {
+                currentQuestionIndex--;
+                renderQuiz();
+            }
+        }
+
+        function nextQuestion() {
+            var selectedOption = $("input[name='radio-group']:checked").val();
+            if (selectedOption !== undefined && selectedOption !== null) {
+                $('#error-message').hide();
+                userAnswers[currentQuestionIndex] = selectedOption;
+                if (currentQuestionIndex < quizData.result.quizzes[0].questions.length - 1) {
+                    currentQuestionIndex++;
+                    renderQuiz();
+                } else {
+                    $('#submit-btn').show();
+                }
+            } else {
+                $('#error-message').show().text('Selecting an option is mandatory.');
+            }
+        }
+
+        function submitQuiz() {
+            calculateScore();
+            renderPieChart();
+            var submitButton = $('#submit-btn');
+            var retakeButton = $('#retake-btn');
+            var nextButton = $('#next-btn');
+            submitButton.hide(); // Hide submit button
+            retakeButton.show(); // Show retake button
+            nextButton.hide(); // Hide next button
+            renderQuiz(); // Render quiz to display score and retake button
+        }
+
+
+        function retakeQuiz() {
+            $('#score').hide();
+            $('#retake-btn').hide();
+            currentQuestionIndex = 0;
+            userAnswers = [];
+            renderQuiz();
+        }
+
+        function viewSolution() {
+            var solutionHtml = '<h3>Solution</h3>';
+            var questions = quizData.result.quizzes[0].questions;
+
+            for (var i = 0; i < questions.length; i++) {
+                var correctAnswer = questions[i].options.find(option => option.correct);
+                var userAnswer = userAnswers[i];
+                var isCorrect = userAnswer === correctAnswer.value;
+
+                // Set card background color based on correctness
+                var cardColor = isCorrect ? 'lightgreen' : 'lightcoral';
+
+                solutionHtml += '<div class="solution-card" style="background-color: #E6EFFF;">';
+                solutionHtml += '<div class="card-content">';
+                solutionHtml += '<p><strong>Question ' + (i + 1) + ': </strong>' + questions[i].text + '</p>';
+
+                if (isCorrect) {
+                    solutionHtml += '<p>Your answer: <span class="correct-answer">' + userAnswer + ' (Correct)</span></p>';
+                } else {
+                    solutionHtml += '<p>Your answer: <span class="incorrect-answer">' + userAnswer + ' (Incorrect)</span></p>';
+                }
+
+                solutionHtml += '<p>Correct answer: <span class="correct-answer">' + correctAnswer.value + '. ' + correctAnswer.detail + '</span></p>';
+
+                solutionHtml += '</div>'; // Closing card-content
+                solutionHtml += '</div>'; // Closing solution-card
+            }
+
+            $('#score').html(solutionHtml);
+            $('#score').show();
+            $('#chart').hide();
+        }
+
+        function calculateScore() {
+            var correctAnswers = quizData.result.quizzes[0].questions.map(function (question) {
+                return question.options.find(function (option) {
+                    return option.correct === true;
+                }).value;
+            });
+
+            var score = 0;
+            for (var i = 0; i < userAnswers.length; i++) {
+                if (userAnswers[i] === correctAnswers[i]) {
+                    score++;
+                }
+            }
+
+            var scoreDisplay = $('#score');
+            scoreDisplay.text('Your Score: ' + score + ' / ' + userAnswers.length);
+            scoreDisplay.show();
+
+            $('#view-solution-btn').show();
+        }
+
+        function recordAnswer(value) {
+            userAnswers[currentQuestionIndex] = value;
+        }
+
+        function renderPieChart() {
+            var correctCount = 0;
+            var incorrectCount = 0;
+            var correctAnswers = quizData.result.quizzes[0].questions.map(function (question) {
+                return question.options.find(function (option) {
+                    return option.correct === true;
+                }).value;
+            });
+
+            for (var i = 0; i < userAnswers.length; i++) {
+                if (userAnswers[i] === correctAnswers[i]) {
+                    correctCount++;
+                } else {
+                    incorrectCount++;
+                }
+            }
+
+            var ctx = document.getElementById('chart').getContext('2d');
+            var myChart = new Chart(ctx, {
+                type: 'pie',
+                data: {
+                    labels: ['Correct', 'Incorrect'],
+                    datasets: [{
+                        label: 'Performance Analysis',
+                        data: [correctCount, incorrectCount],
+                        backgroundColor: [
+                            'rgba(75, 192, 192, 0.2)',
+                            'rgba(255, 99, 132, 0.2)'
+                        ],
+                        borderColor: [
+                            'rgba(75, 192, 192, 1)',
+                            'rgba(255, 99, 132, 1)'
+                        ],
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: false,
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: 'Performance Analysis'
+                        }
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+
+</html>

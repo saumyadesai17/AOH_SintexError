@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DSA Topic Selection</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <!-- Importing Google Fonts -->
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            max-height: 100vh;
+            font-family: "NotoSans";
+        }
+        body {
+            font-family: 'Roboto', sans-serif;
+            /* Applying Google Font */
+            font-size: 16px;
+            display: flex;
+            /* Use flexbox for layout */
+        }
+
+        @font-face {
+            font-family: "NotoSans";
+            src:
+                local("NotoSans"),
+                url("NotoSansMono-VariableFont_wdth,wght.ttf") format("opentype") tech(color-COLRv1),
+                url("trickster-outline.otf") format("opentype"),
+                url("trickster-outline.woff") format("woff");
+        }
+
+        .separator {
+            width: 5px;
+            height: 100vh;
+            background-color: #007bff;
+            /* Blue separator color */
+        }
+
+        .left-panel,
+        .right-panel {
+            /* height: 100vh; */
+            /* Full viewport height */
+            overflow: auto;
+            /* Enable scrolling if content exceeds viewport height */
+            flex: 1;
+            /* Distribute remaining space equally */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .left-panel {
+            display: flex;
+            flex-direction: column;
+            gap: 3rem;
+            background-color: #333;
+            /* Dark background color for left panel */
+            color: #fff;
+            /* White text color */
+            padding: 20px;
+            /* Add padding for better appearance */
+            text-align: center;
+        }
+
+        .heading {
+            font-size: 5em;
+            /* Big font size for the heading */
+            margin-bottom: 20px;
+            /* Add some space at the bottom */
+            overflow: hidden;
+            /* Hide overflow */
+            white-space: nowrap;
+            /* Keep text in a single line */
+            color: #fff;
+            /* White text color */
+        }
+
+        .right-panel {
+            background-color: #f8f8f8;
+            /* Light background color for right panel */
+            padding: 20px;
+            /* Add padding for better appearance */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .menu {
+            list-style: none;
+        }
+
+        .menu-container {
+            margin-bottom: 20px;
+            /* Add some space at the bottom */
+        }
+
+        .menu-container:last-child {
+            margin-bottom: 0;
+            /* Remove bottom margin for the last menu container */
+        }
+
+        .menu li label {
+            font-weight: bold;
+            display: block;
+            margin-bottom: 5px;
+            color: #333;
+            /* Dark text color */
+        }
+
+        select {
+            width: 100%;
+            padding: 10px;
+            border-radius: 5px;
+            background-color: #fff;
+            transition: border-color 0.3s ease-in-out;
+            /* Smooth transition for border color */
+            font-size: large;
+        }
+
+        select:hover,
+        select:focus {
+            outline: none;
+            /* Remove default focus outline */
+        }
+
+        button[type="submit"] {
+            padding: 10px 20px;
+            /* Adjust padding to fit content */
+            border-radius: 15rem;
+            border: none;
+            background-color: #007bff;
+            /* Blue button color */
+            color: #ffffff;
+            cursor: pointer;
+            transition: background-color 0.3s ease-in-out;
+            /* Smooth button transition */
+            width: fit-content;
+            /* Make button width fit content */
+            align-self: center;
+            /* Center horizontally */
+            font-size: large;
+        }
+
+        button[type="submit"]:hover {
+            background-color: #0056b3;
+            /* Darker blue on hover */
+        }
+
+        #practice {
+            font-size: 2em;
+            /* Font size for practice paragraph */
+            color: #333;
+            /* Dark text color */
+        }
+
+        .typing-effect {
+            display: inline-block;
+            border-right: 3px solid #fff;
+            /* Cursor effect */
+            padding-right: 5px;
+            /* Add space for cursor */
+            animation: typing 3s steps(40) infinite;
+        }
+
+        .container p {
+            font-size: 3rem;
+            padding: 0.5rem;
+            font-weight: bold;
+            letter-spacing: 0.1rem;
+            text-align: center;
+            overflow: hidden;
+        }
+
+        .container p span.typed-text {
+            font-weight: normal;
+            color: #dd7732;
+        }
+
+        .container p span.cursor {
+            display: inline-block;
+            background-color: #ccc;
+            margin-left: 0.1rem;
+            width: 3px;
+            animation: blink 1s infinite;
+        }
+
+        .container p span.cursor.typing {
+            animation: none;
+        }
+
+        .typing-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .input-cursor {
+            display: inline-block;
+            width: 2px;
+            height: 42px;
+            background-color: white;
+            margin-left: 8px;
+            animation: blink .6s linear infinite alternate;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 3rem;
+            justify-content: center;
+            font-size: xxx-large;
+        }
+
+        #sentence {
+            color: #c7d0ff;
+            font-size: 5rem;
+            font-weight: 400;
+            font-family: "NotoSans";
+        }
+
+        @keyframes blink {
+            0% {
+                background-color: #ccc;
+            }
+
+            49% {
+                background-color: #ccc;
+            }
+
+            50% {
+                background-color: transparent;
+            }
+
+            99% {
+                background-color: transparent;
+            }
+
+            100% {
+                background-color: #ccc;
+            }
+        }
+
+        @keyframes typing {
+            from {
+                width: 0;
+            }
+
+            to {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="left-panel">
+        <div class="typing-container">
+            <span id="sentence" class="sentence">DSA QUESTIONS</span>
+            <span class="cursor"></span>
+        </div>
+        <div class="container">
+            <p>Practice <span class="typed-text"></span><span class="cursor">&nbsp;</span></p>
+        </div>
+    </div>
+    <div class="separator"></div>
+    <div class="right-panel">
+        <form id="dsaForm" action="/generate_question" method="post">
+            <ul class="menu">
+                <li>
+                    <label for="topic">Select a DSA Topic:</label>
+                    <select id="topic" name="topic">
+                        <option value="arrays">Arrays</option>
+                        <option value="linked-lists">Linked Lists</option>
+                        <option value="stacks">Stacks</option>
+                        <option value="queues">Queues</option>
+                        <option value="trees">Trees</option>
+                        <option value="graph">Graph</option>
+                        <option value="dynamic-programming">Dynamic Programming</option>
+                    </select>
+                </li>
+            </ul>
+            <ul class="menu">
+                <li>
+                    <label for="level">Select Difficulty Level:</label>
+                    <select id="level" name="level">
+                        <option value="beginner">Beginner</option>
+                        <option value="intermediate">Intermediate</option>
+                        <option value="advanced">Advanced</option>
+                    </select>
+                </li>
+            </ul>
+            <button type="submit">Generate Question</button>
+        </form>
+    </div>
+
+    <script>
+        const typedTextSpan = document.querySelector(".typed-text");
+        const typedTextSpan2 = document.querySelector(".sentence");
+        const cursorSpan = document.querySelector(".cursor");
+
+        const textArray = ['Arrays', 'Linked Lists', 'Stacks', 'Queues', 'Trees', 'Graphs', 'Dynamic Programming'];
+        const textArray2 = ['DSA QUESTIONS', 'DSA QUESTIONS', 'DSA QUESTIONS', 'DSA QUESTIONS', 'DSA QUESTIONS', 'DSA QUESTIONS'];
+        const typingDelay = 100;
+        const erasingDelay = 100;
+        const newTextDelay = 1000; // Delay between current and next text
+        let textArrayIndex = 0;
+        let charIndex = 0;
+        let textArrayIndex2 = 0;
+        let charIndex2 = 0;
+
+        function type() {
+            if (charIndex < textArray[textArrayIndex].length) {
+                if (!cursorSpan.classList.contains("typing")) cursorSpan.classList.add("typing");
+                typedTextSpan.textContent += textArray[textArrayIndex].charAt(charIndex);
+                charIndex++;
+                setTimeout(type, typingDelay);
+            }
+            else {
+                cursorSpan.classList.remove("typing");
+                setTimeout(erase, newTextDelay);
+            }
+        }
+
+        function erase() {
+            if (charIndex > 0) {
+                if (!cursorSpan.classList.contains("typing")) cursorSpan.classList.add("typing");
+                typedTextSpan.textContent = textArray[textArrayIndex].substring(0, charIndex - 1);
+                charIndex--;
+                setTimeout(erase, erasingDelay);
+            }
+            else {
+                cursorSpan.classList.remove("typing");
+                textArrayIndex++;
+                if (textArrayIndex >= textArray.length) textArrayIndex = 0;
+                setTimeout(type, typingDelay + 500);
+            }
+        }
+
+        document.addEventListener("DOMContentLoaded", function () { // On DOM Load initiate the effect
+            if (textArray.length) setTimeout(type, newTextDelay + 250);
+        });
+
+
+    </script>
+</body>
+
+</html>

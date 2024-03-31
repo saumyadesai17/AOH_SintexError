@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Code Editor</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+ 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/themes/prism.min.css">
+</head>
+<body>
+  <header>
+    <h1>DSA Practice</h1>
+  </header>
+  <div class="container">
+    <div class="question-pane">
+      
+      <div class="question">{{ question|safe }}</div>
+      <div class="solution">{{ ai_solution|safe }}</div>
+
+    </div>
+    <div class="separator"></div>
+    <div class="editor-pane">
+       
+        <form action="/code_editor" method="post">
+            
+            <input type="hidden" name="question" value="{{ question }}">
+            
+            <pre id="code-highlight" class="language-javascript" style="display: none;"></pre>
+          
+            <textarea id="code" name="code" placeholder="Enter your code here..."></textarea>
+            <button type="submit" id="run-button">Run</button>
+        </form>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+  <!-- Include Prism.js for syntax highlighting -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/components/prism-core.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/plugins/autoloader/prism-autoloader.min.js"></script>
+</body>
+</html>
