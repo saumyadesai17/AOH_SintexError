@@ -1,16 +1,5 @@
 var btn = document.getElementById("open-btn")
 var icon = document.getElementById('chatIcon')
-// var demo = 'Grab Your Dream Company...'
-
-// var i = 0;
-// var speed = 100;
-// function typeWriter() {
-//     if (i < demo.length) {
-//         document.getElementById("text").innerHTML += demo.charAt(i);
-//         i++;
-//         setTimeout(typeWriter, speed);
-//     }
-// }
 
 $(document).ready(function(){
 
