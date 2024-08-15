@@ -1,3 +1,11 @@
+# 🌟 PlaceEase: A Comprehensive Placement Preparation Platform
+
+**PlaceEase** is an innovative platform designed to assist job seekers in preparing for placements. By integrating advanced technologies such as AI, machine learning, and deep learning, PlaceEase offers a range of personalized tools and resources to enhance your placement journey.
+
+---
+
+## 🚀 Features
+
 ### 1. 📚 *Project Recommendation*
    - Analyze your resume to suggest projects that can enhance your profile.
    - Match your skills and experience with suitable project ideas to strengthen your resume.
