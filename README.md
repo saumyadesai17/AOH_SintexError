@@ -51,7 +51,7 @@
 
 1. *Clone the Repository:*
    ```bash
-   git clone https://github.com/saumyadesai17/AOH_SintexError.git
+   git clone https://github.com/saumyadesai17/PlacEase.git
    ```
 2. *Navigate to the Project Directory:*
    ```bash
